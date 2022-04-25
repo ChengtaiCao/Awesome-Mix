@@ -1,4 +1,7 @@
-### Papers
+# Papers
 
-1.  [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
-2.  [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+## Bese Method
+1.  Mixup: [Mixup: Beyond Empirical Risk Minimization](https://arxiv.org/pdf/1710.09412)
+
+## Variants
+1.  wordMixup & senMixup: [Augmenting Data with Mixup for Sentence Classification: An Empirical Study](https://arxiv.org/pdf/1905.08941.pdf) [NLP]
