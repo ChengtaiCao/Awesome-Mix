@@ -19,7 +19,11 @@
 3.  
 
 # Code Repositories
-1. BC Learning: https://github.com/mil-tokyo/bc_learning_image & https://github.com/mil-tokyo/bc_learning_sound
+1. Mixip: https://github.com/facebookresearch/mixup-cifar10
+2. Framework: https://github.com/ceciliaresearch/MixedExample
+3. CutMix: https://github.com/clovaai/CutMix-PyTorch
+4. RICAP*: https://github.com/4uiiurz1/pytorch-ricap
+5. BC Learning: https://github.com/mil-tokyo/bc_learning_image & https://github.com/mil-tokyo/bc_learning_sound
 
 
 
