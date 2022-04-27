@@ -27,8 +27,6 @@
 5. BC: https://github.com/mil-tokyo/bc_learning_sound
 6. BC+: https://github.com/mil-tokyo/bc_learning_image
 
-
-
 ## Keys
 1.  Number of samples for mixup == 2;
 2.  Data Augment v.s. Regularization --> Mixup v.s. Weight Decay;
