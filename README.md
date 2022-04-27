@@ -8,6 +8,7 @@
 1.  CutMix: [CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf) [2019; CV, Adversarial Example, Uncertainty]
 2.  RICAP: [RICAP: Random Image Cropping and Patching Data Augmentation for Deep CNNs](http://proceedings.mlr.press/v95/takahashi18a/takahashi18a.pdf) [2018, CV]
 3.  BC: [Learning from Between-Class Examples for Deep Sound Recognition](https://arxiv.org/pdf/1711.10282.pdf) [2018, Sound]
+4.  Manifold Mixup: [Manifold Mixup: Better Representations by Interpolating Hidden States](http://proceedings.mlr.press/v97/verma19a/verma19a.pdf) [2019, CV]
 
 
 ## Others
@@ -28,6 +29,7 @@
 4. RICAP*: https://github.com/4uiiurz1/pytorch-ricap
 5. BC: https://github.com/mil-tokyo/bc_learning_sound
 6. BC+: https://github.com/mil-tokyo/bc_learning_image
+7. Manifold Mixup: https://github.com/vikasverma1077/manifold_mixup
 
 ## Keys
 1.  Number of samples for mixup == 2;
