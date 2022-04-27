@@ -14,7 +14,9 @@
 1.  SamplePairing: [Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/pdf/1801.02929) [2018; CV]
 
 ## Applications
+### CV
 1.  BC+: [Between-class Learning for Image Classification](https://openaccess.thecvf.com/content_cvpr_2018/papers/Tokozume_Between-Class_Learning_for_CVPR_2018_paper.pdf) (2018; CV)
+### NLP
 2.  wordMixup & senMixup: [Augmenting Data with Mixup for Sentence Classification: An Empirical Study](https://arxiv.org/pdf/1905.08941.pdf) [2019; NLP]
 
 
