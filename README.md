@@ -19,7 +19,7 @@
 
 
 # Code Repositories
-\* denotes the code is reimplemented by others.
+{_Method_}\* denotes the code of _Method_ is reimplemented by others.
 1. Mixip: https://github.com/facebookresearch/mixup-cifar10
 2. Framework: https://github.com/ceciliaresearch/MixedExample
 3. CutMix: https://github.com/clovaai/CutMix-PyTorch
