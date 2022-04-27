@@ -14,16 +14,18 @@
 1.  SamplePairing: [Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/pdf/1801.02929) [2018; CV]
 
 ## Applications
-1.  BC & BC+: [Between-class Learning for Image Classification](https://openaccess.thecvf.com/content_cvpr_2018/papers/Tokozume_Between-Class_Learning_for_CVPR_2018_paper.pdf) (2018; CV)
+1.  BC+: [Between-class Learning for Image Classification](https://openaccess.thecvf.com/content_cvpr_2018/papers/Tokozume_Between-Class_Learning_for_CVPR_2018_paper.pdf) (2018; CV)
 2.  wordMixup & senMixup: [Augmenting Data with Mixup for Sentence Classification: An Empirical Study](https://arxiv.org/pdf/1905.08941.pdf) [2019; NLP]
-3.  
+
 
 # Code Repositories
+* denotes the code is reimplemented by others.
 1. Mixip: https://github.com/facebookresearch/mixup-cifar10
 2. Framework: https://github.com/ceciliaresearch/MixedExample
 3. CutMix: https://github.com/clovaai/CutMix-PyTorch
 4. RICAP*: https://github.com/4uiiurz1/pytorch-ricap
-5. BC Learning: https://github.com/mil-tokyo/bc_learning_image & https://github.com/mil-tokyo/bc_learning_sound
+5. BC: https://github.com/mil-tokyo/bc_learning_sound
+6. BC+: https://github.com/mil-tokyo/bc_learning_image
 
 
 
