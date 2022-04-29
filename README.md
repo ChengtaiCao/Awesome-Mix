@@ -9,16 +9,20 @@
 2.  RICAP: [RICAP: Random Image Cropping and Patching Data Augmentation for Deep CNNs](http://proceedings.mlr.press/v95/takahashi18a/takahashi18a.pdf) [2018, CV]
 3.  BC: [Learning from Between-Class Examples for Deep Sound Recognition](https://arxiv.org/pdf/1711.10282.pdf) [2018, Sound]
 4.  Manifold Mixup: [Manifold Mixup: Better Representations by Interpolating Hidden States](http://proceedings.mlr.press/v97/verma19a/verma19a.pdf) [2019, CV]
+5.  AdaMixUp: [MixUp as Locally Linear Out-of-Manifold Regularization](https://ojs.aaai.org/index.php/AAAI/article/download/4256/4134) [2019, CV]
 
 
 ## Others
 1.  SamplePairing: [Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/pdf/1801.02929) [2018; CV]
+2.  Cutout: [Improved Regularization of Convolutional Neural Networks with Cutout](https://arxiv.org/pdf/1708.04552.pdf)
 
 ## Applications
 ### CV
 1.  BC+: [Between-class Learning for Image Classification](https://openaccess.thecvf.com/content_cvpr_2018/papers/Tokozume_Between-Class_Learning_for_CVPR_2018_paper.pdf) (2018; CV)
 ### NLP
-2.  wordMixup & senMixup: [Augmenting Data with Mixup for Sentence Classification: An Empirical Study](https://arxiv.org/pdf/1905.08941.pdf) [2019; NLP]
+1.  wordMixup & senMixup: [Augmenting Data with Mixup for Sentence Classification: An Empirical Study](https://arxiv.org/pdf/1905.08941.pdf) [2019; NLP]
+### Semi-Supervised
+1.  ICT: [Interpolation Consistency Training for Semi-Supervised Learning](https://arxiv.org/pdf/1903.03825.pdf?ref=https://githubhelp.com) [2019; CV]
 
 
 # Code Repositories
@@ -30,6 +34,9 @@
 5. BC: https://github.com/mil-tokyo/bc_learning_sound
 6. BC+: https://github.com/mil-tokyo/bc_learning_image
 7. Manifold Mixup: https://github.com/vikasverma1077/manifold_mixup
+8. ICT: https://github.com/vikasverma1077/ICT
+9. AdaMixUp*: https://github.com/SITE5039/AdaMixUp
+10. Cutout: https://github.com/uoguelph-mlrg/Cutout.
 
 ## Keys
 1.  Number of samples for mixup == 2;
