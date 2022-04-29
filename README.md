@@ -23,6 +23,8 @@
 1.  wordMixup & senMixup: [Augmenting Data with Mixup for Sentence Classification: An Empirical Study](https://arxiv.org/pdf/1905.08941.pdf) [2019; NLP]
 ### Semi-Supervised
 1.  ICT: [Interpolation Consistency Training for Semi-Supervised Learning](https://arxiv.org/pdf/1903.03825.pdf?ref=https://githubhelp.com) [2019; CV]
+### Unsupervised: 
+1.  AMR: [On Adversarial Mixup Resynthesis](https://proceedings.neurips.cc/paper/2019/file/f708f064faaf32a43e4d3c784e6af9ea-Paper.pdf) [2019; AE, GAN, CV]
 
 
 # Code Repositories
@@ -36,7 +38,8 @@
 7. Manifold Mixup: https://github.com/vikasverma1077/manifold_mixup
 8. ICT: https://github.com/vikasverma1077/ICT
 9. AdaMixUp*: https://github.com/SITE5039/AdaMixUp
-10. Cutout: https://github.com/uoguelph-mlrg/Cutout.
+10. Cutout: https://github.com/uoguelph-mlrg/Cutout
+11. AMR: https://github.com/christopher-beckham/amr
 
 ## Keys
 1.  Number of samples for mixup == 2;
