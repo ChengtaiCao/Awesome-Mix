@@ -26,7 +26,8 @@
 1.  ICT: [Interpolation Consistency Training for Semi-Supervised Learning](https://arxiv.org/pdf/1903.03825.pdf?ref=https://githubhelp.com) [2019; CV]
 2.  MixMatch: [MixMatch: A Holistic Approach to Semi-Supervised Learning](https://proceedings.neurips.cc/paper/2019/file/1cd138d0499a68f4bb72bee04bbec2d7-Paper.pdf) [2019; CV]
 ### Unsupervised: 
-1.  AMR: [On Adversarial Mixup Resynthesis](https://proceedings.neurips.cc/paper/2019/file/f708f064faaf32a43e4d3c784e6af9ea-Paper.pdf) [2019; AE, GAN, CV]
+1.  ACAI: [Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer](https://arxiv.org/pdf/1807.07543.pdf) [2019; AE, GAN, CV]
+2.  AMR: [On Adversarial Mixup Resynthesis](https://proceedings.neurips.cc/paper/2019/file/f708f064faaf32a43e4d3c784e6af9ea-Paper.pdf) [2019; AE, GAN, CV]
 
 
 # Code Repositories
@@ -43,6 +44,7 @@
 10. Cutout: https://github.com/uoguelph-mlrg/Cutout
 11. AMR: https://github.com/christopher-beckham/amr
 12. MixMatch: https://github.com/google-research/mixmatch
+13. ACAI: https://github.com/brain-research/acai
 
 ## Keys
 1.  Number of samples for mixup == 2;
