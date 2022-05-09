@@ -28,6 +28,9 @@
 ### Unsupervised: 
 1.  ACAI: [Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer](https://arxiv.org/pdf/1807.07543.pdf) [2019; AE, GAN, CV]
 2.  AMR: [On Adversarial Mixup Resynthesis](https://proceedings.neurips.cc/paper/2019/file/f708f064faaf32a43e4d3c784e6af9ea-Paper.pdf) [2019; AE, GAN, CV]
+### Domain Adaptation 
+1.  VMT: [Virtual Mixup Training for Unsupervised Domain Adaptation](https://arxiv.org/pdf/1905.04215.pdf) [2019; CV]
+2.  DMRL: [Dual Mixup Regularized Learning for Adversarial Domain Adaptation](https://arxiv.org/pdf/2007.03141) [2020; CV]
 
 
 # Code Repositories
@@ -45,6 +48,8 @@
 11. AMR: https://github.com/christopher-beckham/amr
 12. MixMatch: https://github.com/google-research/mixmatch
 13. ACAI: https://github.com/brain-research/acai
+14. VMT: https://github.com/xudonmao/VMT
+15. DMRL: https://github.com/YuanWu3/Dual-Mixup-Regularized-Learning-for-Adversarial-Domain-Adaptation
 
 ## Keys
 1.  Number of samples for mixup == 2;
