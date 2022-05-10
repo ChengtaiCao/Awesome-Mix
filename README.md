@@ -31,6 +31,7 @@
 ### Domain Adaptation 
 1.  VMT: [Virtual Mixup Training for Unsupervised Domain Adaptation](https://arxiv.org/pdf/1905.04215.pdf) [2019; CV]
 2.  DMRL: [Dual Mixup Regularized Learning for Adversarial Domain Adaptation](https://arxiv.org/pdf/2007.03141) [2020; CV]
+3.  IIMT: [Improve Unsupervised Domain Adaptation with Mixup Training](https://arxiv.org/pdf/2001.00677) [2022; CV]
 
 
 # Code Repositories
