@@ -7,14 +7,15 @@
 ## Theory
 1.  [On Mixup Regularization](https://arxiv.org/pdf/2006.06049.pdf) [2020]
 2.  [On Mixup Training: Improved Calibration and Predictive Uncertainty for Deep Neural Networks](https://proceedings.neurips.cc/paper/2019/file/36ad8b5f42db492827016448975cc22d-Paper.pdf) [2019]
+3.  [Understanding Mixup Training Methods](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8478159) [2018]
 
 ## Variants
 1.  CutMix: [CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf) [2019; CV, Adversarial Example, Uncertainty]
-2.  RICAP: [RICAP: Random Image Cropping and Patching Data Augmentation for Deep CNNs](http://proceedings.mlr.press/v95/takahashi18a/takahashi18a.pdf) [2018, CV]
+2.  RICAP: [RICAP: Random Image Cropping and Patching Data Augmentation for Deep CNNs](http://proceedings.mlr.press/v95/takahashi18a/takahashi18a.pdf) [2018; CV]
 3.  BC: [Learning from Between-Class Examples for Deep Sound Recognition](https://arxiv.org/pdf/1711.10282.pdf) [2018, Sound]
-4.  Manifold Mixup: [Manifold Mixup: Better Representations by Interpolating Hidden States](http://proceedings.mlr.press/v97/verma19a/verma19a.pdf) [2019, CV]
-5.  AdaMixUp: [MixUp as Locally Linear Out-of-Manifold Regularization](https://ojs.aaai.org/index.php/AAAI/article/download/4256/4134) [2019, CV]
-
+4.  Manifold Mixup: [Manifold Mixup: Better Representations by Interpolating Hidden States](http://proceedings.mlr.press/v97/verma19a/verma19a.pdf) [2019; CV]
+5.  AdaMixUp: [MixUp as Locally Linear Out-of-Manifold Regularization](https://ojs.aaai.org/index.php/AAAI/article/download/4256/4134) [2019; CV]
+6.  Spatial-mixup: [Understanding Mixup Training Methods](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8478159) [2018; CV, GAN]
 
 ## Others
 1.  SamplePairing: [Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/pdf/1801.02929) [2018; CV]
@@ -42,22 +43,23 @@
 
 # Code Repositories
 {_Method_}\* denotes the code of _Method_ is reimplemented by others.
-1. Mixip: https://github.com/facebookresearch/mixup-cifar10
-2. Framework: https://github.com/ceciliaresearch/MixedExample
-3. CutMix: https://github.com/clovaai/CutMix-PyTorch
-4. RICAP*: https://github.com/4uiiurz1/pytorch-ricap
-5. BC: https://github.com/mil-tokyo/bc_learning_sound
-6. BC+: https://github.com/mil-tokyo/bc_learning_image
-7. Manifold Mixup: https://github.com/vikasverma1077/manifold_mixup
-8. ICT: https://github.com/vikasverma1077/ICT
-9. AdaMixUp*: https://github.com/SITE5039/AdaMixUp
-10. Cutout: https://github.com/uoguelph-mlrg/Cutout
-11. AMR: https://github.com/christopher-beckham/amr
-12. MixMatch: https://github.com/google-research/mixmatch
-13. ACAI: https://github.com/brain-research/acai
-14. VMT: https://github.com/xudonmao/VMT
-15. DMRL: https://github.com/YuanWu3/Dual-Mixup-Regularized-Learning-for-Adversarial-Domain-Adaptation
-16. TMix & MixText: https://github.com/GT-SALT/MixText
+1.  Mixip: https://github.com/facebookresearch/mixup-cifar10
+2.  Framework: https://github.com/ceciliaresearch/MixedExample
+3.  CutMix: https://github.com/clovaai/CutMix-PyTorch
+4.  RICAP*: https://github.com/4uiiurz1/pytorch-ricap
+5.  BC: https://github.com/mil-tokyo/bc_learning_sound
+6.  BC+: https://github.com/mil-tokyo/bc_learning_image
+7.  Manifold Mixup: https://github.com/vikasverma1077/manifold_mixup
+8.  ICT: https://github.com/vikasverma1077/ICT
+9.  AdaMixUp*: https://github.com/SITE5039/AdaMixUp
+10.  Cutout: https://github.com/uoguelph-mlrg/Cutout
+11.  AMR: https://github.com/christopher-beckham/amr
+12.  MixMatch: https://github.com/google-research/mixmatch
+13.  ACAI: https://github.com/brain-research/acai
+14.  VMT: https://github.com/xudonmao/VMT
+15.  DMRL: https://github.com/YuanWu3/Dual-Mixup-Regularized-Learning-for-Adversarial-Domain-Adaptation
+16.  TMix & MixText: https://github.com/GT-SALT/MixText
+17.  Spatial-mixup: https://github.com/liangdaojun/spatial-mixup/tree/master/models
 
 ## Keys
 1.  Number of samples for mixup == 2;
