@@ -1,7 +1,7 @@
 # Papers
 
 ## Bese Method
-1.  Mixup: [Mixup: Beyond Empirical Risk Minimization](https://arxiv.org/pdf/1710.09412) [2018; CV, Speech, Tabular, GAN, Adversarial Example]
+1.  Mixup: [Mixup: Beyond Empirical Risk Minimization](https://arxiv.org/pdf/1710.09412) [2018; CV, Speech, Tabular, GAN, Robustness]
 2.  Framework: [Improved Mixed-Example Data Augmentation](https://arxiv.org/pdf/1805.11272.pdf?ref=https://githubhelp.com) [2018; CV]
 
 ## Theory
@@ -10,13 +10,13 @@
 3.  [Understanding Mixup Training Methods](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8478159) [2018]
 
 ## Variants
-1.  CutMix: [CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf) [2019; CV, Adversarial Example, Uncertainty]
+1.  CutMix: [CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf) [2019; CV, Robustness, Uncertainty]
 2.  RICAP: [RICAP: Random Image Cropping and Patching Data Augmentation for Deep CNNs](http://proceedings.mlr.press/v95/takahashi18a/takahashi18a.pdf) [2018; CV]
 3.  BC: [Learning from Between-Class Examples for Deep Sound Recognition](https://arxiv.org/pdf/1711.10282.pdf) [2018, Sound]
 4.  Manifold Mixup: [Manifold Mixup: Better Representations by Interpolating Hidden States](http://proceedings.mlr.press/v97/verma19a/verma19a.pdf) [2019; CV]
 5.  AdaMixUp: [MixUp as Locally Linear Out-of-Manifold Regularization](https://ojs.aaai.org/index.php/AAAI/article/download/4256/4134) [2019; CV]
 6.  Spatial-mixup: [Understanding Mixup Training Methods](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8478159) [2018; CV, GAN]
-7.  PuzzleMix: [Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup](http://proceedings.mlr.press/v119/kim20b/kim20b.pdf) [2020; CV, Adversarial Example]
+7.  PuzzleMix: [Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup](http://proceedings.mlr.press/v119/kim20b/kim20b.pdf) [2020; CV, Robustness]
 
 ## Others
 1.  SamplePairing: [Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/pdf/1801.02929) [2018; CV]
@@ -42,6 +42,9 @@
 1.  VMT: [Virtual Mixup Training for Unsupervised Domain Adaptation](https://arxiv.org/pdf/1905.04215.pdf) [2019; CV]
 2.  DMRL: [Dual Mixup Regularized Learning for Adversarial Domain Adaptation](https://arxiv.org/pdf/2007.03141) [2020; CV]
 3.  IIMT: [Improve Unsupervised Domain Adaptation with Mixup Training](https://arxiv.org/pdf/2001.00677) [2022; CV]
+### Robustness
+1.  M-TLAT: [Addressing Neural Network Robustness with Mixup and Targeted Labeling Adversarial Training](https://arxiv.org/abs/2008.08384) [2022; Robustness]
+2. IAT: [Interpolated adversarial training: Achieving robust neural networks without sacrificing too much accuracy](https://dl.acm.org/doi/pdf/10.1145/3338501.3357369)
 
 
 # Code Repositories
