@@ -8,6 +8,8 @@
 1.  [On Mixup Regularization](https://arxiv.org/pdf/2006.06049.pdf) [2020]
 2.  [On Mixup Training: Improved Calibration and Predictive Uncertainty for Deep Neural Networks](https://proceedings.neurips.cc/paper/2019/file/36ad8b5f42db492827016448975cc22d-Paper.pdf) [2019]
 3.  [Understanding Mixup Training Methods](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8478159) [2018]
+4.  [Generalization Bounds for Vicinal Risk Minimization Principle](https://arxiv.org/abs/1811.04351) [2018]
+5.  [MixUp as Directional Adversarial Training](http://arxiv.org/abs/1906.06875)[2019]
 
 ## Variants
 1.  CutMix: [CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf) [2019; CV, Robustness, Uncertainty]
