@@ -8,8 +8,9 @@
 1.  [On Mixup Regularization](https://arxiv.org/pdf/2006.06049.pdf) [2020]
 2.  [On Mixup Training: Improved Calibration and Predictive Uncertainty for Deep Neural Networks](https://proceedings.neurips.cc/paper/2019/file/36ad8b5f42db492827016448975cc22d-Paper.pdf) [2019]
 3.  [Understanding Mixup Training Methods](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8478159) [2018]
-4.  [Generalization Bounds for Vicinal Risk Minimization Principle](https://arxiv.org/abs/1811.04351) [2018]
-5.  [MixUp as Directional Adversarial Training](http://arxiv.org/abs/1906.06875)[2019]
+4.  [Generalization Bounds for Vicinal Risk Minimization Principle](https://arxiv.org/pdf/1811.04351) [2018]
+5.  [MixUp as Directional Adversarial Training](http://arxiv.org/pdf/1906.06875)[2019]
+6.  [FMix: Enhancing Mixed Sample Data Augmentation](https://arxiv.org/pdf/2002.12047)[2020]
 
 ## Variants
 1.  CutMix: [CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf) [2019; CV, Robustness, Uncertainty]
@@ -24,6 +25,7 @@
 1.  SamplePairing: [Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/pdf/1801.02929) [2018; CV]
 2.  Cutout: [Improved Regularization of Convolutional Neural Networks with Cutout](https://arxiv.org/pdf/1708.04552.pdf) [2018; CV]
 3.  MixFeat: [Mixfeat: Mix feature in latent space learns discriminative space](https://openreview.net/pdf?id=HygT9oRqFX) [2019; CV]
+4.  FMix: [FMix: Enhancing Mixed Sample Data Augmentation](https://arxiv.org/pdf/2002.12047)[2020; CV, Robustness]
 
 ## Applications
 ### CV
@@ -45,7 +47,7 @@
 2.  DMRL: [Dual Mixup Regularized Learning for Adversarial Domain Adaptation](https://arxiv.org/pdf/2007.03141) [2020; CV]
 3.  IIMT: [Improve Unsupervised Domain Adaptation with Mixup Training](https://arxiv.org/pdf/2001.00677) [2022; CV]
 ### Robustness
-1.  M-TLAT: [Addressing Neural Network Robustness with Mixup and Targeted Labeling Adversarial Training](https://arxiv.org/abs/2008.08384) [2022; Robustness]
+1.  M-TLAT: [Addressing Neural Network Robustness with Mixup and Targeted Labeling Adversarial Training](https://arxiv.org/pdf/2008.08384) [2022; Robustness]
 2. IAT: [Interpolated adversarial training: Achieving robust neural networks without sacrificing too much accuracy](https://dl.acm.org/doi/pdf/10.1145/3338501.3357369)
 
 
@@ -70,11 +72,13 @@
 17.  Spatial-mixup: https://github.com/liangdaojun/spatial-mixup/tree/master/models
 18.  SeqMix: https://github.com/rz-zhang/SeqMix
 19.  PuzzleMix: https://github.com/snu-mllab/PuzzleMix
+20.  FMix: https://github.com/ecs-vlc/FMix
 
 ## Keys
 1.  Number of samples for mixup == 2;
 2.  Data Augment v.s. Regularization --> Mixup v.s. Weight Decay;
 3.  Why and which specific properties;
 4.  Limits;
+    in some way distorted, i.e., vicinal distribution not match the true distribution of the data
 5.  Order of data augmentation;
 6.  the role of \alpha;
