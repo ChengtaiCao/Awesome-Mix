@@ -20,6 +20,8 @@
 5.  AdaMixUp: [MixUp as Locally Linear Out-of-Manifold Regularization](https://ojs.aaai.org/index.php/AAAI/article/download/4256/4134) [2019; CV]
 6.  Spatial-mixup: [Understanding Mixup Training Methods](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8478159) [2018; CV, GAN]
 7.  PuzzleMix: [Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup](http://proceedings.mlr.press/v119/kim20b/kim20b.pdf) [2020; CV, Robustness]
+8.  SmoothMix: [SmoothMix: a Simple Yet Effective Data Augmentation to Train Robust Classifiers](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w45/Lee_SmoothMix_A_Simple_Yet_Effective_Data_Augmentation_to_Train_Robust_CVPRW_2020_paper.pdf)(2020; CV, Robustness)
+9. ResizeMix: [ResizeMix: Mixing Data with Preserved Object Information and True Labels](https://arxiv.org/pdf/2012.11101.pdf)(2020;CV)
 
 ## Others
 1.  SamplePairing: [Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/pdf/1801.02929) [2018; CV]
@@ -73,6 +75,8 @@
 18.  SeqMix: https://github.com/rz-zhang/SeqMix
 19.  PuzzleMix: https://github.com/snu-mllab/PuzzleMix
 20.  FMix: https://github.com/ecs-vlc/FMix
+21.  SmoothMix: https://github.com/jh-jeong/smoothmix
+22.  ResizeMix*: https://github.com/HarborYuan/pytorch-macos-bench/blob/fbf680993684164e3caa3063b3f777290f7b86f5/mmcls/models/utils/augment/resizemix.py
 
 ## Keys
 1.  Number of samples for mixup == 2;
