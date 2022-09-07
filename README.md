@@ -76,7 +76,7 @@
 19.  PuzzleMix: https://github.com/snu-mllab/PuzzleMix
 20.  FMix: https://github.com/ecs-vlc/FMix
 21.  SmoothMix: https://github.com/jh-jeong/smoothmix
-22.  ResizeMix*: https://github.com/HarborYuan/pytorch-macos-bench/blob/fbf680993684164e3caa3063b3f777290f7b86f5/mmcls/models/utils/augment/resizemix.py
+22.  ResizeMix*: https://github.com/HarborYuan/pytorch-macos-bench
 
 ## Keys
 1.  Number of samples for mixup == 2;
