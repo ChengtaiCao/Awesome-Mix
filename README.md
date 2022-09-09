@@ -26,6 +26,7 @@
 11. StackMix: [StackMix: A complementary Mix algorithm](https://proceedings.mlr.press/v180/chen22b/chen22b.pdf)(2022; CV, Robustness)
 12. FocusMix: [Where to cut and paste: Data regularization with selective features](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9289404&casa_token=ZOkscThNTpQAAAAA:AhalGFG_kjrXgaEZRzo5E3QN2mNC7gdnF1PtAd7MG0-rXbaHSS1JzZiM5wWv7hLR8plKxXy4F3U)(2020; CV)
 13. Mixup Inference: [Mixup Inference: Better Exploiting Mixup to Defend Adversarial Attacks](https://arxiv.org/pdf/1909.11515)(2020; CV, Robustness)
+14. SSMix: [SSMix: Saliency-Based Span Mixup for Text Classification](https://arxiv.org/pdf/2106.08062)(2021; NLP)
 
 ## Others
 1.  SamplePairing: [Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/pdf/1801.02929) [2018; CV]
@@ -42,6 +43,7 @@
 3.  Mixup-Transformer: [Mixup-Transformer: Dynamic Data Augmentation for NLP Tasks](https://arxiv.org/pdf/2010.02394) [2020; NLP]
 4.  SeqMix: [SeqMix: Augmenting Active Sequence Labeling via Sequence Mixup](https://arxiv.org/pdf/2010.02322) [2020; NLP]
 5.  Nonlinear Mixup: [Nonlinear Mixup: Out-Of-Manifold Data Augmentation for Text Classification](https://ojs.aaai.org/index.php/AAAI/article/view/5822/5678) [2020; NLP]
+6.  SSMix: [SSMix: Saliency-Based Span Mixup for Text Classification](https://arxiv.org/pdf/2106.08062)(2021; NLP)
 ### Semi-Supervised
 1.  ICT: [Interpolation Consistency Training for Semi-Supervised Learning](https://arxiv.org/pdf/1903.03825.pdf?ref=https://githubhelp.com) [2019; CV]
 2.  MixMatch: [MixMatch: A Holistic Approach to Semi-Supervised Learning](https://proceedings.neurips.cc/paper/2019/file/1cd138d0499a68f4bb72bee04bbec2d7-Paper.pdf) [2019; CV]
@@ -88,7 +90,8 @@
 22.  ResizeMix*: https://github.com/HarborYuan/pytorch-macos-bench
 23.  AugMix: https://github.com/google-research/augmi
 24.  Mixup Inference: https://github.com/P2333/Mixup-Inference
-25.  FedMix: https://github.com/smduan/
+25.  FedMix: https://github.com/smduan
+26.  SSMix: https://github.com/clovaai/ssmix
 
 ## Keys
 1.  Number of samples for mixup == 2;
