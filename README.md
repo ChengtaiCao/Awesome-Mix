@@ -56,6 +56,10 @@
 1.  M-TLAT: [Addressing Neural Network Robustness with Mixup and Targeted Labeling Adversarial Training](https://arxiv.org/pdf/2008.08384) [2022; Robustness]
 2. IAT: [Interpolated adversarial training: Achieving robust neural networks without sacrificing too much accuracy](https://dl.acm.org/doi/pdf/10.1145/3338501.3357369)
 3. Mixup Inference: [Mixup Inference: Better Exploiting Mixup to Defend Adversarial Attacks](https://arxiv.org/pdf/1909.11515)(2020; CV, Robustness)
+### Federated Learning
+1. Mix2FLD: [Mix2FLD: Downlink Federated Learning After Uplink Federated Distillation With Two-Way Mixup](https://ieeexplore.ieee.org/iel7/4234/5534602/09121290.pdf)(2020)
+2. XOR Mixup: [XOR Mixup: Privacy-Preserving Data Augmentation for One-Shot Federated Learning](https://arxiv.org/pdf/2006.05148)(2020)
+3. FedMix: [FedMix: Approximation of Mixup under Mean Augmented Federated Learning](http://arxiv.org/pdf/2107.00233)(2021)
 
 
 # Code Repositories
@@ -84,6 +88,7 @@
 22.  ResizeMix*: https://github.com/HarborYuan/pytorch-macos-bench
 23.  AugMix: https://github.com/google-research/augmi
 24.  Mixup Inference: https://github.com/P2333/Mixup-Inference
+25.  FedMix: https://github.com/smduan/
 
 ## Keys
 1.  Number of samples for mixup == 2;
