@@ -23,6 +23,9 @@
 8.  SmoothMix: [SmoothMix: a Simple Yet Effective Data Augmentation to Train Robust Classifiers](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w45/Lee_SmoothMix_A_Simple_Yet_Effective_Data_Augmentation_to_Train_Robust_CVPRW_2020_paper.pdf)(2020; CV, Robustness)
 9. ResizeMix: [ResizeMix: Mixing Data with Preserved Object Information and True Labels](https://arxiv.org/pdf/2012.11101.pdf)(2020; CV)
 10. AugMix: [AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty](https://openreview.net/pdf?id=S1gmrxHFvB)(2020; CV, Robustness)
+11. StackMix: [StackMix: A complementary Mix algorithm](https://proceedings.mlr.press/v180/chen22b/chen22b.pdf)(2022; CV, Robustness)
+12. FocusMix: [Where to cut and paste: Data regularization with selective features](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9289404&casa_token=ZOkscThNTpQAAAAA:AhalGFG_kjrXgaEZRzo5E3QN2mNC7gdnF1PtAd7MG0-rXbaHSS1JzZiM5wWv7hLR8plKxXy4F3U)(2020; CV)
+13. Mixup Inference: [Mixup Inference: Better Exploiting Mixup to Defend Adversarial Attacks](https://arxiv.org/pdf/1909.11515)(2020; CV, Robustness)
 
 ## Others
 1.  SamplePairing: [Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/pdf/1801.02929) [2018; CV]
@@ -52,6 +55,7 @@
 ### Robustness
 1.  M-TLAT: [Addressing Neural Network Robustness with Mixup and Targeted Labeling Adversarial Training](https://arxiv.org/pdf/2008.08384) [2022; Robustness]
 2. IAT: [Interpolated adversarial training: Achieving robust neural networks without sacrificing too much accuracy](https://dl.acm.org/doi/pdf/10.1145/3338501.3357369)
+3. Mixup Inference: [Mixup Inference: Better Exploiting Mixup to Defend Adversarial Attacks](https://arxiv.org/pdf/1909.11515)(2020; CV, Robustness)
 
 
 # Code Repositories
@@ -78,7 +82,8 @@
 20.  FMix: https://github.com/ecs-vlc/FMix
 21.  SmoothMix: https://github.com/jh-jeong/smoothmix
 22.  ResizeMix*: https://github.com/HarborYuan/pytorch-macos-bench
-23.  AugMix: https://github.com/google-research/augmix
+23.  AugMix: https://github.com/google-research/augmi
+24.  Mixup Inference: https://github.com/P2333/Mixup-Inference
 
 ## Keys
 1.  Number of samples for mixup == 2;
