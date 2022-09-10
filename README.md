@@ -62,6 +62,10 @@
 1. Mix2FLD: [Mix2FLD: Downlink Federated Learning After Uplink Federated Distillation With Two-Way Mixup](https://ieeexplore.ieee.org/iel7/4234/5534602/09121290.pdf)(2020)
 2. XOR Mixup: [XOR Mixup: Privacy-Preserving Data Augmentation for One-Shot Federated Learning](https://arxiv.org/pdf/2006.05148)(2020)
 3. FedMix: [FedMix: Approximation of Mixup under Mean Augmented Federated Learning](http://arxiv.org/pdf/2107.00233)(2021)
+### Graph
+1. GraphMix: [GraphMix: Improved Training of GNNs for Semi-Supervised Learning](https://ojs.aaai.org/index.php/AAAI/article/view/17203/17010)(2021)
+### Point Cloud
+1. RSMix: [Regularization Strategy for Point Cloud via Rigidly Mixed Sample](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Regularization_Strategy_for_Point_Cloud_via_Rigidly_Mixed_Sample_CVPR_2021_paper.pdf) (2021)
 
 
 # Code Repositories
@@ -92,6 +96,8 @@
 24.  Mixup Inference: https://github.com/P2333/Mixup-Inference
 25.  FedMix: https://github.com/smduan
 26.  SSMix: https://github.com/clovaai/ssmix
+27.  GraphMix: https://github.com/vikasverma1077/GraphMix
+28.  RSMix: https://github.com/dogyoonlee/RSMix
 
 ## Keys
 1.  Number of samples for mixup == 2;
