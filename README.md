@@ -47,6 +47,7 @@
 ### Semi-Supervised
 1.  ICT: [Interpolation Consistency Training for Semi-Supervised Learning](https://arxiv.org/pdf/1903.03825.pdf?ref=https://githubhelp.com) [2019; CV]
 2.  MixMatch: [MixMatch: A Holistic Approach to Semi-Supervised Learning](https://proceedings.neurips.cc/paper/2019/file/1cd138d0499a68f4bb72bee04bbec2d7-Paper.pdf) [2019; CV]
+3.  ReMixMatch: [ReMixMatch: Semi-Supervised Learning with Distribution Alignment and Augmentation Anchoring](https://arxiv.org/pdf/1911.09785.pdf)[2019].
 ### Unsupervised: 
 1.  ACAI: [Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer](https://arxiv.org/pdf/1807.07543.pdf) [2019; AE, GAN, CV]
 2.  AMR: [On Adversarial Mixup Resynthesis](https://proceedings.neurips.cc/paper/2019/file/f708f064faaf32a43e4d3c784e6af9ea-Paper.pdf) [2019; AE, GAN, CV]
@@ -65,8 +66,10 @@
 ### Graph
 1. GraphMix: [GraphMix: Improved Training of GNNs for Semi-Supervised Learning](https://ojs.aaai.org/index.php/AAAI/article/view/17203/17010)(2021)
 ### Point Cloud
-1. RSMix: [Regularization Strategy for Point Cloud via Rigidly Mixed Sample](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Regularization_Strategy_for_Point_Cloud_via_Rigidly_Mixed_Sample_CVPR_2021_paper.pdf) (2021)
-
+1. PointMixup: [PointMixup: Augmentation for Point Clouds](https://arxiv.org/pdf/2008.06374)(2020)
+2. RSMix: [Regularization Strategy for Point Cloud via Rigidly Mixed Sample](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Regularization_Strategy_for_Point_Cloud_via_Rigidly_Mixed_Sample_CVPR_2021_paper.pdf)(2021)
+### Super-resolution
+1. CutBlur: [Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yoo_Rethinking_Data_Augmentation_for_Image_Super-resolution_A_Comprehensive_Analysis_and_CVPR_2020_paper.pdf)
 
 # Code Repositories
 {_Method_}\* denotes the code of _Method_ is reimplemented by others.
@@ -97,7 +100,11 @@
 25.  FedMix: https://github.com/smduan
 26.  SSMix: https://github.com/clovaai/ssmix
 27.  GraphMix: https://github.com/vikasverma1077/GraphMix
-28.  RSMix: https://github.com/dogyoonlee/RSMix
+28.  PointMixup: https://github.com/yunlu-chen/PointMixup
+29.  PA-AUG: https: //github.com/sky77764/pa- aug.pytorch
+30.  RSMix: https://github.com/dogyoonlee/RSMix
+31.  ReMixMatch: https://github.com/google-research/remixmatch
+32.  Cutblur: https://github.com/clovaai/cutblur
 
 ## Keys
 1.  Number of samples for mixup == 2;
