@@ -107,7 +107,7 @@
 26.  SSMix: https://github.com/clovaai/ssmix
 27.  GraphMix: https://github.com/vikasverma1077/GraphMix
 28.  PointMixup: https://github.com/yunlu-chen/PointMixup
-29.  PA-AUG: https: //github.com/sky77764/pa- aug.pytorch
+29.  PA-AUG: https://github.com/sky77764/pa-aug.pytorch
 30.  RSMix: https://github.com/dogyoonlee/RSMix
 31.  ReMixMatch: https://github.com/google-research/remixmatch
 32.  Cutblur: https://github.com/clovaai/cutblur
