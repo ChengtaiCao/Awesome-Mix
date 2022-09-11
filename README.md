@@ -27,6 +27,8 @@
 12. FocusMix: [Where to cut and paste: Data regularization with selective features](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9289404&casa_token=ZOkscThNTpQAAAAA:AhalGFG_kjrXgaEZRzo5E3QN2mNC7gdnF1PtAd7MG0-rXbaHSS1JzZiM5wWv7hLR8plKxXy4F3U)(2020; CV)
 13. Mixup Inference: [Mixup Inference: Better Exploiting Mixup to Defend Adversarial Attacks](https://arxiv.org/pdf/1909.11515)(2020; CV, Robustness)
 14. SSMix: [SSMix: Saliency-Based Span Mixup for Text Classification](https://arxiv.org/pdf/2106.08062)(2021; NLP)
+15. DJMix: [DJMix: Unsupervised Task-agnostic Augmentation for Improving Robustness](https://openreview.net/pdf?id=0n3BaVlNsHI)(2021; CV)
+16. StyleMix: [StyleMix: Separating Content and Style for Enhanced Data Augmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_StyleMix_Separating_Content_and_Style_for_Enhanced_Data_Augmentation_CVPR_2021_paper.pdf)(2021; CV)
 
 ## Others
 1.  SamplePairing: [Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/pdf/1801.02929) [2018; CV]
@@ -105,6 +107,7 @@
 30.  RSMix: https://github.com/dogyoonlee/RSMix
 31.  ReMixMatch: https://github.com/google-research/remixmatch
 32.  Cutblur: https://github.com/clovaai/cutblur
+33.  StyleMix: https://github.com/alsdml/StyleMix
 
 ## Keys
 1.  Number of samples for mixup == 2;
