@@ -33,12 +33,18 @@
 18. Remix: [Remix: Rebalanced Mixup](https://arxiv.org/pdf/2007.03943)(2020)
 19. k-Mixup: [k-Mixup Regularization for Deep Learning via Optimal Transport](https://arxiv.org/pdf/2106.02933)(2021)
 20. MixMo: [MixMo: Mixing Multiple Inputs for Multiple Outputs via Deep Subnetworks](https://openaccess.thecvf.com/content/ICCV2021/papers/Rame_MixMo_Mixing_Multiple_Inputs_for_Multiple_Outputs_via_Deep_Subnetworks_ICCV_2021_paper.pdf)(2021)
+21. SaliencyMix: [SaliencyMix: A Saliency Guided Data Augmentation Strategy for Better Regularization](https://arxiv.org/pdf/2006.01791)(2021)
+22. SnapMix: [Snapmix: Semantically proportional mixing for augmenting fine-grained data](https://ojs.aaai.org/index.php/AAAI/article/view/16255/16062)(2021)
+23. Co-Mixup: [Co-Mixup: Saliency Guided Joint Mixup with Supermodular Diversity](https://arxiv.org/pdf/2102.03065)(2021)
+24. SuperMix: [SuperMix: Supervising the Mixing Data Augmentation](http://openaccess.thecvf.com/content/CVPR2021/papers/Dabouei_SuperMix_Supervising_the_Mixing_Data_Augmentation_CVPR_2021_paper.pdf)(2021)
+25. PatchMix: [Evolving Image Compositions for Feature Representation Learning](https://arxiv.org/pdf/2106.09011)(2021)
 
 ## Others
 1.  SamplePairing: [Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/pdf/1801.02929) [2018; CV]
 2.  Cutout: [Improved Regularization of Convolutional Neural Networks with Cutout](https://arxiv.org/pdf/1708.04552.pdf) [2018; CV]
 3.  MixFeat: [Mixfeat: Mix feature in latent space learns discriminative space](https://openreview.net/pdf?id=HygT9oRqFX) [2019; CV]
 4.  FMix: [FMix: Enhancing Mixed Sample Data Augmentation](https://arxiv.org/pdf/2002.12047)[2020; CV, Robustness]
+5.  MoEx: [On feature normalization and data augmentation](http://openaccess.thecvf.com/content/CVPR2021/papers/Li_On_Feature_Normalization_and_Data_Augmentation_CVPR_2021_paper.pdf)[2021]
 
 ## Applications
 ### CV
@@ -61,6 +67,7 @@
 1.  VMT: [Virtual Mixup Training for Unsupervised Domain Adaptation](https://arxiv.org/pdf/1905.04215.pdf) [2019; CV]
 2.  DMRL: [Dual Mixup Regularized Learning for Adversarial Domain Adaptation](https://arxiv.org/pdf/2007.03141) [2020; CV]
 3.  IIMT: [Improve Unsupervised Domain Adaptation with Mixup Training](https://arxiv.org/pdf/2001.00677) [2022; CV]
+4.  Mixstyle: [Domain generalization with mixstyle](https://arxiv.org/pdf/2104.02008)[2021]
 ### Robustness
 1.  M-TLAT: [Addressing Neural Network Robustness with Mixup and Targeted Labeling Adversarial Training](https://arxiv.org/pdf/2008.08384) [2022; Robustness]
 2. IAT: [Interpolated adversarial training: Achieving robust neural networks without sacrificing too much accuracy](https://dl.acm.org/doi/pdf/10.1145/3338501.3357369)
@@ -113,6 +120,12 @@
 32.  Cutblur: https://github.com/clovaai/cutblur
 33.  StyleMix: https://github.com/alsdml/StyleMix
 34.  Mixmo: https://github.com/alexrame/mixmo-pytorch
+35.  MoEx: https://github.com/Boyiliee/MoEx
+36.  Mixstyle: https://github.com/KaiyangZhou/mixstyle-release
+37.  SaliencyMix: https://github.com/afm-shahab-uddin/SaliencyMix
+38.  SnapMix: https://github.com/Shaoli-Huang/SnapMix.git
+39.  Co-Mixup: https://github.com/snu-mllab/Co-Mixup
+40.  SuperMix: https://github.com/alldbi/SuperMix
 
 ## Keys
 1.  Number of samples for mixup == 2;
