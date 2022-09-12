@@ -38,6 +38,12 @@
 23. Co-Mixup: [Co-Mixup: Saliency Guided Joint Mixup with Supermodular Diversity](https://arxiv.org/pdf/2102.03065)(2021)
 24. SuperMix: [SuperMix: Supervising the Mixing Data Augmentation](http://openaccess.thecvf.com/content/CVPR2021/papers/Dabouei_SuperMix_Supervising_the_Mixing_Data_Augmentation_CVPR_2021_paper.pdf)(2021)
 25. PatchMix: [Evolving Image Compositions for Feature Representation Learning](https://arxiv.org/pdf/2106.09011)(2021)
+26. SAMix: [Boosting Discriminative Visual Representation Learning with Scenario-Agnostic Mixup](https://arxiv.org/pdf/2111.15454)(2021)
+27. mWh: [Mixup Without Hesitation](https://arxiv.org/pdf/2101.04342)(2021)
+28. CAMixup: [Combining Ensembles and Data Augmentation can Harm your Calibration](https://arxiv.org/pdf/2010.09875)(2021)
+29: GridMix: [GridMix: Strongregularizationthroughlocalcontextmapping](https://www.sciencedirect.com/science/article/pii/S0031320320303976?casa_token=oQ7NhHPxs1cAAAAA:U0cFG2ASbufAHEPW4m14bxaUMsXK3QE6ke-sjpvbpkcbbLAd_YFSUEbUU2DECq3H7IjtW2dRpAQ)(2021)
+30: BATCHMIXUP: [BATCHMIXUP: Improving Training by Interpolating Hidden States of the Entire Mini-batch](https://aclanthology.org/2021.findings-acl.434.pdf)(2021)
+21. AMP: [Adversarial Mixing Policy for Relaxing Locally Linear Constraints in Mixup](https://arxiv.org/pdf/2109.07177)(2021)
 
 ## Others
 1.  SamplePairing: [Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/pdf/1801.02929) [2018; CV]
@@ -60,6 +66,7 @@
 1.  ICT: [Interpolation Consistency Training for Semi-Supervised Learning](https://arxiv.org/pdf/1903.03825.pdf?ref=https://githubhelp.com) [2019; CV]
 2.  MixMatch: [MixMatch: A Holistic Approach to Semi-Supervised Learning](https://proceedings.neurips.cc/paper/2019/file/1cd138d0499a68f4bb72bee04bbec2d7-Paper.pdf) [2019; CV]
 3.  ReMixMatch: [ReMixMatch: Semi-Supervised Learning with Distribution Alignment and Augmentation Anchoring](https://arxiv.org/pdf/1911.09785.pdf)[2019].
+4.  DivideMix: [DivideMix: Learning with Noisy Labels as Semi-supervised Learning](https://arxiv.org/pdf/2002.07394.pdf)(2020)
 ### Unsupervised: 
 1.  ACAI: [Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer](https://arxiv.org/pdf/1807.07543.pdf) [2019; AE, GAN, CV]
 2.  AMR: [On Adversarial Mixup Resynthesis](https://proceedings.neurips.cc/paper/2019/file/f708f064faaf32a43e4d3c784e6af9ea-Paper.pdf) [2019; AE, GAN, CV]
@@ -72,6 +79,12 @@
 1.  M-TLAT: [Addressing Neural Network Robustness with Mixup and Targeted Labeling Adversarial Training](https://arxiv.org/pdf/2008.08384) [2022; Robustness]
 2. IAT: [Interpolated adversarial training: Achieving robust neural networks without sacrificing too much accuracy](https://dl.acm.org/doi/pdf/10.1145/3338501.3357369)
 3. Mixup Inference: [Mixup Inference: Better Exploiting Mixup to Defend Adversarial Attacks](https://arxiv.org/pdf/1909.11515)(2020; CV, Robustness)
+4. MixACM: [MixACM: Mixup-Based Robustness Transfer via Distillation of Activated Channel Maps](https://proceedings.neurips.cc/paper/2021/file/240c945bb72980130446fc2b40fbb8e0-Paper.pdf)(2021)
+5. AVmixup: [Adversarial Vertex Mixup: Toward Better Adversarially Robust Generalization](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lee_Adversarial_Vertex_Mixup_Toward_Better_Adversarially_Robust_Generalization_CVPR_2020_paper.pdf)(2020)
+6. AOM: [Adversarially Optimized Mixup for Robust Classification](https://arxiv.org/pdf/2103.11589)(2021)
+7. VarMixup: [VarMixup: Exploiting the Latent Space for Robust Training and Inference](https://arxiv.org/pdf/2003.06566v1.pdf)(2020)
+8. GIF: [Guided Interpolation for Adversarial Training](https://arxiv.org/pdf/2102.07327)
+
 ### Federated Learning
 1. Mix2FLD: [Mix2FLD: Downlink Federated Learning After Uplink Federated Distillation With Two-Way Mixup](https://ieeexplore.ieee.org/iel7/4234/5534602/09121290.pdf)(2020)
 2. XOR Mixup: [XOR Mixup: Privacy-Preserving Data Augmentation for One-Shot Federated Learning](https://arxiv.org/pdf/2006.05148)(2020)
@@ -83,6 +96,16 @@
 2. RSMix: [Regularization Strategy for Point Cloud via Rigidly Mixed Sample](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Regularization_Strategy_for_Point_Cloud_via_Rigidly_Mixed_Sample_CVPR_2021_paper.pdf)(2021)
 ### Super-resolution
 1. CutBlur: [Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yoo_Rethinking_Data_Augmentation_for_Image_Super-resolution_A_Comprehensive_Analysis_and_CVPR_2020_paper.pdf)
+### Contrastive Learning
+1. Mochi: [Hard Negative Mixing for Contrastive Learning](https://proceedings.neurips.cc/paper/2020/file/f7cade80b7cc92b991cf4d2806d6bd78-Paper.pdf)(2020)
+2. BSIM: [Beyond Single Instance Multi-view Unsupervised Representation Learning](https://arxiv.org/pdf/2011.13356)(2020)
+3. Un-Mix: [Un-mix: Rethinking Image Mixtures for Unsupervised Visual Representation Learning](https://ojs.aaai.org/index.php/AAAI/article/view/20119/19878)(2022)
+4. MixCo: [MixCo: Mix-up Contrastive Learning for Visual Representation](https://arxiv.org/pdf/2010.06300)(2020)
+5. i-Mix: [i-mix: A domain-agnostic strategy for contrastive representation learning](https://arxiv.org/pdf/2010.08887)(202)
+### Metric Learning
+1. Embedding expansion: [Embedding expansion: Augmentation in embedding space for deep metric learning](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ko_Embedding_Expansion_Augmentation_in_Embedding_Space_for_Deep_Metric_Learning_CVPR_2020_paper.pdf)(2020)
+### Others
+1. C2L: [Comparing to Learn: Surpassing ImageNet Pretraining on Radiographs By Comparing Image Representations](https://arxiv.org/pdf/2007.07423)
 
 # Code Repositories
 {_Method_}\* denotes the code of _Method_ is reimplemented by others.
@@ -126,6 +149,19 @@
 38.  SnapMix: https://github.com/Shaoli-Huang/SnapMix.git
 39.  Co-Mixup: https://github.com/snu-mllab/Co-Mixup
 40.  SuperMix: https://github.com/alldbi/SuperMix
+41.  Mochi: https://europe.naverlabs.com/mochi
+42.  Embedding-expansion: https://github.com/clovaai/embedding-expansion
+43.  C2L: https://github.com/funnyzhou/C2L_MICCAI2020
+44.  Un-Mix: https://github.com/szq0214/Un-Mix
+45.  MixCo: https://github.com/Lee-Gihun/MixCo-Mixup-Contrast
+46.  mwh: https://github.com/yuhao318/mwh
+47.  DivideMix: https://github.com/LiJunnan1992/DivideMix
+48.  CAMixup: https://github.com/google/edward2/tree/master/experimental/marginalization_mixup
+49.  DivideMix: https://github.com/LiJunnan1992/DivideMix
+50.  MixACM: https://awaisrauf.github.io/MixACM
+51.  AVmixup: https://github.com/xuyinhu/AVmixup
+52.  AMP: https://github.com/PAI-SmallIsAllYourNeed/Mixup-AMP
+53.  i-Mix: https://github.com/kibok90/imix
 
 ## Keys
 1.  Number of samples for mixup == 2;
