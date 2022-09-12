@@ -41,9 +41,9 @@
 26. SAMix: [Boosting Discriminative Visual Representation Learning with Scenario-Agnostic Mixup](https://arxiv.org/pdf/2111.15454)(2021)
 27. mWh: [Mixup Without Hesitation](https://arxiv.org/pdf/2101.04342)(2021)
 28. CAMixup: [Combining Ensembles and Data Augmentation can Harm your Calibration](https://arxiv.org/pdf/2010.09875)(2021)
-29: GridMix: [GridMix: Strongregularizationthroughlocalcontextmapping](https://www.sciencedirect.com/science/article/pii/S0031320320303976?casa_token=oQ7NhHPxs1cAAAAA:U0cFG2ASbufAHEPW4m14bxaUMsXK3QE6ke-sjpvbpkcbbLAd_YFSUEbUU2DECq3H7IjtW2dRpAQ)(2021)
-30: BATCHMIXUP: [BATCHMIXUP: Improving Training by Interpolating Hidden States of the Entire Mini-batch](https://aclanthology.org/2021.findings-acl.434.pdf)(2021)
-21. AMP: [Adversarial Mixing Policy for Relaxing Locally Linear Constraints in Mixup](https://arxiv.org/pdf/2109.07177)(2021)
+29. GridMix: [GridMix: Strongregularizationthroughlocalcontextmapping](https://www.sciencedirect.com/science/article/pii/S0031320320303976?casa_token=oQ7NhHPxs1cAAAAA:U0cFG2ASbufAHEPW4m14bxaUMsXK3QE6ke-sjpvbpkcbbLAd_YFSUEbUU2DECq3H7IjtW2dRpAQ)(2021)
+30. BATCHMIXUP: [BATCHMIXUP: Improving Training by Interpolating Hidden States of the Entire Mini-batch](https://aclanthology.org/2021.findings-acl.434.pdf)(2021)
+31. AMP: [Adversarial Mixing Policy for Relaxing Locally Linear Constraints in Mixup](https://arxiv.org/pdf/2109.07177)(2021)
 
 ## Others
 1.  SamplePairing: [Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/pdf/1801.02929) [2018; CV]
