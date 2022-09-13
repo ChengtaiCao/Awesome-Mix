@@ -44,6 +44,17 @@
 29. GridMix: [GridMix: Strongregularizationthroughlocalcontextmapping](https://www.sciencedirect.com/science/article/pii/S0031320320303976?casa_token=oQ7NhHPxs1cAAAAA:U0cFG2ASbufAHEPW4m14bxaUMsXK3QE6ke-sjpvbpkcbbLAd_YFSUEbUU2DECq3H7IjtW2dRpAQ)(2021)
 30. BATCHMIXUP: [BATCHMIXUP: Improving Training by Interpolating Hidden States of the Entire Mini-batch](https://aclanthology.org/2021.findings-acl.434.pdf)(2021)
 31. AMP: [Adversarial Mixing Policy for Relaxing Locally Linear Constraints in Mixup](https://arxiv.org/pdf/2109.07177)(2021)
+32. AutoMix: [AutoMix: Unveiling the Power of Mixup for Stronger Classifiers](https://arxiv.org/pdf/2103.13027)(2022)
+33. PatchUp: [PatchUp: A Regularization Technique for Convolutional Neural Networks](PatchUp)(2022)
+34. MultiMix: [Teach me how to Interpolate a Myriad of Embeddings](https://arxiv.org/pdf/2205.14230)(2022)
+35. DM: [Decoupled Mixup for Data-efficient Learning](https://arxiv.org/pdf/2203.10761)(2022)
+36. TransMix: [TransMix: Attend to Mix for Vision Transformers](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_TransMix_Attend_To_Mix_for_Vision_Transformers_CVPR_2022_paper.pdf)(2022)
+37. TokenMix: [TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers](https://arxiv.org/pdf/2207.08409)(2022)
+38. Saliency Grafting: [Saliency Grafting: Innocuous Attribution-Guided Mixup with Calibrated Label Mixing](https://ojs.aaai.org/index.php/AAAI/article/view/20766/20525)(2022)
+39. RecursiveMix: [RecursiveMix: Mixed Learning with History](https://arxiv.org/pdf/2203.06844)(2022)
+40. ScoreMix: [ScoreNet: Learning Non-Uniform Attention and Augmentation for Transformer-Based Histopathological Image Classification](https://arxiv.org/pdf/2202.07570)(2022)
+41. PixMix: [PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures](https://openaccess.thecvf.com/content/CVPR2022/papers/Hendrycks_PixMix_Dreamlike_Pictures_Comprehensively_Improve_Safety_Measures_CVPR_2022_paper.pdf)(2022)
+42. AlignMixup: [AlignMixup: Improving Representations By Interpolating Aligned Features](https://openaccess.thecvf.com/content/CVPR2022/papers/Venkataramanan_AlignMixup_Improving_Representations_by_Interpolating_Aligned_Features_CVPR_2022_paper.pdf)(2022)
 
 ## Others
 1.  SamplePairing: [Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/pdf/1801.02929) [2018; CV]
@@ -70,6 +81,7 @@
 ### Unsupervised: 
 1.  ACAI: [Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer](https://arxiv.org/pdf/1807.07543.pdf) [2019; AE, GAN, CV]
 2.  AMR: [On Adversarial Mixup Resynthesis](https://proceedings.neurips.cc/paper/2019/file/f708f064faaf32a43e4d3c784e6af9ea-Paper.pdf) [2019; AE, GAN, CV]
+3.  LSI: [Data Augmentation via Latent Space Interpolation for Image Classification](https://ieeexplore.ieee.org/iel7/8527858/8545020/08545506.pdf)(2018)
 ### Domain Adaptation 
 1.  VMT: [Virtual Mixup Training for Unsupervised Domain Adaptation](https://arxiv.org/pdf/1905.04215.pdf) [2019; CV]
 2.  DMRL: [Dual Mixup Regularized Learning for Adversarial Domain Adaptation](https://arxiv.org/pdf/2007.03141) [2020; CV]
@@ -84,6 +96,7 @@
 6. AOM: [Adversarially Optimized Mixup for Robust Classification](https://arxiv.org/pdf/2103.11589)(2021)
 7. VarMixup: [VarMixup: Exploiting the Latent Space for Robust Training and Inference](https://arxiv.org/pdf/2003.06566v1.pdf)(2020)
 8. GIF: [Guided Interpolation for Adversarial Training](https://arxiv.org/pdf/2102.07327)
+9. Mixup-SSAT: [Semi-supervised Semantics-guided Adversarial Training for Trajectory Prediction](https://arxiv.org/pdf/2205.14230)(2022)
 
 ### Federated Learning
 1. Mix2FLD: [Mix2FLD: Downlink Federated Learning After Uplink Federated Distillation With Two-Way Mixup](https://ieeexplore.ieee.org/iel7/4234/5534602/09121290.pdf)(2020)
@@ -104,6 +117,7 @@
 5. i-Mix: [i-mix: A domain-agnostic strategy for contrastive representation learning](https://arxiv.org/pdf/2010.08887)(202)
 ### Metric Learning
 1. Embedding expansion: [Embedding expansion: Augmentation in embedding space for deep metric learning](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ko_Embedding_Expansion_Augmentation_in_Embedding_Space_for_Deep_Metric_Learning_CVPR_2020_paper.pdf)(2020)
+2. Metrix: [It Takes Two to Tango: Mixup for Deep Metric Learning](https://arxiv.org/pdf/2106.04990.pdf)(2022)
 ### Others
 1. C2L: [Comparing to Learn: Surpassing ImageNet Pretraining on Radiographs By Comparing Image Representations](https://arxiv.org/pdf/2007.07423)
 
@@ -162,6 +176,14 @@
 51.  AVmixup: https://github.com/xuyinhu/AVmixup
 52.  AMP: https://github.com/PAI-SmallIsAllYourNeed/Mixup-AMP
 53.  i-Mix: https://github.com/kibok90/imix
+54.  AutoMix: https://github.com/Westlake-AI/openmixup
+55.  PatchUp: https://github.com/chandar-lab/PatchUp
+56.  Metrix: https://tinyurl.com/metrix-iclr
+57.  TransMix: https://github.com/Beckschen/TransMix
+58.  TokenMix: https://github.com/Sense-X/TokenMix
+59.  RecursiveMix: https://github.com/megvii-research/RecursiveMix
+60.  Pixmix: https://github.com/andyzoujm/pixmix
+61.  AlignMixup: https://github.com/shashankvkt/AlignMixup_CVPR22.git
 
 ## Keys
 1.  Number of samples for mixup == 2;
