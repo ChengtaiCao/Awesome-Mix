@@ -55,6 +55,9 @@
 40. ScoreMix: [ScoreNet: Learning Non-Uniform Attention and Augmentation for Transformer-Based Histopathological Image Classification](https://arxiv.org/pdf/2202.07570)(2022)
 41. PixMix: [PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures](https://openaccess.thecvf.com/content/CVPR2022/papers/Hendrycks_PixMix_Dreamlike_Pictures_Comprehensively_Improve_Safety_Measures_CVPR_2022_paper.pdf)(2022)
 42. AlignMixup: [AlignMixup: Improving Representations By Interpolating Aligned Features](https://openaccess.thecvf.com/content/CVPR2022/papers/Venkataramanan_AlignMixup_Improving_Representations_by_Interpolating_Aligned_Features_CVPR_2022_paper.pdf)(2022)
+43. Pani: [Patch-level Neighborhood Interpolation: A General and Effective Graph-based Regularization Strategy](https://arxiv.org/pdf/1911.09307)(2019)
+44. HypMix: [HYPMIX: Hyperbolic Interpolative Data Augmentation](https://aclanthology.org/2021.emnlp-main.776)(2021)
+45. LADA: [Local Additivity Based Data Augmentation for Semi-supervised NER](https://arxiv.org/pdf/2010.01677)(2020)
 
 ## Others
 1.  SamplePairing: [Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/pdf/1801.02929) [2018; CV]
@@ -73,6 +76,11 @@
 4.  SeqMix: [SeqMix: Augmenting Active Sequence Labeling via Sequence Mixup](https://arxiv.org/pdf/2010.02322) [2020; NLP]
 5.  Nonlinear Mixup: [Nonlinear Mixup: Out-Of-Manifold Data Augmentation for Text Classification](https://ojs.aaai.org/index.php/AAAI/article/view/5822/5678) [2020; NLP]
 6.  SSMix: [SSMix: Saliency-Based Span Mixup for Text Classification](https://arxiv.org/pdf/2106.08062)(2021; NLP)
+7.  SeqMix: [Sequence-Level Mixed Sample Data Augmentation](https://arxiv.org/pdf/2011.09039)(2020)
+8.  AMDA: [Better Robustness by More Coverage: Adversarial and Mixup Data Augmentation for Robust Finetuning](https://aclanthology.org/2021.findings-acl.137.pdf)(2021)
+9.  AdvAug: [AdvAug: Robust Adversarial Augmentation for Neural Machine Translation](https://arxiv.org/pdf/2006.11834)(2020)
+10. Snippext: [Snippext: Semi-supervised Opinion Mining with Augmented Data](https://dl.acm.org/doi/pdf/10.1145/3366423.3380144)(2020)
+11. Emix: [Augmenting NLP models using Latent Feature Interpolations](https://aclanthology.org/2020.coling-main.611)(2020)
 ### Semi-Supervised
 1.  ICT: [Interpolation Consistency Training for Semi-Supervised Learning](https://arxiv.org/pdf/1903.03825.pdf?ref=https://githubhelp.com) [2019; CV]
 2.  MixMatch: [MixMatch: A Holistic Approach to Semi-Supervised Learning](https://proceedings.neurips.cc/paper/2019/file/1cd138d0499a68f4bb72bee04bbec2d7-Paper.pdf) [2019; CV]
@@ -120,6 +128,8 @@
 2. Metrix: [It Takes Two to Tango: Mixup for Deep Metric Learning](https://arxiv.org/pdf/2106.04990.pdf)(2022)
 ### Others
 1. C2L: [Comparing to Learn: Surpassing ImageNet Pretraining on Radiographs By Comparing Image Representations](https://arxiv.org/pdf/2007.07423)
+2. Mixup: [Mixup Learning Strategies for Text-independent Speaker Verification](https://cse.hkust.edu.hk/~mak/PDF/is2019-mixup.pdf)(2019)
+3. Mixup: [An investigation of mixup training strategies for acoustic models in ASR](https://www.isca-speech.org/archive_v0/Interspeech_2018/pdfs/2191.pdf)(2018)
 
 # Code Repositories
 {_Method_}\* denotes the code of _Method_ is reimplemented by others.
@@ -184,6 +194,10 @@
 59.  RecursiveMix: https://github.com/megvii-research/RecursiveMix
 60.  Pixmix: https://github.com/andyzoujm/pixmix
 61.  AlignMixup: https://github.com/shashankvkt/AlignMixup_CVPR22.git
+62.  AMDA: https://github.com/thunlp/MixADA
+63.  HypMix: https://github.com/caisa-lab/hypmix-emnlp
+64.  LADA: https://github.com/GT-SALT/LADA
+65:  Snippext: https://github.com/rit-git/Snippext_public
 
 ## Keys
 1.  Number of samples for mixup == 2;
