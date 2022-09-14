@@ -122,7 +122,10 @@
 2. BSIM: [Beyond Single Instance Multi-view Unsupervised Representation Learning](https://arxiv.org/pdf/2011.13356)(2020)
 3. Un-Mix: [Un-mix: Rethinking Image Mixtures for Unsupervised Visual Representation Learning](https://ojs.aaai.org/index.php/AAAI/article/view/20119/19878)(2022)
 4. MixCo: [MixCo: Mix-up Contrastive Learning for Visual Representation](https://arxiv.org/pdf/2010.06300)(2020)
-5. i-Mix: [i-mix: A domain-agnostic strategy for contrastive representation learning](https://arxiv.org/pdf/2010.08887)(202)
+5. i-Mix: [i-mix: A domain-agnostic strategy for contrastive representation learning](https://arxiv.org/pdf/2010.08887)(2020)
+5. MixSiam: [MixSiam: A Mixture-based Approach to Self-supervised Representation Learning](https://arxiv.org/pdf/2111.02679)(2021)
+6. Core-tuning: [Unleashing the Power of Contrastive Self-Supervised Visual Models via Contrast-Regularized Fine-Tuning](https://proceedings.neurips.cc/paper/2021/file/fa14d4fe2f19414de3ebd9f63d5c0169-Paper.pdf)(2021)
+7. Feature-Transformation: [Improving Contrastive Learning by Visualizing Feature Transformation](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_Improving_Contrastive_Learning_by_Visualizing_Feature_Transformation_ICCV_2021_paper.pdf)(2021)
 ### Metric Learning
 1. Embedding expansion: [Embedding expansion: Augmentation in embedding space for deep metric learning](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ko_Embedding_Expansion_Augmentation_in_Embedding_Space_for_Deep_Metric_Learning_CVPR_2020_paper.pdf)(2020)
 2. Metrix: [It Takes Two to Tango: Mixup for Deep Metric Learning](https://arxiv.org/pdf/2106.04990.pdf)(2022)
@@ -197,7 +200,9 @@
 62.  AMDA: https://github.com/thunlp/MixADA
 63.  HypMix: https://github.com/caisa-lab/hypmix-emnlp
 64.  LADA: https://github.com/GT-SALT/LADA
-65:  Snippext: https://github.com/rit-git/Snippext_public
+65.  Snippext: https://github.com/rit-git/Snippext_public
+66.  Core-tuning: https://github.com/Vanint/Core-tuning
+67.  Feature-Transformation: https://github.com/DTennant/CL-Visualizing-Feature-Transformation
 
 ## Keys
 1.  Number of samples for mixup == 2;
