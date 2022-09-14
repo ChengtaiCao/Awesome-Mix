@@ -58,6 +58,9 @@
 43. Pani: [Patch-level Neighborhood Interpolation: A General and Effective Graph-based Regularization Strategy](https://arxiv.org/pdf/1911.09307)(2019)
 44. HypMix: [HYPMIX: Hyperbolic Interpolative Data Augmentation](https://aclanthology.org/2021.emnlp-main.776)(2021)
 45. LADA: [Local Additivity Based Data Augmentation for Semi-supervised NER](https://arxiv.org/pdf/2010.01677)(2020)
+46. Mixup-with-AUM-and-SM: [On the Calibration of Pre-trained Language Models using Mixup Guided by Area Under the Margin and Saliency](https://arxiv.org/pdf/2203.07559)(2022)
+47. RandomMix: [RandomMix: A mixed sample data augmentation method with multiple mixed modes](https://arxiv.org/pdf/2205.08728)(2022)
+48. SuperpixelGridMasks: [SuperpixelGridCut, SuperpixelGridMean and SuperpixelGridMix Data Augmentation](https://arxiv.org/pdf/2204.08458)(2022)
 
 ## Others
 1.  SamplePairing: [Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/pdf/1801.02929) [2018; CV]
@@ -81,6 +84,10 @@
 9.  AdvAug: [AdvAug: Robust Adversarial Augmentation for Neural Machine Translation](https://arxiv.org/pdf/2006.11834)(2020)
 10. Snippext: [Snippext: Semi-supervised Opinion Mining with Augmented Data](https://dl.acm.org/doi/pdf/10.1145/3366423.3380144)(2020)
 11. Emix: [Augmenting NLP models using Latent Feature Interpolations](https://aclanthology.org/2020.coling-main.611)(2020)
+12. Calibrated-BERT-Fine-Tuning: [Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data](http://arxiv.org/pdf/2010.11506)(2020)
+13. STEMM: [STEMM: Self-learning with Speech-text Manifold Mixup for Speech Translation](https://arxiv.org/pdf/2203.10426)(2022)
+14. X-Mixup: [Enhancing Cross-lingual Transfer by Manifold Mixup](https://arxiv.org/pdf/2205.04182)(2022)
+15. mXEncDec: [Multilingual Mix: Example Interpolation Improves Multilingual Neural Machine Translation](https://arxiv.org/pdf/2203.07627)(2022)
 ### Semi-Supervised
 1.  ICT: [Interpolation Consistency Training for Semi-Supervised Learning](https://arxiv.org/pdf/1903.03825.pdf?ref=https://githubhelp.com) [2019; CV]
 2.  MixMatch: [MixMatch: A Holistic Approach to Semi-Supervised Learning](https://proceedings.neurips.cc/paper/2019/file/1cd138d0499a68f4bb72bee04bbec2d7-Paper.pdf) [2019; CV]
@@ -105,6 +112,7 @@
 7. VarMixup: [VarMixup: Exploiting the Latent Space for Robust Training and Inference](https://arxiv.org/pdf/2003.06566v1.pdf)(2020)
 8. GIF: [Guided Interpolation for Adversarial Training](https://arxiv.org/pdf/2102.07327)
 9. Mixup-SSAT: [Semi-supervised Semantics-guided Adversarial Training for Trajectory Prediction](https://arxiv.org/pdf/2205.14230)(2022)
+10. MixDiversity: [Mixup Decoding for Diverse Machine Translation](https://arxiv.org/pdf/2109.03402)(2021)
 
 ### Federated Learning
 1. Mix2FLD: [Mix2FLD: Downlink Federated Learning After Uplink Federated Distillation With Two-Way Mixup](https://ieeexplore.ieee.org/iel7/4234/5534602/09121290.pdf)(2020)
@@ -126,6 +134,7 @@
 5. MixSiam: [MixSiam: A Mixture-based Approach to Self-supervised Representation Learning](https://arxiv.org/pdf/2111.02679)(2021)
 6. Core-tuning: [Unleashing the Power of Contrastive Self-Supervised Visual Models via Contrast-Regularized Fine-Tuning](https://proceedings.neurips.cc/paper/2021/file/fa14d4fe2f19414de3ebd9f63d5c0169-Paper.pdf)(2021)
 7. Feature-Transformation: [Improving Contrastive Learning by Visualizing Feature Transformation](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_Improving_Contrastive_Learning_by_Visualizing_Feature_Transformation_ICCV_2021_paper.pdf)(2021)
+8. ProGCL: [ProGCL: Rethinking Hard Negative Mining in Graph Contrastive Learning](https://proceedings.mlr.press/v162/xia22b/xia22b.pdf)(2022)
 ### Metric Learning
 1. Embedding expansion: [Embedding expansion: Augmentation in embedding space for deep metric learning](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ko_Embedding_Expansion_Augmentation_in_Embedding_Space_for_Deep_Metric_Learning_CVPR_2020_paper.pdf)(2020)
 2. Metrix: [It Takes Two to Tango: Mixup for Deep Metric Learning](https://arxiv.org/pdf/2106.04990.pdf)(2022)
@@ -203,6 +212,12 @@
 65.  Snippext: https://github.com/rit-git/Snippext_public
 66.  Core-tuning: https://github.com/Vanint/Core-tuning
 67.  Feature-Transformation: https://github.com/DTennant/CL-Visualizing-Feature-Transformation
+68.  Mixup-with-AUM-and-SM: https://github.com/seoyeon-p/MixUp-Guided-by-AUM-and-Saliency-Map
+69.  Calibrated-BERT-Fine-Tuning: https://github.com/Lingkai-Kong/Calibrated-BERT-Fine-Tuning
+70.  ProGCL: https://github.com/junxia97/ProGCL
+71.  STEMM: https://github.com/ictnlp/STEMM
+72.  X-Mixup: https://github.com/yhy1117/X-Mixup
+73.  SuperpixelGridMasks: https://github.com/hammoudiproject/SuperpixelGridMasks
 
 ## Keys
 1.  Number of samples for mixup == 2;
