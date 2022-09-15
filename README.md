@@ -61,6 +61,8 @@
 46. Mixup-with-AUM-and-SM: [On the Calibration of Pre-trained Language Models using Mixup Guided by Area Under the Margin and Saliency](https://arxiv.org/pdf/2203.07559)(2022)
 47. RandomMix: [RandomMix: A mixed sample data augmentation method with multiple mixed modes](https://arxiv.org/pdf/2205.08728)(2022)
 48. SuperpixelGridMasks: [SuperpixelGridCut, SuperpixelGridMean and SuperpixelGridMix Data Augmentation](https://arxiv.org/pdf/2204.08458)(2022)
+49. M-mix: [M-Mix: Generating Hard Negatives via Multi-sample Mixing for Contrastive Learning](https://dl.acm.org/doi/pdf/10.1145/3534678.3539248)(2022)
+50. DMix: [DMIX: Adaptive Distance-aware Interpolative Mixup](https://aclanthology.org/2022.acl-short.67)(2022)
 
 ## Others
 1.  SamplePairing: [Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/pdf/1801.02929) [2018; CV]
@@ -142,6 +144,7 @@
 1. C2L: [Comparing to Learn: Surpassing ImageNet Pretraining on Radiographs By Comparing Image Representations](https://arxiv.org/pdf/2007.07423)
 2. Mixup: [Mixup Learning Strategies for Text-independent Speaker Verification](https://cse.hkust.edu.hk/~mak/PDF/is2019-mixup.pdf)(2019)
 3. Mixup: [An investigation of mixup training strategies for acoustic models in ASR](https://www.isca-speech.org/archive_v0/Interspeech_2018/pdfs/2191.pdf)(2018)
+4. VLMixer: [VLMixer: Unpaired Vision-Language Pre-training via Cross-Modal CutMix](https://proceedings.mlr.press/v162/wang22h/wang22h.pdf)(2022)
 
 # Code Repositories
 {_Method_}\* denotes the code of _Method_ is reimplemented by others.
@@ -218,6 +221,9 @@
 71.  STEMM: https://github.com/ictnlp/STEMM
 72.  X-Mixup: https://github.com/yhy1117/X-Mixup
 73.  SuperpixelGridMasks: https://github.com/hammoudiproject/SuperpixelGridMasks
+74.  M-mix: https://github.com/Sherrylone/m-mix
+75.  DMix: https://github.com/caisa-lab/DMix-ACL
+76.  VLMixer: https://github.com/ttengwang/VLMixer
 
 ## Keys
 1.  Number of samples for mixup == 2;
