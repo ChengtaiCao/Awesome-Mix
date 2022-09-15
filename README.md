@@ -63,6 +63,9 @@
 48. SuperpixelGridMasks: [SuperpixelGridCut, SuperpixelGridMean and SuperpixelGridMix Data Augmentation](https://arxiv.org/pdf/2204.08458)(2022)
 49. M-mix: [M-Mix: Generating Hard Negatives via Multi-sample Mixing for Contrastive Learning](https://dl.acm.org/doi/pdf/10.1145/3534678.3539248)(2022)
 50. DMix: [DMIX: Adaptive Distance-aware Interpolative Mixup](https://aclanthology.org/2022.acl-short.67)(2022)
+51. CSANMT: [Learning to Generalize to More: Continuous Semantic Augmentation for Neural Machine Translation](https://arxiv.org/pdf/2204.06812)(2022)
+53. GMix: [A Unified Analysis of Mixed Sample Data Augmentation: A Loss Function Perspective](https://arxiv.org/pdf/2208.09913)(2022)
+54. DMixup & DCutmix: [Observations on K-image Expansion of Image-Mixing Augmentation for Classification](https://arxiv.org/pdf/2110.04248)(2021)
 
 ## Others
 1.  SamplePairing: [Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/pdf/1801.02929) [2018; CV]
@@ -145,6 +148,7 @@
 2. Mixup: [Mixup Learning Strategies for Text-independent Speaker Verification](https://cse.hkust.edu.hk/~mak/PDF/is2019-mixup.pdf)(2019)
 3. Mixup: [An investigation of mixup training strategies for acoustic models in ASR](https://www.isca-speech.org/archive_v0/Interspeech_2018/pdfs/2191.pdf)(2018)
 4. VLMixer: [VLMixer: Unpaired Vision-Language Pre-training via Cross-Modal CutMix](https://proceedings.mlr.press/v162/wang22h/wang22h.pdf)(2022)
+5. VideoMix: [VideoMix: Rethinking Data Augmentation for Video Classification](https://arxiv.org/pdf/2012.03457)(2020)
 
 # Code Repositories
 {_Method_}\* denotes the code of _Method_ is reimplemented by others.
@@ -224,6 +228,8 @@
 74.  M-mix: https://github.com/Sherrylone/m-mix
 75.  DMix: https://github.com/caisa-lab/DMix-ACL
 76.  VLMixer: https://github.com/ttengwang/VLMixer
+77.  CSANMT: https://github.com/pemywei/csanmt
+78.  GMix: https://github.com/naver-ai/hmix-gmix
 
 ## Keys
 1.  Number of samples for mixup == 2;
