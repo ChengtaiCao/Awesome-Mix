@@ -1,7 +1,5 @@
-# Papers
-
-## Bese Method
-1.  Mixup: Mixup: Beyond Empirical Risk Minimization -- ICLR 2018 [[Paper](https://arxiv.org/pdf/1710.09412)] [Code](https://github.com/facebookresearch/mixup-cifar10) 
+# Bese Method
+[ICLR 2018]: Mixup: Mixup: Beyond Empirical Risk Minimization  [[Paper](https://arxiv.org/pdf/1710.09412)] [[Code](https://github.com/facebookresearch/mixup-cifar10)]
 2.  Cutmix: 
 2.  Framework: [Improved Mixed-Example Data Augmentation](https://arxiv.org/pdf/1805.11272.pdf?ref=https://githubhelp.com) [2018; CV]
 
