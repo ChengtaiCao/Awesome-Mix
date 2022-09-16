@@ -1,5 +1,5 @@
 # Bese Method
-* [ICLR 2018]: Mixup: Mixup: Beyond Empirical Risk Minimization  [[Paper](https://arxiv.org/pdf/1710.09412)] [[Code](https://github.com/facebookresearch/mixup-cifar10)]
+* [Mixup -- ICLR 2018] Mixup: Beyond Empirical Risk Minimization  [[Paper](https://arxiv.org/pdf/1710.09412)] [[Code](https://github.com/facebookresearch/mixup-cifar10)]
 * Cutmix: 
 
 
