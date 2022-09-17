@@ -13,7 +13,7 @@
 * [Adversarial Training -- Arxiv 2019] MixUp as Directional Adversarial Training [[paper](http://arxiv.org/pdf/1906.06875)]
 ## Uncertainty \& Calibration
 * [Uncertainty \& Calibration -- NIPS 2019] On Mixup Training: Improved Calibration and Predictive Uncertainty for Deep Neural Networks [[paper](https://proceedings.neurips.cc/paper/2019/file/36ad8b5f42db492827016448975cc22d-Paper.pdf)]
-* [Uncertainty \& Calibration -- SSPR 2021] On Calibration of Mixup Training for Deep Neural Networks [[paper](https://arxiv.org/pdf/2003.09946)]
+* [Uncertainty \& Calibration -- ICML 2022] When and How Mixup Improves Calibration [[paper](https://proceedings.mlr.press/v162/zhang22f/zhang22f.pdf)]
 
 2.  Framework: [Improved Mixed-Example Data Augmentation](https://arxiv.org/pdf/1805.11272.pdf?ref=https://githubhelp.com) [2018; CV]
 
