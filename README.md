@@ -7,6 +7,7 @@
 ## Regularization
 * [Regularization -- Arxiv 2020] [On Mixup Regularization] [[paper](http://arxiv.org/pdf/2006.06049)]
 * [Regularization -- ICLR 2021] [How Does Mixup Help With Robustness and Generalization?] [[paper](http://arxiv.org/pdf/2010.04819)] 
+* [Regularization -- Arxiv 2022] [A Unified Analysis of Mixed Sample Data Augmentation: A Loss Function Perspective] [[paper](http://arxiv.org/pdf/2208.09913)] [[code](https://github.com/naver-ai/hmix-gmix)]
 
 
 
