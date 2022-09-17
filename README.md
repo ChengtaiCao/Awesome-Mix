@@ -4,7 +4,9 @@
 # Theory
 ## Vicinal Risk Minimization
 * [VRM -- NeurIPS 2000] Vicinal Risk Minimization [[paper](https://proceedings.neurips.cc/paper/2000/file/ba9a56ce0a9bfa26e8ed9e10b2cc8f46-Paper.pdf)]
-
+## Regularization
+* [ORegularization -- Arxiv 2020] [On Mixup Regularization] [[paper](http://arxiv.org/pdf/2006.06049)]
+* [Regularization -- ICLR 2021] [How Does Mixup Help With Robustness and Generalization?] [[paper](http://arxiv.org/pdf/2010.04819)]
 
 
 
