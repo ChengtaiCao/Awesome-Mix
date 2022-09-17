@@ -4,6 +4,7 @@
 # Theory
 ## Vicinal Risk Minimization (VRM)
 * [VRM -- NeurIPS 2000] Vicinal Risk Minimization [[paper](https://proceedings.neurips.cc/paper/2000/file/ba9a56ce0a9bfa26e8ed9e10b2cc8f46-Paper.pdf)]
+* [VRM -- ICLR 2022] Towards Understanding the Data Dependency of Mixup-style Training [[paper](https://arxiv.org/pdf/2110.07647)] [[code](https://github.com/2014mchidamb/Mixup-Data-Dependency)] 
 ## Regularization
 * [Regularization -- Arxiv 2020] On Mixup Regularization [[paper](http://arxiv.org/pdf/2006.06049)]
 * [Regularization -- ICLR 2021] How Does Mixup Help With Robustness and Generalization? [[paper](http://arxiv.org/pdf/2010.04819)] 
