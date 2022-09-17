@@ -1,6 +1,9 @@
 # Bese Method
 * [Mixup -- ICLR 2018] Mixup: Beyond Empirical Risk Minimization [[Paper](https://arxiv.org/pdf/1710.09412)] [[Code](https://github.com/facebookresearch/mixup-cifar10)]
-* [Cutmix -- ICCV 2019] CutMix: Regularization Strategy to Train Strong Classifiers With Localizable Features [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf)] [[Code](https://github.com/clovaai/CutMix-PyTorch)] 
+* [Cutmix -- ICCV 2019] CutMix: Regularization Strategy to Train Strong Classifiers With Localizable Features [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf)] [[Code](https://github.com/clovaai/CutMix-PyTorch)]
+# Theory
+## Vicinal Risk Minimization
+* [VRM -- NeurIPS 2000] Vicinal Risk Minimization [[paper](https://proceedings.neurips.cc/paper/2000/file/ba9a56ce0a9bfa26e8ed9e10b2cc8f46-Paper.pdf)]
 
 
 
