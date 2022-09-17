@@ -2,12 +2,15 @@
 * [Mixup -- ICLR 2018] Mixup: Beyond Empirical Risk Minimization [[Paper](https://arxiv.org/pdf/1710.09412)] [[Code](https://github.com/facebookresearch/mixup-cifar10)]
 * [Cutmix -- ICCV 2019] CutMix: Regularization Strategy to Train Strong Classifiers With Localizable Features [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf)] [[Code](https://github.com/clovaai/CutMix-PyTorch)]
 # Theory
-## Vicinal Risk Minimization
+## Vicinal Risk Minimization (VRM)
 * [VRM -- NeurIPS 2000] Vicinal Risk Minimization [[paper](https://proceedings.neurips.cc/paper/2000/file/ba9a56ce0a9bfa26e8ed9e10b2cc8f46-Paper.pdf)]
 ## Regularization
-* [Regularization -- Arxiv 2020] [On Mixup Regularization] [[paper](http://arxiv.org/pdf/2006.06049)]
-* [Regularization -- ICLR 2021] [How Does Mixup Help With Robustness and Generalization?] [[paper](http://arxiv.org/pdf/2010.04819)] 
-* [Regularization -- Arxiv 2022] [A Unified Analysis of Mixed Sample Data Augmentation: A Loss Function Perspective] [[paper](http://arxiv.org/pdf/2208.09913)] [[code](https://github.com/naver-ai/hmix-gmix)]
+* [Regularization -- Arxiv 2020] On Mixup Regularization [[paper](http://arxiv.org/pdf/2006.06049)]
+* [Regularization -- ICLR 2021] How Does Mixup Help With Robustness and Generalization? [[paper](http://arxiv.org/pdf/2010.04819)] 
+* [Regularization -- Arxiv 2022] A Unified Analysis of Mixed Sample Data Augmentation: A Loss Function Perspective [[paper](http://arxiv.org/pdf/2208.09913)] [[code](https://github.com/naver-ai/hmix-gmix)]
+## Adversarial Training
+* [Adversarial Training -- Arxiv 2020] FMix: Enhancing Mixed Sample Data Augmentation [[paper](http://arxiv.org/pdf/2002.12047)] [[code](https://github.com/ecs-vlc/FMix)]
+* [Adversarial Training -- Arxiv 2019] MixUp as Directional Adversarial Training [[paper](http://arxiv.org/pdf/1906.06875)]
 
 
 
