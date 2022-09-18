@@ -10,7 +10,7 @@
 * [Regularization -- Arxiv 2020] On Mixup Regularization [[paper](http://arxiv.org/pdf/2006.06049)]
 * [Regularization -- ICLR 2021] How Does Mixup Help With Robustness and Generalization? [[paper](http://arxiv.org/pdf/2010.04819)] 
 * [Regularization -- Arxiv 2022] A Unified Analysis of Mixed Sample Data Augmentation: A Loss Function Perspective [[paper](http://arxiv.org/pdf/2208.09913)] [[code](https://github.com/naver-ai/hmix-gmix)]
-[Regularization -- IEEE Access 2018] Understanding mixup training methods [[paper](https://ieeexplore.ieee.org/iel7/6287639/8274985/08478159.pdf)] [[code](https://github.com/liangdaojun/spatial-mixup)]
+* [Regularization -- IEEE Access 2018] Understanding mixup training methods [[paper](https://ieeexplore.ieee.org/iel7/6287639/8274985/08478159.pdf)] [[code](https://github.com/liangdaojun/spatial-mixup)]
 ## Adversarial Training
 * [Adversarial Training -- Arxiv 2020] FMix: Enhancing Mixed Sample Data Augmentation [[paper](http://arxiv.org/pdf/2002.12047)] [[code](https://github.com/ecs-vlc/FMix)]
 * [Adversarial Training -- Arxiv 2019] MixUp as Directional Adversarial Training [[paper](http://arxiv.org/pdf/1906.06875)]
@@ -22,27 +22,14 @@
 ## Mixup-Based
 * [BC Learning -- ICLR 2018] Learning from Between-class Examples for Deep Sound Recognition [[paper](https://arxiv.org/pdf/1711.10282)] [[code](https://github.com/mil-tokyo/bc_learning_sound)]
 * [BC Learning + -- CVRP 2018] Between-class Learning for Image Classification [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tokozume_Between-Class_Learning_for_CVPR_2018_paper.pdf)] [[code](https://github.com/mil-tokyo/bc_learning_image)]
-
+* [AdaMixUp -- AAAI 2019] MixUp as Locally Linear Out-of-Manifold Regularization [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/4256/4134)] [[code](AdaMixUp*: https://github.com/SITE5039/AdaMixUp)]
 
 ## Cutmix-Based
 
 2.  Framework: [Improved Mixed-Example Data Augmentation](https://arxiv.org/pdf/1805.11272.pdf?ref=https://githubhelp.com) [2018; CV]
 
-## Theory
-1.  [On Mixup Regularization](https://arxiv.org/pdf/2006.06049.pdf) [2020]
-2.  [On Mixup Training: Improved Calibration and Predictive Uncertainty for Deep Neural Networks](https://proceedings.neurips.cc/paper/2019/file/36ad8b5f42db492827016448975cc22d-Paper.pdf) [2019]
-3.  [Understanding Mixup Training Methods](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8478159) [2018]
-4.  [Generalization Bounds for Vicinal Risk Minimization Principle](https://arxiv.org/pdf/1811.04351) [2018]
-5.  [MixUp as Directional Adversarial Training](http://arxiv.org/pdf/1906.06875)[2019]
-6.  [FMix: Enhancing Mixed Sample Data Augmentation](https://arxiv.org/pdf/2002.12047)[2020]
-
 ## Variants
-1.  CutMix: [CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf) [2019; CV, Robustness, Uncertainty]
 2.  RICAP: [RICAP: Random Image Cropping and Patching Data Augmentation for Deep CNNs](http://proceedings.mlr.press/v95/takahashi18a/takahashi18a.pdf) [2018; CV]
-3.  BC: [Learning from Between-Class Examples for Deep Sound Recognition](https://arxiv.org/pdf/1711.10282.pdf) [2018, Sound]
-4.  Manifold Mixup: [Manifold Mixup: Better Representations by Interpolating Hidden States](http://proceedings.mlr.press/v97/verma19a/verma19a.pdf) [2019; CV]
-5.  AdaMixUp: [MixUp as Locally Linear Out-of-Manifold Regularization](https://ojs.aaai.org/index.php/AAAI/article/download/4256/4134) [2019; CV]
-6.  Spatial-mixup: [Understanding Mixup Training Methods](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8478159) [2018; CV, GAN]
 7.  PuzzleMix: [Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup](http://proceedings.mlr.press/v119/kim20b/kim20b.pdf) [2020; CV, Robustness]
 8.  SmoothMix: [SmoothMix: a Simple Yet Effective Data Augmentation to Train Robust Classifiers](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w45/Lee_SmoothMix_A_Simple_Yet_Effective_Data_Augmentation_to_Train_Robust_CVPRW_2020_paper.pdf)(2020; CV, Robustness)
 9. ResizeMix: [ResizeMix: Mixing Data with Preserved Object Information and True Labels](https://arxiv.org/pdf/2012.11101.pdf)(2020; CV)
@@ -180,7 +167,6 @@
 4.  RICAP*: https://github.com/4uiiurz1/pytorch-ricap
 7.  Manifold Mixup: https://github.com/vikasverma1077/manifold_mixup
 8.  ICT: https://github.com/vikasverma1077/ICT
-9.  AdaMixUp*: https://github.com/SITE5039/AdaMixUp
 10.  Cutout: https://github.com/uoguelph-mlrg/Cutout
 11.  AMR: https://github.com/christopher-beckham/amr
 12.  MixMatch: https://github.com/google-research/mixmatch
@@ -258,3 +244,5 @@
     in some way distorted, i.e., vicinal distribution not match the true distribution of the data
 5.  Order of data augmentation;
 6.  the role of \alpha;
+
+{_Method_}\* denotes the code of _Method_ is reimplemented by others.
