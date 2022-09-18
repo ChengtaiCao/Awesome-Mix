@@ -20,6 +20,7 @@
 # Variant
 ## Mixup-Based
 * [BC Learning -- ICLR 2018] Learning from Between-class Examples for Deep Sound Recognition [[paper](https://arxiv.org/pdf/1711.10282)] [[code](https://github.com/mil-tokyo/bc_learning_sound)]
+* [BC Learning + -- CVRP 2018] Between-class Learning for Image Classification [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tokozume_Between-Class_Learning_for_CVPR_2018_paper.pdf)] [[code](https://github.com/mil-tokyo/bc_learning_image)]
 
 
 ## Cutmix-Based
@@ -174,12 +175,8 @@
 
 # Code Repositories
 {_Method_}\* denotes the code of _Method_ is reimplemented by others.
-1.  Mixip: https://github.com/facebookresearch/mixup-cifar10
 2.  Framework: https://github.com/ceciliaresearch/MixedExample
-3.  CutMix: https://github.com/clovaai/CutMix-PyTorch
 4.  RICAP*: https://github.com/4uiiurz1/pytorch-ricap
-5.  BC: 
-6.  BC+: https://github.com/mil-tokyo/bc_learning_image
 7.  Manifold Mixup: https://github.com/vikasverma1077/manifold_mixup
 8.  ICT: https://github.com/vikasverma1077/ICT
 9.  AdaMixUp*: https://github.com/SITE5039/AdaMixUp
