@@ -1,6 +1,7 @@
 # Bese Method
 * [Mixup -- ICLR 2018] Mixup: Beyond Empirical Risk Minimization [[Paper](https://arxiv.org/pdf/1710.09412)] [[Code](https://github.com/facebookresearch/mixup-cifar10)]
 * [Cutmix -- ICCV 2019] CutMix: Regularization Strategy to Train Strong Classifiers With Localizable Features [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf)] [[Code](https://github.com/clovaai/CutMix-PyTorch)]
+
 # Theory
 ## Vicinal Risk Minimization (VRM)
 * [VRM -- NeurIPS 2000] Vicinal Risk Minimization [[paper](https://proceedings.neurips.cc/paper/2000/file/ba9a56ce0a9bfa26e8ed9e10b2cc8f46-Paper.pdf)]
@@ -15,6 +16,13 @@
 ## Uncertainty \& Calibration
 * [Uncertainty \& Calibration -- NIPS 2019] On Mixup Training: Improved Calibration and Predictive Uncertainty for Deep Neural Networks [[paper](https://proceedings.neurips.cc/paper/2019/file/36ad8b5f42db492827016448975cc22d-Paper.pdf)]
 * [Uncertainty \& Calibration -- ICML 2022] When and How Mixup Improves Calibration [[paper](https://proceedings.mlr.press/v162/zhang22f/zhang22f.pdf)]
+
+# Variant
+## Mixup-Based
+* [BC Learning -- ICLR 2018] Learning from Between-class Examples for Deep Sound Recognition [[paper](https://arxiv.org/pdf/1711.10282)] [[code](https://github.com/mil-tokyo/bc_learning_sound)]
+
+
+## Cutmix-Based
 
 2.  Framework: [Improved Mixed-Example Data Augmentation](https://arxiv.org/pdf/1805.11272.pdf?ref=https://githubhelp.com) [2018; CV]
 
@@ -170,7 +178,7 @@
 2.  Framework: https://github.com/ceciliaresearch/MixedExample
 3.  CutMix: https://github.com/clovaai/CutMix-PyTorch
 4.  RICAP*: https://github.com/4uiiurz1/pytorch-ricap
-5.  BC: https://github.com/mil-tokyo/bc_learning_sound
+5.  BC: 
 6.  BC+: https://github.com/mil-tokyo/bc_learning_image
 7.  Manifold Mixup: https://github.com/vikasverma1077/manifold_mixup
 8.  ICT: https://github.com/vikasverma1077/ICT
