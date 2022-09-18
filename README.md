@@ -22,7 +22,7 @@
 ## Mixup-Based
 * [BC Learning -- ICLR 2018] Learning from Between-class Examples for Deep Sound Recognition [[paper](https://arxiv.org/pdf/1711.10282)] [[code](https://github.com/mil-tokyo/bc_learning_sound)]
 * [BC Learning + -- CVRP 2018] Between-class Learning for Image Classification [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tokozume_Between-Class_Learning_for_CVPR_2018_paper.pdf)] [[code](https://github.com/mil-tokyo/bc_learning_image)]
-* [AdaMixUp -- AAAI 2019] MixUp as Locally Linear Out-of-Manifold Regularization [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/4256/4134)] [[code](AdaMixUp*: https://github.com/SITE5039/AdaMixUp)]
+* [AdaMixUp -- AAAI 2019] MixUp as Locally Linear Out-of-Manifold Regularization [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/4256/4134)] [[code](https://github.com/SITE5039/AdaMixUp)]
 
 ## Cutmix-Based
 
