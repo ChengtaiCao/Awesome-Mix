@@ -22,11 +22,11 @@
 ## Mixup-Based
 * [BC Learning -- ICLR 2018] Learning from Between-class Examples for Deep Sound Recognition [[paper](https://arxiv.org/pdf/1711.10282)] [[code](https://github.com/mil-tokyo/bc_learning_sound)]
 * [BC Learning + -- CVRP 2018] Between-class Learning for Image Classification [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tokozume_Between-Class_Learning_for_CVPR_2018_paper.pdf)] [[code](https://github.com/mil-tokyo/bc_learning_image)]
-* [SamplePairing -- Arxiv 2018] Data Augmentation by Pairing Samples for Images Classification [[paper](https://arxiv.org/pdf/1801.02929)] [[{_code_}\*](https://github.com/junkwhinger/SamplePairing)]
+* [SamplePairing -- Arxiv 2018] Data Augmentation by Pairing Samples for Images Classification [[paper](https://arxiv.org/pdf/1801.02929)] [[_code_\*](https://github.com/junkwhinger/SamplePairing)]
 * [AdaMixUp -- AAAI 2019] MixUp as Locally Linear Out-of-Manifold Regularization [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/4256/4134)] [[_code_\*](https://github.com/SITE5039/AdaMixUp)]
 
 ## Cutmix-Based
-* [RICAP -- ACML 2018] RICAP: Random Image Cropping and Patching Data Augmentation for Deep CNNs [[paper](http://proceedings.mlr.press/v95/takahashi18a/takahashi18a.pdf)] [[{_code_}\*](https://github.com/4uiiurz1/pytorch-ricap)]
+* [RICAP -- ACML 2018] RICAP: Random Image Cropping and Patching Data Augmentation for Deep CNNs [[paper](http://proceedings.mlr.press/v95/takahashi18a/takahashi18a.pdf)] [[_code_\*](https://github.com/4uiiurz1/pytorch-ricap)]
 
 2.  Framework: [Improved Mixed-Example Data Augmentation](https://arxiv.org/pdf/1805.11272.pdf?ref=https://githubhelp.com) [2018; CV]
 
