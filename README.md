@@ -22,15 +22,15 @@
 ## Mixup-Based
 * [BC Learning -- ICLR 2018] Learning from Between-class Examples for Deep Sound Recognition [[paper](https://arxiv.org/pdf/1711.10282)] [[code](https://github.com/mil-tokyo/bc_learning_sound)]
 * [BC Learning + -- CVRP 2018] Between-class Learning for Image Classification [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tokozume_Between-Class_Learning_for_CVPR_2018_paper.pdf)] [[code](https://github.com/mil-tokyo/bc_learning_image)]
-* [SamplePairing -- Arxiv 2018] Data Augmentation by Pairing Samples for Images Classification [[paper](https://arxiv.org/pdf/1801.02929)] [[code*](https://github.com/junkwhinger/SamplePairing)]
-* [AdaMixUp -- AAAI 2019] MixUp as Locally Linear Out-of-Manifold Regularization [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/4256/4134)] [[code*](https://github.com/SITE5039/AdaMixUp)]
+* [SamplePairing -- Arxiv 2018] Data Augmentation by Pairing Samples for Images Classification [[paper](https://arxiv.org/pdf/1801.02929)] [[{_code_}\*](https://github.com/junkwhinger/SamplePairing)]
+* [AdaMixUp -- AAAI 2019] MixUp as Locally Linear Out-of-Manifold Regularization [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/4256/4134)] [[{_code_}\*](https://github.com/SITE5039/AdaMixUp)]
 
 ## Cutmix-Based
+* [RICAP -- ACML 2018] RICAP: Random Image Cropping and Patching Data Augmentation for Deep CNNs [[paper](http://proceedings.mlr.press/v95/takahashi18a/takahashi18a.pdf)] [[{_code_}\*](https://github.com/4uiiurz1/pytorch-ricap)]
 
 2.  Framework: [Improved Mixed-Example Data Augmentation](https://arxiv.org/pdf/1805.11272.pdf?ref=https://githubhelp.com) [2018; CV]
 
 ## Variants
-2.  RICAP: [RICAP: Random Image Cropping and Patching Data Augmentation for Deep CNNs](http://proceedings.mlr.press/v95/takahashi18a/takahashi18a.pdf) [2018; CV]
 7.  PuzzleMix: [Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup](http://proceedings.mlr.press/v119/kim20b/kim20b.pdf) [2020; CV, Robustness]
 8.  SmoothMix: [SmoothMix: a Simple Yet Effective Data Augmentation to Train Robust Classifiers](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w45/Lee_SmoothMix_A_Simple_Yet_Effective_Data_Augmentation_to_Train_Robust_CVPRW_2020_paper.pdf)(2020; CV, Robustness)
 9. ResizeMix: [ResizeMix: Mixing Data with Preserved Object Information and True Labels](https://arxiv.org/pdf/2012.11101.pdf)(2020; CV)
@@ -164,7 +164,6 @@
 # Code Repositories
 {_Method_}\* denotes the code of _Method_ is reimplemented by others.
 2.  Framework: https://github.com/ceciliaresearch/MixedExample
-4.  RICAP*: https://github.com/4uiiurz1/pytorch-ricap
 7.  Manifold Mixup: https://github.com/vikasverma1077/manifold_mixup
 8.  ICT: https://github.com/vikasverma1077/ICT
 10.  Cutout: https://github.com/uoguelph-mlrg/Cutout
