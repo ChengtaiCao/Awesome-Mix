@@ -10,6 +10,7 @@
 * [Regularization -- Arxiv 2020] On Mixup Regularization [[paper](http://arxiv.org/pdf/2006.06049)]
 * [Regularization -- ICLR 2021] How Does Mixup Help With Robustness and Generalization? [[paper](http://arxiv.org/pdf/2010.04819)] 
 * [Regularization -- Arxiv 2022] A Unified Analysis of Mixed Sample Data Augmentation: A Loss Function Perspective [[paper](http://arxiv.org/pdf/2208.09913)] [[code](https://github.com/naver-ai/hmix-gmix)]
+[Regularization -- IEEE Access 2018] Understanding mixup training methods [[paper](https://ieeexplore.ieee.org/iel7/6287639/8274985/08478159.pdf)] [[code](https://github.com/liangdaojun/spatial-mixup)]
 ## Adversarial Training
 * [Adversarial Training -- Arxiv 2020] FMix: Enhancing Mixed Sample Data Augmentation [[paper](http://arxiv.org/pdf/2002.12047)] [[code](https://github.com/ecs-vlc/FMix)]
 * [Adversarial Training -- Arxiv 2019] MixUp as Directional Adversarial Training [[paper](http://arxiv.org/pdf/1906.06875)]
@@ -187,7 +188,6 @@
 14.  VMT: https://github.com/xudonmao/VMT
 15.  DMRL: https://github.com/YuanWu3/Dual-Mixup-Regularized-Learning-for-Adversarial-Domain-Adaptation
 16.  TMix & MixText: https://github.com/GT-SALT/MixText
-17.  Spatial-mixup: https://github.com/liangdaojun/spatial-mixup/tree/master/models
 18.  SeqMix: https://github.com/rz-zhang/SeqMix
 19.  PuzzleMix: https://github.com/snu-mllab/PuzzleMix
 20.  FMix: https://github.com/ecs-vlc/FMix
