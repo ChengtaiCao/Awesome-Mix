@@ -22,7 +22,8 @@
 ## Mixup-Based
 * [BC Learning -- ICLR 2018] Learning from Between-class Examples for Deep Sound Recognition [[paper](https://arxiv.org/pdf/1711.10282)] [[code](https://github.com/mil-tokyo/bc_learning_sound)]
 * [BC Learning + -- CVRP 2018] Between-class Learning for Image Classification [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tokozume_Between-Class_Learning_for_CVPR_2018_paper.pdf)] [[code](https://github.com/mil-tokyo/bc_learning_image)]
-* [AdaMixUp -- AAAI 2019] MixUp as Locally Linear Out-of-Manifold Regularization [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/4256/4134)] [[code](https://github.com/SITE5039/AdaMixUp)]
+* [SamplePairing -- Arxiv 2018] Data Augmentation by Pairing Samples for Images Classification [[paper](https://arxiv.org/pdf/1801.02929)] [[code*](https://github.com/junkwhinger/SamplePairing)]
+* [AdaMixUp -- AAAI 2019] MixUp as Locally Linear Out-of-Manifold Regularization [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/4256/4134)] [[code*](https://github.com/SITE5039/AdaMixUp)]
 
 ## Cutmix-Based
 
@@ -79,7 +80,6 @@
 54. DMixup & DCutmix: [Observations on K-image Expansion of Image-Mixing Augmentation for Classification](https://arxiv.org/pdf/2110.04248)(2021)
 
 ## Others
-1.  SamplePairing: [Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/pdf/1801.02929) [2018; CV]
 2.  Cutout: [Improved Regularization of Convolutional Neural Networks with Cutout](https://arxiv.org/pdf/1708.04552.pdf) [2018; CV]
 3.  MixFeat: [Mixfeat: Mix feature in latent space learns discriminative space](https://openreview.net/pdf?id=HygT9oRqFX) [2019; CV]
 4.  FMix: [FMix: Enhancing Mixed Sample Data Augmentation](https://arxiv.org/pdf/2002.12047)[2020; CV, Robustness]
@@ -245,4 +245,4 @@
 5.  Order of data augmentation;
 6.  the role of \alpha;
 
-{_Method_}\* denotes the code of _Method_ is reimplemented by others.
+{_code_}\* denotes the code of _code_ is reimplemented by others.
