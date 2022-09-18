@@ -27,6 +27,7 @@
 
 ## Cutmix-Based
 * [RICAP -- ACML 2018] RICAP: Random Image Cropping and Patching Data Augmentation for Deep CNNs [[paper](http://proceedings.mlr.press/v95/takahashi18a/takahashi18a.pdf)] [[_code_\*](https://github.com/4uiiurz1/pytorch-ricap)]
+* [Attentive Cutmix -- ICASSP 2020] Attentive CutMix: An Enhanced Data Augmentation Approach for Deep Learning Based Image Classification [[paper](https://arxiv.org/pdf/2003.13048)] [[_code_\*](https://github.com/xden2331/attentive_cutmix)]
 
 2.  Framework: [Improved Mixed-Example Data Augmentation](https://arxiv.org/pdf/1805.11272.pdf?ref=https://githubhelp.com) [2018; CV]
 
