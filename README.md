@@ -23,7 +23,10 @@
 * [BC Learning -- ICLR 2018] Learning from Between-class Examples for Deep Sound Recognition [[paper](https://arxiv.org/pdf/1711.10282)] [[code](https://github.com/mil-tokyo/bc_learning_sound)]
 * [BC Learning + -- CVRP 2018] Between-class Learning for Image Classification [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tokozume_Between-Class_Learning_for_CVPR_2018_paper.pdf)] [[code](https://github.com/mil-tokyo/bc_learning_image)]
 * [SamplePairing -- Arxiv 2018] Data Augmentation by Pairing Samples for Images Classification [[paper](https://arxiv.org/pdf/1801.02929)] [[_code_\*](https://github.com/junkwhinger/SamplePairing)]
+* [Manifold Mixup -- ICML 2019] Manifold Mixup: Better Representations by Interpolating Hidden States [[paper](http://proceedings.mlr.press/v97/verma19a/verma19a.pdf)] [[_code_\*](https://github.com/vikasverma1077/manifold_mixup)]
 * [AdaMixUp -- AAAI 2019] MixUp as Locally Linear Out-of-Manifold Regularization [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/4256/4134)] [[_code_\*](https://github.com/SITE5039/AdaMixUp)]
+* [MetaMixUp -- TNNLS 2021] MetaMixUp: Learning Adaptive Interpolation Policy of MixUp with Meta-Learning [[paper](https://ieeexplore.ieee.org/iel7/5962385/6104215/09366422.pdf?casa_token=yeyn9EGO8PAAAAAA:QxbqK3Y2lYbKN1eX-wOGg6rf99WUalLPE3sKzkSSuwEBmDCky3E3ozOiA5-BjYM75qmAd5EdwvA)]
+* [Local Mixup -- Arxiv 2022] Preventing Manifold Intrusion with Locality: Local Mixup [[paper](https://arxiv.org/pdf/2201.04368)] [[code](https://github.com/raphael-baena/Local-Mixup)]
 
 ## Cutmix-Based
 * [RICAP -- ACML 2018] RICAP: Random Image Cropping and Patching Data Augmentation for Deep CNNs [[paper](http://proceedings.mlr.press/v95/takahashi18a/takahashi18a.pdf)] [[_code_\*](https://github.com/4uiiurz1/pytorch-ricap)]
@@ -165,7 +168,7 @@
 # Code Repositories
 {_Method_}\* denotes the code of _Method_ is reimplemented by others.
 2.  Framework: https://github.com/ceciliaresearch/MixedExample
-7.  Manifold Mixup: https://github.com/vikasverma1077/manifold_mixup
+7.  Manifold Mixup: 
 8.  ICT: https://github.com/vikasverma1077/ICT
 10.  Cutout: https://github.com/uoguelph-mlrg/Cutout
 11.  AMR: https://github.com/christopher-beckham/amr
