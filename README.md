@@ -30,7 +30,7 @@
 * [Remix -- ECCV 2022] Remix: Rebalanced Mixup  [[paper](https://arxiv.org/pdf/2007.03943)]
 
 ## Cutmix-Based
-* [MixdedExample -- WACV 2019] [[paper](https://ieeexplore.ieee.org/iel7/8642793/8658235/08659168.pdf?casa_token=vxPrsAdypIAAAAAA:3D8UWPSlFNhIpF7K9KKb3hSdDF79p3DXchPTv5qRBQHlJ8VwyDbldMUp0rtbxGVR5dDwBHMwfM8)] [[code](https://github.com/ceciliaresearch/MixedExample)]
+* [MixdedExample -- WACV 2019] Improved Mixed-Example Data Augmentation [[paper](https://ieeexplore.ieee.org/iel7/8642793/8658235/08659168.pdf?casa_token=vxPrsAdypIAAAAAA:3D8UWPSlFNhIpF7K9KKb3hSdDF79p3DXchPTv5qRBQHlJ8VwyDbldMUp0rtbxGVR5dDwBHMwfM8)] [[code](https://github.com/ceciliaresearch/MixedExample)]
 * [RICAP -- ACML 2018] RICAP: Random Image Cropping and Patching Data Augmentation for Deep CNNs [[paper](http://proceedings.mlr.press/v95/takahashi18a/takahashi18a.pdf)] [[_code_\*](https://github.com/4uiiurz1/pytorch-ricap)]
 * [SaliencyMix -- ILCR 2021] SaliencyMix: A Saliency Guided Data Augmentation Strategy for Better Regularization [[paper](https://arxiv.org/pdf/2006.01791)] [[code](https://github.com/SaliencyMix/SaliencyMix)]
 * [Puzzle Mix -- ICML 2020] Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup [[paper](http://proceedings.mlr.press/v119/kim20b/kim20b.pdf)] [[code](https://github.com/snu-mllab/PuzzleMix)]
