@@ -12,7 +12,7 @@
 * [Regularization -- Arxiv 2022] [A Unified Analysis of Mixed Sample Data Augmentation: A Loss Function Perspective](http://arxiv.org/pdf/2208.09913) [[code](https://github.com/naver-ai/hmix-gmix)]
 * [Regularization -- IEEE Access 2018] [Understanding mixup training methods](https://ieeexplore.ieee.org/iel7/6287639/8274985/08478159.pdf) [[code](https://github.com/liangdaojun/spatial-mixup)]
 ## Adversarial Training
-* [Adversarial Training -- Arxiv 2020] [FMix: Enhancing Mixed Sample Data Augmentation](http://arxiv.org/pdf/2002.12047) [[code](https://github.com/ecs-vlc/FMix)
+* [Adversarial Training -- Arxiv 2020] [FMix: Enhancing Mixed Sample Data Augmentation](http://arxiv.org/pdf/2002.12047) [[code](https://github.com/ecs-vlc/FMix)]
 * [Adversarial Training -- Arxiv 2019] [MixUp as Directional Adversarial Training](http://arxiv.org/pdf/1906.06875)
 ## Uncertainty \& Calibration
 * [Uncertainty \& Calibration -- NIPS 2019] [On Mixup Training: Improved Calibration and Predictive Uncertainty for Deep Neural Networks](https://proceedings.neurips.cc/paper/2019/file/36ad8b5f42db492827016448975cc22d-Paper.pdf)
@@ -22,7 +22,7 @@
 ## Mixup-Based
 * [BC Learning -- ICLR 2018] [Learning from Between-class Examples for Deep Sound Recognition](https://arxiv.org/pdf/1711.10282) [[code](https://github.com/mil-tokyo/bc_learning_sound)]
 * [BC Learning + -- CVRP 2018] [Between-class Learning for Image Classification](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tokozume_Between-Class_Learning_for_CVPR_2018_paper.pdf) [[code](https://github.com/mil-tokyo/bc_learning_image)]
-* [SamplePairing -- Arxiv 2018] [Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/pdf/1801.02929) [[_code_\*](https://github.com/junkwhinger/SamplePairing)
+* [SamplePairing -- Arxiv 2018] [Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/pdf/1801.02929) [[_code_\*](https://github.com/junkwhinger/SamplePairing)]
 * [Manifold Mixup -- ICML 2019] [Manifold Mixup: Better Representations by Interpolating Hidden States](http://proceedings.mlr.press/v97/verma19a/verma19a.pdf) [[_code_\*](https://github.com/vikasverma1077/manifold_mixup)]
 * [AdaMixUp -- AAAI 2019] [MixUp as Locally Linear Out-of-Manifold Regularization](https://ojs.aaai.org/index.php/AAAI/article/download/4256/4134) [[_code_\*](https://github.com/SITE5039/AdaMixUp)]
 * [MetaMixUp -- TNNLS 2021] [MetaMixUp: Learning Adaptive Interpolation Policy of MixUp with Meta-Learning](https://ieeexplore.ieee.org/iel7/5962385/6104215/09366422.pdf?casa_token=yeyn9EGO8PAAAAAA:QxbqK3Y2lYbKN1eX-wOGg6rf99WUalLPE3sKzkSSuwEBmDCky3E3ozOiA5-BjYM75qmAd5EdwvA)
@@ -30,7 +30,7 @@
 * [Remix -- ECCV 2022] [Remix: Rebalanced Mixup ](https://arxiv.org/pdf/2007.03943)
 
 ## Cutmix-Based
-* [MixdedExample -- WACV 2019] [Improved Mixed-Example Data Augmentation](https://ieeexplore.ieee.org/iel7/8642793/8658235/08659168.pdf?casa_token=vxPrsAdypIAAAAAA:3D8UWPSlFNhIpF7K9KKb3hSdDF79p3DXchPTv5qRBQHlJ8VwyDbldMUp0rtbxGVR5dDwBHMwfM8) [[code](https://github.com/ceciliaresearch/MixedExample)
+* [MixdedExample -- WACV 2019] [Improved Mixed-Example Data Augmentation](https://ieeexplore.ieee.org/iel7/8642793/8658235/08659168.pdf?casa_token=vxPrsAdypIAAAAAA:3D8UWPSlFNhIpF7K9KKb3hSdDF79p3DXchPTv5qRBQHlJ8VwyDbldMUp0rtbxGVR5dDwBHMwfM8) [[code](https://github.com/ceciliaresearch/MixedExample)]
 * [RICAP -- ACML 2018] [RICAP: Random Image Cropping and Patching Data Augmentation for Deep CNNs](http://proceedings.mlr.press/v95/takahashi18a/takahashi18a.pdf) [[_code_\*](https://github.com/4uiiurz1/pytorch-ricap)]
 * [SaliencyMix -- ILCR 2021] [SaliencyMix: A Saliency Guided Data Augmentation Strategy for Better Regularization](https://arxiv.org/pdf/2006.01791) [[code](https://github.com/SaliencyMix/SaliencyMix)]
 * [Puzzle Mix -- ICML 2020] [Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup](http://proceedings.mlr.press/v119/kim20b/kim20b.pdf) [[code](https://github.com/snu-mllab/PuzzleMix)]
