@@ -1,16 +1,16 @@
 # Bese Method
-* [Mixup -- ICLR 2018] [Mixup: Beyond Empirical Risk Minimization](https://arxiv.org/pdf/1710.09412) [[Code](https://github.com/facebookresearch/mixup-cifar10)
-* [Cutmix -- ICCV 2019] [CutMix: Regularization Strategy to Train Strong Classifiers With Localizable Features](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf) [[Code](https://github.com/clovaai/CutMix-PyTorch)
+* [Mixup -- ICLR 2018] [Mixup: Beyond Empirical Risk Minimization](https://arxiv.org/pdf/1710.09412) [[Code](https://github.com/facebookresearch/mixup-cifar10)]
+* [Cutmix -- ICCV 2019] [CutMix: Regularization Strategy to Train Strong Classifiers With Localizable Features](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf) [[Code](https://github.com/clovaai/CutMix-PyTorch)]
 
 # Theory
 ## Vicinal Risk Minimization (VRM)
 * [VRM -- NeurIPS 2000] [Vicinal Risk Minimization](https://proceedings.neurips.cc/paper/2000/file/ba9a56ce0a9bfa26e8ed9e10b2cc8f46-Paper.pdf)
-* [VRM -- ICLR 2022] Towards Understanding the Data Dependency of Mixup-style Training](https://arxiv.org/pdf/2110.07647) [[code](https://github.com/2014mchidamb/Mixup-Data-Dependency) 
+* [VRM -- ICLR 2022] Towards Understanding the Data Dependency of Mixup-style Training](https://arxiv.org/pdf/2110.07647) [[code](https://github.com/2014mchidamb/Mixup-Data-Dependency)]
 ## Regularization
 * [Regularization -- Arxiv 2020] On Mixup Regularization](http://arxiv.org/pdf/2006.06049)
 * [Regularization -- ICLR 2021] How Does Mixup Help With Robustness and Generalization?](http://arxiv.org/pdf/2010.04819) 
-* [Regularization -- Arxiv 2022] A Unified Analysis of Mixed Sample Data Augmentation: A Loss Function Perspective](http://arxiv.org/pdf/2208.09913) [[code](https://github.com/naver-ai/hmix-gmix)
-* [Regularization -- IEEE Access 2018] Understanding mixup training methods](https://ieeexplore.ieee.org/iel7/6287639/8274985/08478159.pdf) [[code](https://github.com/liangdaojun/spatial-mixup)
+* [Regularization -- Arxiv 2022] A Unified Analysis of Mixed Sample Data Augmentation: A Loss Function Perspective](http://arxiv.org/pdf/2208.09913) [[code](https://github.com/naver-ai/hmix-gmix)]
+* [Regularization -- IEEE Access 2018] Understanding mixup training methods](https://ieeexplore.ieee.org/iel7/6287639/8274985/08478159.pdf) [[code](https://github.com/liangdaojun/spatial-mixup)]
 ## Adversarial Training
 * [Adversarial Training -- Arxiv 2020] FMix: Enhancing Mixed Sample Data Augmentation](http://arxiv.org/pdf/2002.12047) [[code](https://github.com/ecs-vlc/FMix)
 * [Adversarial Training -- Arxiv 2019] MixUp as Directional Adversarial Training](http://arxiv.org/pdf/1906.06875)
@@ -20,22 +20,22 @@
 
 # Variant
 ## Mixup-Based
-* [BC Learning -- ICLR 2018] Learning from Between-class Examples for Deep Sound Recognition](https://arxiv.org/pdf/1711.10282) [[code](https://github.com/mil-tokyo/bc_learning_sound)
-* [BC Learning + -- CVRP 2018] Between-class Learning for Image Classification](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tokozume_Between-Class_Learning_for_CVPR_2018_paper.pdf) [[code](https://github.com/mil-tokyo/bc_learning_image)
+* [BC Learning -- ICLR 2018] Learning from Between-class Examples for Deep Sound Recognition](https://arxiv.org/pdf/1711.10282) [[code](https://github.com/mil-tokyo/bc_learning_sound)]
+* [BC Learning + -- CVRP 2018] Between-class Learning for Image Classification](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tokozume_Between-Class_Learning_for_CVPR_2018_paper.pdf) [[code](https://github.com/mil-tokyo/bc_learning_image)]
 * [SamplePairing -- Arxiv 2018] Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/pdf/1801.02929) [[_code_\*](https://github.com/junkwhinger/SamplePairing)
-* [Manifold Mixup -- ICML 2019] Manifold Mixup: Better Representations by Interpolating Hidden States](http://proceedings.mlr.press/v97/verma19a/verma19a.pdf) [[_code_\*](https://github.com/vikasverma1077/manifold_mixup)
-* [AdaMixUp -- AAAI 2019] MixUp as Locally Linear Out-of-Manifold Regularization](https://ojs.aaai.org/index.php/AAAI/article/download/4256/4134) [[_code_\*](https://github.com/SITE5039/AdaMixUp)
+* [Manifold Mixup -- ICML 2019] Manifold Mixup: Better Representations by Interpolating Hidden States](http://proceedings.mlr.press/v97/verma19a/verma19a.pdf) [[_code_\*](https://github.com/vikasverma1077/manifold_mixup)]
+* [AdaMixUp -- AAAI 2019] MixUp as Locally Linear Out-of-Manifold Regularization](https://ojs.aaai.org/index.php/AAAI/article/download/4256/4134) [[_code_\*](https://github.com/SITE5039/AdaMixUp)]
 * [MetaMixUp -- TNNLS 2021] MetaMixUp: Learning Adaptive Interpolation Policy of MixUp with Meta-Learning](https://ieeexplore.ieee.org/iel7/5962385/6104215/09366422.pdf?casa_token=yeyn9EGO8PAAAAAA:QxbqK3Y2lYbKN1eX-wOGg6rf99WUalLPE3sKzkSSuwEBmDCky3E3ozOiA5-BjYM75qmAd5EdwvA)
-* [Local Mixup -- Arxiv 2022] Preventing Manifold Intrusion with Locality: Local Mixup](https://arxiv.org/pdf/2201.04368) [[code](https://github.com/raphael-baena/Local-Mixup)
+* [Local Mixup -- Arxiv 2022] Preventing Manifold Intrusion with Locality: Local Mixup](https://arxiv.org/pdf/2201.04368) [[code](https://github.com/raphael-baena/Local-Mixup)]
 * [Remix -- ECCV 2022] Remix: Rebalanced Mixup ](https://arxiv.org/pdf/2007.03943)
 
 ## Cutmix-Based
 * [MixdedExample -- WACV 2019] Improved Mixed-Example Data Augmentation](https://ieeexplore.ieee.org/iel7/8642793/8658235/08659168.pdf?casa_token=vxPrsAdypIAAAAAA:3D8UWPSlFNhIpF7K9KKb3hSdDF79p3DXchPTv5qRBQHlJ8VwyDbldMUp0rtbxGVR5dDwBHMwfM8) [[code](https://github.com/ceciliaresearch/MixedExample)
-* [RICAP -- ACML 2018] RICAP: Random Image Cropping and Patching Data Augmentation for Deep CNNs](http://proceedings.mlr.press/v95/takahashi18a/takahashi18a.pdf) [[_code_\*](https://github.com/4uiiurz1/pytorch-ricap)
-* [SaliencyMix -- ILCR 2021] SaliencyMix: A Saliency Guided Data Augmentation Strategy for Better Regularization](https://arxiv.org/pdf/2006.01791) [[code](https://github.com/SaliencyMix/SaliencyMix)
-* [Puzzle Mix -- ICML 2020] Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup](http://proceedings.mlr.press/v119/kim20b/kim20b.pdf) [[code](https://github.com/snu-mllab/PuzzleMix)
-* [SSMix -- ACL 2021] SSMix: Saliency-Based Span Mixup for Text Classification](https://arxiv.org/pdf/2106.08062) [[code](https://github.com/clovaai/ssmix)
-* [Attentive Cutmix -- ICASSP 2020] Attentive CutMix: An Enhanced Data Augmentation Approach for Deep Learning Based Image Classification](https://arxiv.org/pdf/2003.13048) [[_code_\*](https://github.com/xden2331/attentive_cutmix)
+* [RICAP -- ACML 2018] RICAP: Random Image Cropping and Patching Data Augmentation for Deep CNNs](http://proceedings.mlr.press/v95/takahashi18a/takahashi18a.pdf) [[_code_\*](https://github.com/4uiiurz1/pytorch-ricap)]
+* [SaliencyMix -- ILCR 2021] SaliencyMix: A Saliency Guided Data Augmentation Strategy for Better Regularization](https://arxiv.org/pdf/2006.01791) [[code](https://github.com/SaliencyMix/SaliencyMix)]
+* [Puzzle Mix -- ICML 2020] Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup](http://proceedings.mlr.press/v119/kim20b/kim20b.pdf) [[code](https://github.com/snu-mllab/PuzzleMix)]
+* [SSMix -- ACL 2021] SSMix: Saliency-Based Span Mixup for Text Classification](https://arxiv.org/pdf/2106.08062) [[code](https://github.com/clovaai/ssmix)]
+* [Attentive Cutmix -- ICASSP 2020] Attentive CutMix: An Enhanced Data Augmentation Approach for Deep Learning Based Image Classification](https://arxiv.org/pdf/2003.13048) [[_code_\*](https://github.com/xden2331/attentive_cutmix)]
 
 2.  Framework: [Improved Mixed-Example Data Augmentation](https://arxiv.org/pdf/1805.11272.pdf?ref=https://githubhelp.com) [2018; CV]
 
