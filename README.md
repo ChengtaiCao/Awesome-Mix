@@ -27,8 +27,10 @@
 * [AdaMixUp -- AAAI 2019] MixUp as Locally Linear Out-of-Manifold Regularization [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/4256/4134)] [[_code_\*](https://github.com/SITE5039/AdaMixUp)]
 * [MetaMixUp -- TNNLS 2021] MetaMixUp: Learning Adaptive Interpolation Policy of MixUp with Meta-Learning [[paper](https://ieeexplore.ieee.org/iel7/5962385/6104215/09366422.pdf?casa_token=yeyn9EGO8PAAAAAA:QxbqK3Y2lYbKN1eX-wOGg6rf99WUalLPE3sKzkSSuwEBmDCky3E3ozOiA5-BjYM75qmAd5EdwvA)]
 * [Local Mixup -- Arxiv 2022] Preventing Manifold Intrusion with Locality: Local Mixup [[paper](https://arxiv.org/pdf/2201.04368)] [[code](https://github.com/raphael-baena/Local-Mixup)]
+* [Remix -- ECCV 2022] Remix: Rebalanced Mixup  [[paper](https://arxiv.org/pdf/2007.03943)]
 
 ## Cutmix-Based
+* [MixdedExample -- WACV 2019] [[paper](https://ieeexplore.ieee.org/iel7/8642793/8658235/08659168.pdf?casa_token=vxPrsAdypIAAAAAA:3D8UWPSlFNhIpF7K9KKb3hSdDF79p3DXchPTv5qRBQHlJ8VwyDbldMUp0rtbxGVR5dDwBHMwfM8)] [[code](https://github.com/ceciliaresearch/MixedExample)]
 * [RICAP -- ACML 2018] RICAP: Random Image Cropping and Patching Data Augmentation for Deep CNNs [[paper](http://proceedings.mlr.press/v95/takahashi18a/takahashi18a.pdf)] [[_code_\*](https://github.com/4uiiurz1/pytorch-ricap)]
 * [Attentive Cutmix -- ICASSP 2020] Attentive CutMix: An Enhanced Data Augmentation Approach for Deep Learning Based Image Classification [[paper](https://arxiv.org/pdf/2003.13048)] [[_code_\*](https://github.com/xden2331/attentive_cutmix)]
 
@@ -45,8 +47,6 @@
 14. SSMix: [SSMix: Saliency-Based Span Mixup for Text Classification](https://arxiv.org/pdf/2106.08062)(2021; NLP)
 15. DJMix: [DJMix: Unsupervised Task-agnostic Augmentation for Improving Robustness](https://openreview.net/pdf?id=0n3BaVlNsHI)(2021; CV)
 16. StyleMix: [StyleMix: Separating Content and Style for Enhanced Data Augmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_StyleMix_Separating_Content_and_Style_for_Enhanced_Data_Augmentation_CVPR_2021_paper.pdf)(2021; CV)
-17. Local Mixup: [Preventing Manifold Intrusion with Locality: Local Mixup](https://arxiv.org/pdf/2201.04368)(2022)
-18. Remix: [Remix: Rebalanced Mixup](https://arxiv.org/pdf/2007.03943)(2020)
 19. k-Mixup: [k-Mixup Regularization for Deep Learning via Optimal Transport](https://arxiv.org/pdf/2106.02933)(2021)
 20. MixMo: [MixMo: Mixing Multiple Inputs for Multiple Outputs via Deep Subnetworks](https://openaccess.thecvf.com/content/ICCV2021/papers/Rame_MixMo_Mixing_Multiple_Inputs_for_Multiple_Outputs_via_Deep_Subnetworks_ICCV_2021_paper.pdf)(2021)
 21. SaliencyMix: [SaliencyMix: A Saliency Guided Data Augmentation Strategy for Better Regularization](https://arxiv.org/pdf/2006.01791)(2021)
