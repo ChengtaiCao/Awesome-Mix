@@ -33,12 +33,12 @@
 * [MixdedExample -- WACV 2019] [[paper](https://ieeexplore.ieee.org/iel7/8642793/8658235/08659168.pdf?casa_token=vxPrsAdypIAAAAAA:3D8UWPSlFNhIpF7K9KKb3hSdDF79p3DXchPTv5qRBQHlJ8VwyDbldMUp0rtbxGVR5dDwBHMwfM8)] [[code](https://github.com/ceciliaresearch/MixedExample)]
 * [RICAP -- ACML 2018] RICAP: Random Image Cropping and Patching Data Augmentation for Deep CNNs [[paper](http://proceedings.mlr.press/v95/takahashi18a/takahashi18a.pdf)] [[_code_\*](https://github.com/4uiiurz1/pytorch-ricap)]
 * [SaliencyMix -- ILCR 2021] SaliencyMix: A Saliency Guided Data Augmentation Strategy for Better Regularization [[paper](https://arxiv.org/pdf/2006.01791)] [[code](https://github.com/SaliencyMix/SaliencyMix)]
+* [Puzzle Mix -- ICML 2020] Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup [[paper](http://proceedings.mlr.press/v119/kim20b/kim20b.pdf)] [[code](https://github.com/snu-mllab/PuzzleMix)]
 * [Attentive Cutmix -- ICASSP 2020] Attentive CutMix: An Enhanced Data Augmentation Approach for Deep Learning Based Image Classification [[paper](https://arxiv.org/pdf/2003.13048)] [[_code_\*](https://github.com/xden2331/attentive_cutmix)]
 
 2.  Framework: [Improved Mixed-Example Data Augmentation](https://arxiv.org/pdf/1805.11272.pdf?ref=https://githubhelp.com) [2018; CV]
 
 ## Variants
-7.  PuzzleMix: [Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup](http://proceedings.mlr.press/v119/kim20b/kim20b.pdf) [2020; CV, Robustness]
 8.  SmoothMix: [SmoothMix: a Simple Yet Effective Data Augmentation to Train Robust Classifiers](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w45/Lee_SmoothMix_A_Simple_Yet_Effective_Data_Augmentation_to_Train_Robust_CVPRW_2020_paper.pdf)(2020; CV, Robustness)
 9. ResizeMix: [ResizeMix: Mixing Data with Preserved Object Information and True Labels](https://arxiv.org/pdf/2012.11101.pdf)(2020; CV)
 10. AugMix: [AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty](https://openreview.net/pdf?id=S1gmrxHFvB)(2020; CV, Robustness)
@@ -171,7 +171,6 @@
 2.  Framework: https://github.com/ceciliaresearch/MixedExample
 7.  Manifold Mixup: 
 8.  ICT: https://github.com/vikasverma1077/ICT
-10.  Cutout: https://github.com/uoguelph-mlrg/Cutout
 11.  AMR: https://github.com/christopher-beckham/amr
 12.  MixMatch: https://github.com/google-research/mixmatch
 13.  ACAI: https://github.com/brain-research/acai
@@ -179,7 +178,6 @@
 15.  DMRL: https://github.com/YuanWu3/Dual-Mixup-Regularized-Learning-for-Adversarial-Domain-Adaptation
 16.  TMix & MixText: https://github.com/GT-SALT/MixText
 18.  SeqMix: https://github.com/rz-zhang/SeqMix
-19.  PuzzleMix: https://github.com/snu-mllab/PuzzleMix
 20.  FMix: https://github.com/ecs-vlc/FMix
 21.  SmoothMix: https://github.com/jh-jeong/smoothmix
 22.  ResizeMix*: https://github.com/HarborYuan/pytorch-macos-bench
