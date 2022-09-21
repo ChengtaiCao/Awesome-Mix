@@ -32,6 +32,7 @@
 ## Cutmix-Based
 * [MixdedExample -- WACV 2019] [[paper](https://ieeexplore.ieee.org/iel7/8642793/8658235/08659168.pdf?casa_token=vxPrsAdypIAAAAAA:3D8UWPSlFNhIpF7K9KKb3hSdDF79p3DXchPTv5qRBQHlJ8VwyDbldMUp0rtbxGVR5dDwBHMwfM8)] [[code](https://github.com/ceciliaresearch/MixedExample)]
 * [RICAP -- ACML 2018] RICAP: Random Image Cropping and Patching Data Augmentation for Deep CNNs [[paper](http://proceedings.mlr.press/v95/takahashi18a/takahashi18a.pdf)] [[_code_\*](https://github.com/4uiiurz1/pytorch-ricap)]
+* [SaliencyMix -- ILCR 2021] SaliencyMix: A Saliency Guided Data Augmentation Strategy for Better Regularization [[paper](https://arxiv.org/pdf/2006.01791)] [[code](https://github.com/SaliencyMix/SaliencyMix)]
 * [Attentive Cutmix -- ICASSP 2020] Attentive CutMix: An Enhanced Data Augmentation Approach for Deep Learning Based Image Classification [[paper](https://arxiv.org/pdf/2003.13048)] [[_code_\*](https://github.com/xden2331/attentive_cutmix)]
 
 2.  Framework: [Improved Mixed-Example Data Augmentation](https://arxiv.org/pdf/1805.11272.pdf?ref=https://githubhelp.com) [2018; CV]
