@@ -34,6 +34,7 @@
 * [RICAP -- ACML 2018] RICAP: Random Image Cropping and Patching Data Augmentation for Deep CNNs [[paper](http://proceedings.mlr.press/v95/takahashi18a/takahashi18a.pdf)] [[_code_\*](https://github.com/4uiiurz1/pytorch-ricap)]
 * [SaliencyMix -- ILCR 2021] SaliencyMix: A Saliency Guided Data Augmentation Strategy for Better Regularization [[paper](https://arxiv.org/pdf/2006.01791)] [[code](https://github.com/SaliencyMix/SaliencyMix)]
 * [Puzzle Mix -- ICML 2020] Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup [[paper](http://proceedings.mlr.press/v119/kim20b/kim20b.pdf)] [[code](https://github.com/snu-mllab/PuzzleMix)]
+* [SSMix -- ACL 2021] SSMix: Saliency-Based Span Mixup for Text Classification [[paper](https://arxiv.org/pdf/2106.08062)] [[code](https://github.com/clovaai/ssmix)]
 * [Attentive Cutmix -- ICASSP 2020] Attentive CutMix: An Enhanced Data Augmentation Approach for Deep Learning Based Image Classification [[paper](https://arxiv.org/pdf/2003.13048)] [[_code_\*](https://github.com/xden2331/attentive_cutmix)]
 
 2.  Framework: [Improved Mixed-Example Data Augmentation](https://arxiv.org/pdf/1805.11272.pdf?ref=https://githubhelp.com) [2018; CV]
@@ -45,7 +46,6 @@
 11. StackMix: [StackMix: A complementary Mix algorithm](https://proceedings.mlr.press/v180/chen22b/chen22b.pdf)(2022; CV, Robustness)
 12. FocusMix: [Where to cut and paste: Data regularization with selective features](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9289404&casa_token=ZOkscThNTpQAAAAA:AhalGFG_kjrXgaEZRzo5E3QN2mNC7gdnF1PtAd7MG0-rXbaHSS1JzZiM5wWv7hLR8plKxXy4F3U)(2020; CV)
 13. Mixup Inference: [Mixup Inference: Better Exploiting Mixup to Defend Adversarial Attacks](https://arxiv.org/pdf/1909.11515)(2020; CV, Robustness)
-14. SSMix: [SSMix: Saliency-Based Span Mixup for Text Classification](https://arxiv.org/pdf/2106.08062)(2021; NLP)
 15. DJMix: [DJMix: Unsupervised Task-agnostic Augmentation for Improving Robustness](https://openreview.net/pdf?id=0n3BaVlNsHI)(2021; CV)
 16. StyleMix: [StyleMix: Separating Content and Style for Enhanced Data Augmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_StyleMix_Separating_Content_and_Style_for_Enhanced_Data_Augmentation_CVPR_2021_paper.pdf)(2021; CV)
 19. k-Mixup: [k-Mixup Regularization for Deep Learning via Optimal Transport](https://arxiv.org/pdf/2106.02933)(2021)
@@ -99,7 +99,6 @@
 3.  Mixup-Transformer: [Mixup-Transformer: Dynamic Data Augmentation for NLP Tasks](https://arxiv.org/pdf/2010.02394) [2020; NLP]
 4.  SeqMix: [SeqMix: Augmenting Active Sequence Labeling via Sequence Mixup](https://arxiv.org/pdf/2010.02322) [2020; NLP]
 5.  Nonlinear Mixup: [Nonlinear Mixup: Out-Of-Manifold Data Augmentation for Text Classification](https://ojs.aaai.org/index.php/AAAI/article/view/5822/5678) [2020; NLP]
-6.  SSMix: [SSMix: Saliency-Based Span Mixup for Text Classification](https://arxiv.org/pdf/2106.08062)(2021; NLP)
 7.  SeqMix: [Sequence-Level Mixed Sample Data Augmentation](https://arxiv.org/pdf/2011.09039)(2020)
 8.  AMDA: [Better Robustness by More Coverage: Adversarial and Mixup Data Augmentation for Robust Finetuning](https://aclanthology.org/2021.findings-acl.137.pdf)(2021)
 9.  AdvAug: [AdvAug: Robust Adversarial Augmentation for Neural Machine Translation](https://arxiv.org/pdf/2006.11834)(2020)
@@ -184,7 +183,6 @@
 23.  AugMix: https://github.com/google-research/augmi
 24.  Mixup Inference: https://github.com/P2333/Mixup-Inference
 25.  FedMix: https://github.com/smduan
-26.  SSMix: https://github.com/clovaai/ssmix
 27.  GraphMix: https://github.com/vikasverma1077/GraphMix
 28.  PointMixup: https://github.com/yunlu-chen/PointMixup
 29.  PA-AUG: https://github.com/sky77764/pa-aug.pytorch
