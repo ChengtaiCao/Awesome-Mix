@@ -27,6 +27,7 @@
 * [AdaMixUp -- AAAI 2019] [MixUp as Locally Linear Out-of-Manifold Regularization](https://ojs.aaai.org/index.php/AAAI/article/download/4256/4134) [[_code_\*](https://github.com/SITE5039/AdaMixUp)]
 * [MetaMixUp -- TNNLS 2021] [MetaMixUp: Learning Adaptive Interpolation Policy of MixUp with Meta-Learning](https://ieeexplore.ieee.org/iel7/5962385/6104215/09366422.pdf?casa_token=yeyn9EGO8PAAAAAA:QxbqK3Y2lYbKN1eX-wOGg6rf99WUalLPE3sKzkSSuwEBmDCky3E3ozOiA5-BjYM75qmAd5EdwvA)
 * [Local Mixup -- Arxiv 2022] [Preventing Manifold Intrusion with Locality: Local Mixup](https://arxiv.org/pdf/2201.04368) [[code](https://github.com/raphael-baena/Local-Mixup)]
+* [Nonlinear Mixup -- AAAI 2020] : [Out-Of-Manifold Data Augmentation for Text Classification]((https://ojs.aaai.org/index.php/AAAI/article/view/5822/5678))
 * [Remix -- ECCV 2022] [Remix: Rebalanced Mixup ](https://arxiv.org/pdf/2007.03943)
 
 ## Cutmix-Based
@@ -96,7 +97,6 @@
 2.  TMix & MixText: [MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification](https://arxiv.org/pdf/2004.12239.pdf) [2020; NLP]
 3.  Mixup-Transformer: [Mixup-Transformer: Dynamic Data Augmentation for NLP Tasks](https://arxiv.org/pdf/2010.02394) [2020; NLP]
 4.  SeqMix: [SeqMix: Augmenting Active Sequence Labeling via Sequence Mixup](https://arxiv.org/pdf/2010.02322) [2020; NLP]
-5.  Nonlinear Mixup: [Nonlinear Mixup: Out-Of-Manifold Data Augmentation for Text Classification](https://ojs.aaai.org/index.php/AAAI/article/view/5822/5678) [2020; NLP]
 7.  SeqMix: [Sequence-Level Mixed Sample Data Augmentation](https://arxiv.org/pdf/2011.09039)(2020)
 8.  AMDA: [Better Robustness by More Coverage: Adversarial and Mixup Data Augmentation for Robust Finetuning](https://aclanthology.org/2021.findings-acl.137.pdf)(2021)
 9.  AdvAug: [AdvAug: Robust Adversarial Augmentation for Neural Machine Translation](https://arxiv.org/pdf/2006.11834)(2020)
