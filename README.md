@@ -32,10 +32,11 @@
 ## Cutmix-Based
 * [MixdedExample -- WACV 2019] [Improved Mixed-Example Data Augmentation](https://ieeexplore.ieee.org/iel7/8642793/8658235/08659168.pdf?casa_token=vxPrsAdypIAAAAAA:3D8UWPSlFNhIpF7K9KKb3hSdDF79p3DXchPTv5qRBQHlJ8VwyDbldMUp0rtbxGVR5dDwBHMwfM8) [[code](https://github.com/ceciliaresearch/MixedExample)]
 * [RICAP -- ACML 2018] [RICAP: Random Image Cropping and Patching Data Augmentation for Deep CNNs](http://proceedings.mlr.press/v95/takahashi18a/takahashi18a.pdf) [[_code_\*](https://github.com/4uiiurz1/pytorch-ricap)]
+* [Attentive Cutmix -- ICASSP 2020] [Attentive CutMix: An Enhanced Data Augmentation Approach for Deep Learning Based Image Classification](https://arxiv.org/pdf/2003.13048) [[_code_\*](https://github.com/xden2331/attentive_cutmix)]
+* [TransMix -- CVPR 2022] [TransMix: Attend to Mix for Vision Transformers](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_TransMix_Attend_To_Mix_for_Vision_Transformers_CVPR_2022_paper.pdf) [[code](TransMix: https://github.com/Beckschen/TransMix)]
 * [SaliencyMix -- ILCR 2021] [SaliencyMix: A Saliency Guided Data Augmentation Strategy for Better Regularization](https://arxiv.org/pdf/2006.01791) [[code](https://github.com/SaliencyMix/SaliencyMix)]
 * [Puzzle Mix -- ICML 2020] [Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup](http://proceedings.mlr.press/v119/kim20b/kim20b.pdf) [[code](https://github.com/snu-mllab/PuzzleMix)]
 * [SSMix -- ACL 2021] [SSMix: Saliency-Based Span Mixup for Text Classification](https://arxiv.org/pdf/2106.08062) [[code](https://github.com/clovaai/ssmix)]
-* [Attentive Cutmix -- ICASSP 2020] [Attentive CutMix: An Enhanced Data Augmentation Approach for Deep Learning Based Image Classification](https://arxiv.org/pdf/2003.13048) [[_code_\*](https://github.com/xden2331/attentive_cutmix)]
 
 ## Variants
 8.  SmoothMix: [SmoothMix: a Simple Yet Effective Data Augmentation to Train Robust Classifiers](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w45/Lee_SmoothMix_A_Simple_Yet_Effective_Data_Augmentation_to_Train_Robust_CVPRW_2020_paper.pdf)(2020; CV, Robustness)
@@ -63,7 +64,6 @@
 33. PatchUp: [PatchUp: A Regularization Technique for Convolutional Neural Networks](PatchUp)(2022)
 34. MultiMix: [Teach me how to Interpolate a Myriad of Embeddings](https://arxiv.org/pdf/2205.14230)(2022)
 35. DM: [Decoupled Mixup for Data-efficient Learning](https://arxiv.org/pdf/2203.10761)(2022)
-36. TransMix: [TransMix: Attend to Mix for Vision Transformers](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_TransMix_Attend_To_Mix_for_Vision_Transformers_CVPR_2022_paper.pdf)(2022)
 37. TokenMix: [TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers](https://arxiv.org/pdf/2207.08409)(2022)
 38. Saliency Grafting: [Saliency Grafting: Innocuous Attribution-Guided Mixup with Calibrated Label Mixing](https://ojs.aaai.org/index.php/AAAI/article/view/20766/20525)(2022)
 39. RecursiveMix: [RecursiveMix: Mixed Learning with History](https://arxiv.org/pdf/2203.06844)(2022)
@@ -211,7 +211,6 @@
 54.  AutoMix: https://github.com/Westlake-AI/openmixup
 55.  PatchUp: https://github.com/chandar-lab/PatchUp
 56.  Metrix: https://tinyurl.com/metrix-iclr
-57.  TransMix: https://github.com/Beckschen/TransMix
 58.  TokenMix: https://github.com/Sense-X/TokenMix
 59.  RecursiveMix: https://github.com/megvii-research/RecursiveMix
 60.  Pixmix: https://github.com/andyzoujm/pixmix
