@@ -40,6 +40,7 @@
 * [SSMix -- ACL 2021] [SSMix: Saliency-Based Span Mixup for Text Classification](https://arxiv.org/pdf/2106.08062) [[code](https://github.com/clovaai/ssmix)]
 * [Saliency Grafting -- AAAI 2022] [Saliency Grafting: Innocuous Attribution-Guided Mixup with Calibrated Label Mixing](https://ojs.aaai.org/index.php/AAAI/article/view/20766/20525)
 * [Co-Mixup -- ICLR 2021] [Co-Mixup: Saliency Guided Joint Mixup with Supermodular Diversity](https://arxiv.org/pdf/2102.03065) [[code](https://github.com/snu-mllab/Co-Mixup)]
+* [SnapMix -- AAAI 2021] [SnapMix: Semantically Proportional Mixing for Augmenting Fine-grained Data](https://ojs.aaai.org/index.php/AAAI/article/view/16255/16062) [[code](https://github.com/Shaoli-Huang/SnapMix)]
 * [TokenMix -- ECCV 2022] [TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers](https://arxiv.org/pdf/2207.08409) [[code](https://github.com/Sense-X/TokenMix)]
 
 ## Variants
@@ -53,9 +54,6 @@
 16. StyleMix: [StyleMix: Separating Content and Style for Enhanced Data Augmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_StyleMix_Separating_Content_and_Style_for_Enhanced_Data_Augmentation_CVPR_2021_paper.pdf)(2021; CV)
 19. k-Mixup: [k-Mixup Regularization for Deep Learning via Optimal Transport](https://arxiv.org/pdf/2106.02933)(2021)
 20. MixMo: [MixMo: Mixing Multiple Inputs for Multiple Outputs via Deep Subnetworks](https://openaccess.thecvf.com/content/ICCV2021/papers/Rame_MixMo_Mixing_Multiple_Inputs_for_Multiple_Outputs_via_Deep_Subnetworks_ICCV_2021_paper.pdf)(2021)
-21. SaliencyMix: [SaliencyMix: A Saliency Guided Data Augmentation Strategy for Better Regularization](https://arxiv.org/pdf/2006.01791)(2021)
-22. SnapMix: [Snapmix: Semantically proportional mixing for augmenting fine-grained data](https://ojs.aaai.org/index.php/AAAI/article/view/16255/16062)(2021)
-23. Co-Mixup: [Co-Mixup: Saliency Guided Joint Mixup with Supermodular Diversity](https://arxiv.org/pdf/2102.03065)(2021)
 24. SuperMix: [SuperMix: Supervising the Mixing Data Augmentation](http://openaccess.thecvf.com/content/CVPR2021/papers/Dabouei_SuperMix_Supervising_the_Mixing_Data_Augmentation_CVPR_2021_paper.pdf)(2021)
 25. PatchMix: [Evolving Image Compositions for Feature Representation Learning](https://arxiv.org/pdf/2106.09011)(2021)
 26. SAMix: [Boosting Discriminative Visual Representation Learning with Scenario-Agnostic Mixup](https://arxiv.org/pdf/2111.15454)(2021)
@@ -192,9 +190,6 @@
 34.  Mixmo: https://github.com/alexrame/mixmo-pytorch
 35.  MoEx: https://github.com/Boyiliee/MoEx
 36.  Mixstyle: https://github.com/KaiyangZhou/mixstyle-release
-37.  SaliencyMix: https://github.com/afm-shahab-uddin/SaliencyMix
-38.  SnapMix: https://github.com/Shaoli-Huang/SnapMix.git
-39.  Co-Mixup: https://github.com/snu-mllab/Co-Mixup
 40.  SuperMix: https://github.com/alldbi/SuperMix
 41.  Mochi: https://europe.naverlabs.com/mochi
 42.  Embedding-expansion: https://github.com/clovaai/embedding-expansion
