@@ -33,6 +33,7 @@
 * [BatchMixup -- IJCNLP 2021] [BatchMixup: Improving Training by Interpolating Hidden States of the Entire Mini-batch]([BATCHMIXUP: Improving Training by Interpolating Hidden States of the Entire Mini-batch](https://aclanthology.org/2021.findings-acl.434.pdf))
 * [PixMix -- CVPR 2022] [PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures](https://openaccess.thecvf.com/content/CVPR2022/papers/Hendrycks_PixMix_Dreamlike_Pictures_Comprehensively_Improve_Safety_Measures_CVPR_2022_paper.pdf) [[code](https://github.com/andyzoujm/pixmix)]
 * [Remix -- ECCV 2022] [Remix: Rebalanced Mixup ](https://arxiv.org/pdf/2007.03943)
+* [MWh -- ICIG 2021] [Mixup Without Hesitation](https://arxiv.org/pdf/2101.04342) [[code](https://github.com/yuhao318/mwh)]
 
 ## Cutmix-Based
 * [MixdedExample -- WACV 2019] [Improved Mixed-Example Data Augmentation](https://ieeexplore.ieee.org/iel7/8642793/8658235/08659168.pdf?casa_token=vxPrsAdypIAAAAAA:3D8UWPSlFNhIpF7K9KKb3hSdDF79p3DXchPTv5qRBQHlJ8VwyDbldMUp0rtbxGVR5dDwBHMwfM8) [[code](https://github.com/ceciliaresearch/MixedExample)]
@@ -47,6 +48,7 @@
 * [SnapMix -- AAAI 2021] [SnapMix: Semantically Proportional Mixing for Augmenting Fine-grained Data](https://ojs.aaai.org/index.php/AAAI/article/view/16255/16062) [[code](https://github.com/Shaoli-Huang/SnapMix)]
 * [TokenMix -- ECCV 2022] [TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers](https://arxiv.org/pdf/2207.08409) [[code](https://github.com/Sense-X/TokenMix)]
 * [ScoreMix -- CVPR 2022] [ScoreNet: Learning Non-Uniform Attention and Augmentation for Transformer-Based Histopathological Image Classification](https://arxiv.org/pdf/2202.07570) 
+* [GridMix -- Pattern Recognition 2021] [GridMix: Strong regularization through local context mapping](https://www.sciencedirect.com/science/article/pii/S0031320320303976?casa_token=oQ7NhHPxs1cAAAAA:U0cFG2ASbufAHEPW4m14bxaUMsXK3QE6ke-sjpvbpkcbbLAd_YFSUEbUU2DECq3H7IjtW2dRpAQ)
 * [RecursiveMix -- Arxiv 2022] [RecursiveMix: Mixed Learning with History](https://arxiv.org/pdf/2203.06844) [[code](https://github.com/megvii-research/RecursiveMix)]
 
 ## Variants
@@ -62,9 +64,7 @@
 20. MixMo: [MixMo: Mixing Multiple Inputs for Multiple Outputs via Deep Subnetworks](https://openaccess.thecvf.com/content/ICCV2021/papers/Rame_MixMo_Mixing_Multiple_Inputs_for_Multiple_Outputs_via_Deep_Subnetworks_ICCV_2021_paper.pdf)(2021)
 25. PatchMix: [Evolving Image Compositions for Feature Representation Learning](https://arxiv.org/pdf/2106.09011)(2021)
 26. SAMix: [Boosting Discriminative Visual Representation Learning with Scenario-Agnostic Mixup](https://arxiv.org/pdf/2111.15454)(2021)
-27. mWh: [Mixup Without Hesitation](https://arxiv.org/pdf/2101.04342)(2021)
 28. CAMixup: [Combining Ensembles and Data Augmentation can Harm your Calibration](https://arxiv.org/pdf/2010.09875)(2021)
-29. GridMix: [GridMix: Strongregularizationthroughlocalcontextmapping](https://www.sciencedirect.com/science/article/pii/S0031320320303976?casa_token=oQ7NhHPxs1cAAAAA:U0cFG2ASbufAHEPW4m14bxaUMsXK3QE6ke-sjpvbpkcbbLAd_YFSUEbUU2DECq3H7IjtW2dRpAQ)(2021)
 31. AMP: [Adversarial Mixing Policy for Relaxing Locally Linear Constraints in Mixup](https://arxiv.org/pdf/2109.07177)(2021)
 32. AutoMix: [AutoMix: Unveiling the Power of Mixup for Stronger Classifiers](https://arxiv.org/pdf/2103.13027)(2022)
 33. PatchUp: [PatchUp: A Regularization Technique for Convolutional Neural Networks](PatchUp)(2022)
@@ -195,7 +195,6 @@
 43.  C2L: https://github.com/funnyzhou/C2L_MICCAI2020
 44.  Un-Mix: https://github.com/szq0214/Un-Mix
 45.  MixCo: https://github.com/Lee-Gihun/MixCo-Mixup-Contrast
-46.  mwh: https://github.com/yuhao318/mwh
 47.  DivideMix: https://github.com/LiJunnan1992/DivideMix
 48.  CAMixup: https://github.com/google/edward2/tree/master/experimental/marginalization_mixup
 49.  DivideMix: https://github.com/LiJunnan1992/DivideMix
