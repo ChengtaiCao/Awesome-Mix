@@ -32,7 +32,7 @@
 * [LADA -- EMNLP 2020] [Local Additivity Based Data Augmentation for Semi-supervised NER](https://arxiv.org/pdf/2010.01677) [[code](https://github.com/GT-SALT/LADA)]
 * [Nonlinear Mixup -- AAAI 2020] : [Out-Of-Manifold Data Augmentation for Text Classification](https://ojs.aaai.org/index.php/AAAI/article/view/5822/5678)
 * [SuperMix -- CVPR 2021] [SuperMix: Supervising the Mixing Data Augmentation](http://openaccess.thecvf.com/content/CVPR2021/papers/Dabouei_SuperMix_Supervising_the_Mixing_Data_Augmentation_CVPR_2021_paper.pdf) [[code](https://github.com/alldbi/SuperMix)]
-* [BatchMixup -- IJCNLP 2021] [BatchMixup: Improving Training by Interpolating Hidden States of the Entire Mini-batch]([BATCHMIXUP: Improving Training by Interpolating Hidden States of the Entire Mini-batch](https://aclanthology.org/2021.findings-acl.434.pdf))
+* [BatchMixup -- IJCNLP 2021] [BatchMixup: Improving Training by Interpolating Hidden States of the Entire Mini-batch] [BATCHMIXUP: Improving Training by Interpolating Hidden States of the Entire Mini-batch](https://aclanthology.org/2021.findings-acl.434.pdf)
 * [PixMix -- CVPR 2022] [PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures](https://openaccess.thecvf.com/content/CVPR2022/papers/Hendrycks_PixMix_Dreamlike_Pictures_Comprehensively_Improve_Safety_Measures_CVPR_2022_paper.pdf) [[code](https://github.com/andyzoujm/pixmix)]
 * [Remix -- ECCV 2022] [Remix: Rebalanced Mixup ](https://arxiv.org/pdf/2007.03943)
 * [MWh -- ICIG 2021] [Mixup Without Hesitation](https://arxiv.org/pdf/2101.04342) [[code](https://github.com/yuhao318/mwh)]
