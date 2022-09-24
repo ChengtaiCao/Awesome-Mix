@@ -49,15 +49,15 @@
 * [Saliency Grafting -- AAAI 2022] [Saliency Grafting: Innocuous Attribution-Guided Mixup with Calibrated Label Mixing](https://ojs.aaai.org/index.php/AAAI/article/view/20766/20525)
 * [Co-Mixup -- ICLR 2021] [Co-Mixup: Saliency Guided Joint Mixup with Supermodular Diversity](https://arxiv.org/pdf/2102.03065) [[code](https://github.com/snu-mllab/Co-Mixup)]
 * [SnapMix -- AAAI 2021] [SnapMix: Semantically Proportional Mixing for Augmenting Fine-grained Data](https://ojs.aaai.org/index.php/AAAI/article/view/16255/16062) [[code](https://github.com/Shaoli-Huang/SnapMix)]
+* [ResizeMix -- Arxiv 2020] [ResizeMix: Mixing Data with Preserved Object Information and True Labels]((https://arxiv.org/pdf/2012.11101.pdf)) [[_code_\*](https://github.com/HarborYuan/pytorch-macos-bench)]
 * [TokenMix -- ECCV 2022] [TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers](https://arxiv.org/pdf/2207.08409) [[code](https://github.com/Sense-X/TokenMix)]
 * [ScoreMix -- CVPR 2022] [ScoreNet: Learning Non-Uniform Attention and Augmentation for Transformer-Based Histopathological Image Classification](https://arxiv.org/pdf/2202.07570) 
 * [GridMix -- Pattern Recognition 2021] [GridMix: Strong regularization through local context mapping](https://www.sciencedirect.com/science/article/pii/S0031320320303976?casa_token=oQ7NhHPxs1cAAAAA:U0cFG2ASbufAHEPW4m14bxaUMsXK3QE6ke-sjpvbpkcbbLAd_YFSUEbUU2DECq3H7IjtW2dRpAQ)
 * [PatchMix -- BMWC 2021] [Evolving Image Compositions for Feature Representation Learning](https://arxiv.org/pdf/2106.09011)
 * [RecursiveMix -- Arxiv 2022] [RecursiveMix: Mixed Learning with History](https://arxiv.org/pdf/2203.06844) [[code](https://github.com/megvii-research/RecursiveMix)]
+* [SmoothMix -- CVPR 2020] [SmoothMix: a Simple Yet Effective Data Augmentation to Train Robust Classifiers](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w45/Lee_SmoothMix_A_Simple_Yet_Effective_Data_Augmentation_to_Train_Robust_CVPRW_2020_paper.pdf)(2020; CV, Robustness) [[code](https://github.com/jh-jeong/smoothmix)]
 
 ## Variants
-8.  SmoothMix: [SmoothMix: a Simple Yet Effective Data Augmentation to Train Robust Classifiers](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w45/Lee_SmoothMix_A_Simple_Yet_Effective_Data_Augmentation_to_Train_Robust_CVPRW_2020_paper.pdf)(2020; CV, Robustness)
-9. ResizeMix: [ResizeMix: Mixing Data with Preserved Object Information and True Labels](https://arxiv.org/pdf/2012.11101.pdf)(2020; CV)
 10. AugMix: [AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty](https://openreview.net/pdf?id=S1gmrxHFvB)(2020; CV, Robustness)
 11. StackMix: [StackMix: A complementary Mix algorithm](https://proceedings.mlr.press/v180/chen22b/chen22b.pdf)(2022; CV, Robustness)
 12. FocusMix: [Where to cut and paste: Data regularization with selective features](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9289404&casa_token=ZOkscThNTpQAAAAA:AhalGFG_kjrXgaEZRzo5E3QN2mNC7gdnF1PtAd7MG0-rXbaHSS1JzZiM5wWv7hLR8plKxXy4F3U)(2020; CV)
@@ -175,8 +175,6 @@
 16.  TMix & MixText: https://github.com/GT-SALT/MixText
 18.  SeqMix: https://github.com/rz-zhang/SeqMix
 20.  FMix: https://github.com/ecs-vlc/FMix
-21.  SmoothMix: https://github.com/jh-jeong/smoothmix
-22.  ResizeMix*: https://github.com/HarborYuan/pytorch-macos-bench
 23.  AugMix: https://github.com/google-research/augmi
 24.  Mixup Inference: https://github.com/P2333/Mixup-Inference
 25.  FedMix: https://github.com/smduan
