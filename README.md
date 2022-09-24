@@ -42,6 +42,7 @@
 * [Co-Mixup -- ICLR 2021] [Co-Mixup: Saliency Guided Joint Mixup with Supermodular Diversity](https://arxiv.org/pdf/2102.03065) [[code](https://github.com/snu-mllab/Co-Mixup)]
 * [SnapMix -- AAAI 2021] [SnapMix: Semantically Proportional Mixing for Augmenting Fine-grained Data](https://ojs.aaai.org/index.php/AAAI/article/view/16255/16062) [[code](https://github.com/Shaoli-Huang/SnapMix)]
 * [TokenMix -- ECCV 2022] [TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers](https://arxiv.org/pdf/2207.08409) [[code](https://github.com/Sense-X/TokenMix)]
+* [RecursiveMix -- Arxiv 2022] [RecursiveMix: Mixed Learning with History](https://arxiv.org/pdf/2203.06844) [[code](https://github.com/megvii-research/RecursiveMix)]
 
 ## Variants
 8.  SmoothMix: [SmoothMix: a Simple Yet Effective Data Augmentation to Train Robust Classifiers](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w45/Lee_SmoothMix_A_Simple_Yet_Effective_Data_Augmentation_to_Train_Robust_CVPRW_2020_paper.pdf)(2020; CV, Robustness)
@@ -66,7 +67,6 @@
 33. PatchUp: [PatchUp: A Regularization Technique for Convolutional Neural Networks](PatchUp)(2022)
 34. MultiMix: [Teach me how to Interpolate a Myriad of Embeddings](https://arxiv.org/pdf/2205.14230)(2022)
 35. DM: [Decoupled Mixup for Data-efficient Learning](https://arxiv.org/pdf/2203.10761)(2022)
-39. RecursiveMix: [RecursiveMix: Mixed Learning with History](https://arxiv.org/pdf/2203.06844)(2022)
 40. ScoreMix: [ScoreNet: Learning Non-Uniform Attention and Augmentation for Transformer-Based Histopathological Image Classification](https://arxiv.org/pdf/2202.07570)(2022)
 41. PixMix: [PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures](https://openaccess.thecvf.com/content/CVPR2022/papers/Hendrycks_PixMix_Dreamlike_Pictures_Comprehensively_Improve_Safety_Measures_CVPR_2022_paper.pdf)(2022)
 42. AlignMixup: [AlignMixup: Improving Representations By Interpolating Aligned Features](https://openaccess.thecvf.com/content/CVPR2022/papers/Venkataramanan_AlignMixup_Improving_Representations_by_Interpolating_Aligned_Features_CVPR_2022_paper.pdf)(2022)
@@ -207,7 +207,6 @@
 54.  AutoMix: https://github.com/Westlake-AI/openmixup
 55.  PatchUp: https://github.com/chandar-lab/PatchUp
 56.  Metrix: https://tinyurl.com/metrix-iclr
-59.  RecursiveMix: https://github.com/megvii-research/RecursiveMix
 60.  Pixmix: https://github.com/andyzoujm/pixmix
 61.  AlignMixup: https://github.com/shashankvkt/AlignMixup_CVPR22.git
 62.  AMDA: https://github.com/thunlp/MixADA
