@@ -29,6 +29,7 @@
 * [Local Mixup -- Arxiv 2022] [Preventing Manifold Intrusion with Locality: Local Mixup](https://arxiv.org/pdf/2201.04368) [[code](https://github.com/raphael-baena/Local-Mixup)]
 * [Nonlinear Mixup -- AAAI 2020] : [Out-Of-Manifold Data Augmentation for Text Classification](https://ojs.aaai.org/index.php/AAAI/article/view/5822/5678)
 * [Remix -- ECCV 2022] [Remix: Rebalanced Mixup ](https://arxiv.org/pdf/2007.03943)
+* [PixMix -- CVPR 2022] [PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures](https://openaccess.thecvf.com/content/CVPR2022/papers/Hendrycks_PixMix_Dreamlike_Pictures_Comprehensively_Improve_Safety_Measures_CVPR_2022_paper.pdf) [[code](https://github.com/andyzoujm/pixmix)]
 
 ## Cutmix-Based
 * [MixdedExample -- WACV 2019] [Improved Mixed-Example Data Augmentation](https://ieeexplore.ieee.org/iel7/8642793/8658235/08659168.pdf?casa_token=vxPrsAdypIAAAAAA:3D8UWPSlFNhIpF7K9KKb3hSdDF79p3DXchPTv5qRBQHlJ8VwyDbldMUp0rtbxGVR5dDwBHMwfM8) [[code](https://github.com/ceciliaresearch/MixedExample)]
@@ -68,7 +69,6 @@
 34. MultiMix: [Teach me how to Interpolate a Myriad of Embeddings](https://arxiv.org/pdf/2205.14230)(2022)
 35. DM: [Decoupled Mixup for Data-efficient Learning](https://arxiv.org/pdf/2203.10761)(2022)
 40. ScoreMix: [ScoreNet: Learning Non-Uniform Attention and Augmentation for Transformer-Based Histopathological Image Classification](https://arxiv.org/pdf/2202.07570)(2022)
-41. PixMix: [PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures](https://openaccess.thecvf.com/content/CVPR2022/papers/Hendrycks_PixMix_Dreamlike_Pictures_Comprehensively_Improve_Safety_Measures_CVPR_2022_paper.pdf)(2022)
 42. AlignMixup: [AlignMixup: Improving Representations By Interpolating Aligned Features](https://openaccess.thecvf.com/content/CVPR2022/papers/Venkataramanan_AlignMixup_Improving_Representations_by_Interpolating_Aligned_Features_CVPR_2022_paper.pdf)(2022)
 43. Pani: [Patch-level Neighborhood Interpolation: A General and Effective Graph-based Regularization Strategy](https://arxiv.org/pdf/1911.09307)(2019)
 44. HypMix: [HYPMIX: Hyperbolic Interpolative Data Augmentation](https://aclanthology.org/2021.emnlp-main.776)(2021)
@@ -207,7 +207,6 @@
 54.  AutoMix: https://github.com/Westlake-AI/openmixup
 55.  PatchUp: https://github.com/chandar-lab/PatchUp
 56.  Metrix: https://tinyurl.com/metrix-iclr
-60.  Pixmix: https://github.com/andyzoujm/pixmix
 61.  AlignMixup: https://github.com/shashankvkt/AlignMixup_CVPR22.git
 62.  AMDA: https://github.com/thunlp/MixADA
 63.  HypMix: https://github.com/caisa-lab/hypmix-emnlp
