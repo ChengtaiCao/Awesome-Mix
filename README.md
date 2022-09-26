@@ -65,6 +65,7 @@
 * [SmoothMix -- CVPR 2020] [SmoothMix: a Simple Yet Effective Data Augmentation to Train Robust Classifiers](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w45/Lee_SmoothMix_A_Simple_Yet_Effective_Data_Augmentation_to_Train_Robust_CVPRW_2020_paper.pdf) [[code](https://github.com/jh-jeong/smoothmix)]
 
 ## Others
+* [Cutout -- Arxiv 2017] [Improved Regularization of Convolutional Neural Networks with Cutout](https://arxiv.org/pdf/1708.04552.pdf)
 * [StackMix -- UAI 2021] [StackMix: A complementary Mix algorithm](https://proceedings.mlr.press/v180/chen22b/chen22b.pdf)
 
 ## Variants
@@ -87,7 +88,6 @@
 54. DMixup & DCutmix: [Observations on K-image Expansion of Image-Mixing Augmentation for Classification](https://arxiv.org/pdf/2110.04248)(2021)
 
 ## Others
-* [Cutout -- Arxiv 2017] [Improved Regularization of Convolutional Neural Networks with Cutout](https://arxiv.org/pdf/1708.04552.pdf)
 3.  MixFeat: [Mixfeat: Mix feature in latent space learns discriminative space](https://openreview.net/pdf?id=HygT9oRqFX) [2019; CV]
 5.  MoEx: [On feature normalization and data augmentation](http://openaccess.thecvf.com/content/CVPR2021/papers/Li_On_Feature_Normalization_and_Data_Augmentation_CVPR_2021_paper.pdf)[2021]
 
