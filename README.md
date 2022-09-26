@@ -47,7 +47,7 @@
 * [MixdedExample -- WACV 2019] [Improved Mixed-Example Data Augmentation](https://ieeexplore.ieee.org/iel7/8642793/8658235/08659168.pdf?casa_token=vxPrsAdypIAAAAAA:3D8UWPSlFNhIpF7K9KKb3hSdDF79p3DXchPTv5qRBQHlJ8VwyDbldMUp0rtbxGVR5dDwBHMwfM8) [[code](https://github.com/ceciliaresearch/MixedExample)]
 * [RICAP -- ACML 2018] [RICAP: Random Image Cropping and Patching Data Augmentation for Deep CNNs](http://proceedings.mlr.press/v95/takahashi18a/takahashi18a.pdf) [[_code_\*](https://github.com/4uiiurz1/pytorch-ricap)]
 * [Attentive Cutmix -- ICASSP 2020] [Attentive CutMix: An Enhanced Data Augmentation Approach for Deep Learning Based Image Classification](https://arxiv.org/pdf/2003.13048) [[_code_\*](https://github.com/xden2331/attentive_cutmix)]
-* [FocusMix -- ICTC 2020] [Where to Cut and Paste: Data Regularization with Selective Features]((https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9289404&casa_token=ZOkscThNTpQAAAAA:AhalGFG_kjrXgaEZRzo5E3QN2mNC7gdnF1PtAd7MG0-rXbaHSS1JzZiM5wWv7hLR8plKxXy4F3U)(2020; CV))
+* [FocusMix -- ICTC 2020] [Where to Cut and Paste: Data Regularization with Selective Features](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9289404&casa_token=ZOkscThNTpQAAAAA:AhalGFG_kjrXgaEZRzo5E3QN2mNC7gdnF1PtAd7MG0-rXbaHSS1JzZiM5wWv7hLR8plKxXy4F3U)
 * [TransMix -- CVPR 2022] [TransMix: Attend to Mix for Vision Transformers](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_TransMix_Attend_To_Mix_for_Vision_Transformers_CVPR_2022_paper.pdf) [[code](https://github.com/Beckschen/TransMix)]
 * [SaliencyMix -- ILCR 2021] [SaliencyMix: A Saliency Guided Data Augmentation Strategy for Better Regularization](https://arxiv.org/pdf/2006.01791) [[code](https://github.com/SaliencyMix/SaliencyMix)]
 * [Puzzle Mix -- ICML 2020] [Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup](http://proceedings.mlr.press/v119/kim20b/kim20b.pdf) [[code](https://github.com/snu-mllab/PuzzleMix)]
@@ -62,7 +62,7 @@
 * [GridMix -- Pattern Recognition 2021] [GridMix: Strong regularization through local context mapping](https://www.sciencedirect.com/science/article/pii/S0031320320303976?casa_token=oQ7NhHPxs1cAAAAA:U0cFG2ASbufAHEPW4m14bxaUMsXK3QE6ke-sjpvbpkcbbLAd_YFSUEbUU2DECq3H7IjtW2dRpAQ)
 * [PatchMix -- BMWC 2021] [Evolving Image Compositions for Feature Representation Learning](https://arxiv.org/pdf/2106.09011)
 * [RecursiveMix -- Arxiv 2022] [RecursiveMix: Mixed Learning with History](https://arxiv.org/pdf/2203.06844) [[code](https://github.com/megvii-research/RecursiveMix)]
-* [SmoothMix -- CVPR 2020] [SmoothMix: a Simple Yet Effective Data Augmentation to Train Robust Classifiers](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w45/Lee_SmoothMix_A_Simple_Yet_Effective_Data_Augmentation_to_Train_Robust_CVPRW_2020_paper.pdf)(2020; CV, Robustness) [[code](https://github.com/jh-jeong/smoothmix)]
+* [SmoothMix -- CVPR 2020] [SmoothMix: a Simple Yet Effective Data Augmentation to Train Robust Classifiers](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w45/Lee_SmoothMix_A_Simple_Yet_Effective_Data_Augmentation_to_Train_Robust_CVPRW_2020_paper.pdf) [[code](https://github.com/jh-jeong/smoothmix)]
 
 ## Others
 * [StackMix -- UAI 2021] [StackMix: A complementary Mix algorithm](https://proceedings.mlr.press/v180/chen22b/chen22b.pdf)
