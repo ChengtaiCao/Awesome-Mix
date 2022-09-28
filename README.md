@@ -29,6 +29,7 @@
 * [MetaMixUp -- TNNLS 2021] [MetaMixUp: Learning Adaptive Interpolation Policy of MixUp with Meta-Learning](https://ieeexplore.ieee.org/iel7/5962385/6104215/09366422.pdf?casa_token=yeyn9EGO8PAAAAAA:QxbqK3Y2lYbKN1eX-wOGg6rf99WUalLPE3sKzkSSuwEBmDCky3E3ozOiA5-BjYM75qmAd5EdwvA)
 * [AutoMix -- ECCV 2022] [AutoMix: Unveiling the Power of Mixup for Stronger Classifiers](https://arxiv.org/pdf/2103.13027) [[code](https://github.com/Westlake-AI/openmixup)]
 * [Local Mixup -- Arxiv 2022] [Preventing Manifold Intrusion with Locality: Local Mixup](https://arxiv.org/pdf/2201.04368) [[code](https://github.com/raphael-baena/Local-Mixup)]
+* [CAMixup -- ICLR 2021] [Combining Ensembles and Data Augmentation can Harm your Calibration](https://arxiv.org/pdf/2010.09875) [[code](https://github.com/google/edward2/tree/master/experimental/marginalization_mixup)]
 * [Pani -- Arxiv 2019] [Patch-level Neighborhood Interpolation: A General and Effective Graph-based Regularization Strategy](https://arxiv.org/pdf/1911.09307) 
 * [LADA -- EMNLP 2020] [Local Additivity Based Data Augmentation for Semi-supervised NER](https://arxiv.org/pdf/2010.01677) [[code](https://github.com/GT-SALT/LADA)]
 * [HypMix -- EMNLP 2021] [HYPMIX: Hyperbolic Interpolative Data Augmentation](https://aclanthology.org/2021.emnlp-main.776) [[code](https://github.com/caisa-lab/hypmix-emnlp)]
@@ -78,7 +79,6 @@
 
 ## Variants
 13. Mixup Inference: [Mixup Inference: Better Exploiting Mixup to Defend Adversarial Attacks](https://arxiv.org/pdf/1909.11515)(2020; CV, Robustness)
-28. CAMixup: [Combining Ensembles and Data Augmentation can Harm your Calibration](https://arxiv.org/pdf/2010.09875)(2021)
 46. Mixup-with-AUM-and-SM: [On the Calibration of Pre-trained Language Models using Mixup Guided by Area Under the Margin and Saliency](https://arxiv.org/pdf/2203.07559)(2022)
 47. RandomMix: [RandomMix: A mixed sample data augmentation method with multiple mixed modes](https://arxiv.org/pdf/2205.08728)(2022)
 48. SuperpixelGridMasks: [SuperpixelGridCut, SuperpixelGridMean and SuperpixelGridMix Data Augmentation](https://arxiv.org/pdf/2204.08458)(2022)
@@ -190,7 +190,6 @@
 44.  Un-Mix: https://github.com/szq0214/Un-Mix
 45.  MixCo: https://github.com/Lee-Gihun/MixCo-Mixup-Contrast
 47.  DivideMix: https://github.com/LiJunnan1992/DivideMix
-48.  CAMixup: https://github.com/google/edward2/tree/master/experimental/marginalization_mixup
 49.  DivideMix: https://github.com/LiJunnan1992/DivideMix
 50.  MixACM: https://awaisrauf.github.io/MixACM
 51.  AVmixup: https://github.com/xuyinhu/AVmixup
