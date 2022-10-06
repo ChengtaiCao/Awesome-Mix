@@ -160,7 +160,7 @@
 5. MixSiam: [MixSiam: A Mixture-based Approach to Self-supervised Representation Learning](https://arxiv.org/pdf/2111.02679)(2021)
 6. Core-tuning: [Unleashing the Power of Contrastive Self-Supervised Visual Models via Contrast-Regularized Fine-Tuning](https://proceedings.neurips.cc/paper/2021/file/fa14d4fe2f19414de3ebd9f63d5c0169-Paper.pdf)(2021)
 7. Feature-Transformation: [Improving Contrastive Learning by Visualizing Feature Transformation](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_Improving_Contrastive_Learning_by_Visualizing_Feature_Transformation_ICCV_2021_paper.pdf)(2021)
-8. ProGCL: [ProGCL: Rethinking Hard Negative Mining in Graph Contrastive Learning](https://proceedings.mlr.press/v162/xia22b/xia22b.pdf)(2022)
+8. ProGCL: [ProGCL: Rethinking Hard Negative Mining in Graph Contrastive Learning](https://proceedings.mlr.press/v162/xia22b/xia22b.pdf)(2022) [[code](https://github.com/junxia97/ProGCL)]
 ### Metric Learning
 1. Embedding expansion: [Embedding expansion: Augmentation in embedding space for deep metric learning](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ko_Embedding_Expansion_Augmentation_in_Embedding_Space_for_Deep_Metric_Learning_CVPR_2020_paper.pdf)(2020)
 2. Metrix: [It Takes Two to Tango: Mixup for Deep Metric Learning](https://arxiv.org/pdf/2106.04990.pdf)(2022)
@@ -198,7 +198,6 @@
 44.  Un-Mix: https://github.com/szq0214/Un-Mix
 45.  MixCo: https://github.com/Lee-Gihun/MixCo-Mixup-Contrast
 47.  DivideMix: https://github.com/LiJunnan1992/DivideMix
-49.  DivideMix: https://github.com/LiJunnan1992/DivideMix
 50.  MixACM: https://awaisrauf.github.io/MixACM
 51.  AVmixup: https://github.com/xuyinhu/AVmixup
 53.  i-Mix: https://github.com/kibok90/imix
@@ -210,15 +209,10 @@
 67.  Feature-Transformation: https://github.com/DTennant/CL-Visualizing-Feature-Transformation
 68.  Mixup-with-AUM-and-SM: https://github.com/seoyeon-p/MixUp-Guided-by-AUM-and-Saliency-Map
 69.  Calibrated-BERT-Fine-Tuning: https://github.com/Lingkai-Kong/Calibrated-BERT-Fine-Tuning
-70.  ProGCL: https://github.com/junxia97/ProGCL
 71.  STEMM: https://github.com/ictnlp/STEMM
 72.  X-Mixup: https://github.com/yhy1117/X-Mixup
-73.  SuperpixelGridMasks: https://github.com/hammoudiproject/SuperpixelGridMasks
-74.  M-mix: https://github.com/Sherrylone/m-mix
-75.  DMix: https://github.com/caisa-lab/DMix-ACL
 76.  VLMixer: https://github.com/ttengwang/VLMixer
 77.  CSANMT: https://github.com/pemywei/csanmt
-78.  GMix: https://github.com/naver-ai/hmix-gmix
 
 ## Keys
 1.  Number of samples for mixup == 2;
