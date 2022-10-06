@@ -56,6 +56,8 @@
 * [AutoMix -- ECCV 2020] [AutoMix: Mixup Networks for Sample Interpolation via Cooperative Barycenter Learning](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550630.pdf) [[_code_\*](https://github.com/ReBoRn8888/AutoMix)]
 * [RegMix -- Arxiv 2021] [RegMix: Data Mixing Augmentation for Regression](https://arxiv.org/pdf/2106.03374.pdf)
 * [M-Mix -- KDD 2022] [M-Mix: Generating Hard Negatives via Multi-sample Mixing for Contrastive Learning](https://dl.acm.org/doi/pdf/10.1145/3534678.3539248?casa_token=4rYYzEtCcxUAAAAA:JHz8mo3l1W-1bV5kh_PVrdyaIhASZkASIAMI5n-ZZM8jAyVWw-o3CXNgsi9uZIrbQLQiAbhLoV-WV8w) [[code]( https://github.com/Sherrylone/m-mix)]
+* [CSANMT -- ACL 2022] [Learning to Generalize to More: Continuous Semantic Augmentation for Neural Machine Translation](https://arxiv.org/pdf/2204.06812) [[code](https://github.com/pemywei/csanmt)]
+* [RegMixup -- NIPS 2022] [RegMixup: Mixup as a Regularizer Can Surprisingly Improve Accuracy and Out Distribution Robustness](https://arxiv.org/pdf/2206.14502) [[code](https://github.com/FrancescoPinto/RegMixup)]
 
 ## Cutmix-Based
 * [MixdedExample -- WACV 2019] [Improved Mixed-Example Data Augmentation](https://ieeexplore.ieee.org/iel7/8642793/8658235/08659168.pdf?casa_token=vxPrsAdypIAAAAAA:3D8UWPSlFNhIpF7K9KKb3hSdDF79p3DXchPTv5qRBQHlJ8VwyDbldMUp0rtbxGVR5dDwBHMwfM8) [[code](https://github.com/ceciliaresearch/MixedExample)]
@@ -88,12 +90,11 @@
 * [Cutout -- Arxiv 2017] [Improved Regularization of Convolutional Neural Networks with Cutout](https://arxiv.org/pdf/1708.04552.pdf)
 * [StackMix -- UAI 2021] [StackMix: A complementary Mix algorithm](https://proceedings.mlr.press/v180/chen22b/chen22b.pdf)
 * [RandomMix -- Arxiv 2022 ] [RandomMix: A mixed sample data augmentation method with multiple mixed modes](https://arxiv.org/pdf/2205.08728)(2022)
+* [HMix \& GMix -- Arxiv 2022] [A Unified Analysis of Mixed Sample Data Augmentation: A Loss Function Perspective](https://arxiv.org/pdf/2208.09913) [[code](https://github.com/naver-ai/hmix-gmix)]
+* [DMixup \& DCutmix -- Arxiv 2021] [Observations on K-image Expansion of Image-Mixing Augmentation for Classification](https://arxiv.org/pdf/2110.04248)
 
 ## Variants
 13. Mixup Inference: [Mixup Inference: Better Exploiting Mixup to Defend Adversarial Attacks](https://arxiv.org/pdf/1909.11515)(2020; CV, Robustness)
-51. CSANMT: [Learning to Generalize to More: Continuous Semantic Augmentation for Neural Machine Translation](https://arxiv.org/pdf/2204.06812)(2022)
-53. GMix: [A Unified Analysis of Mixed Sample Data Augmentation: A Loss Function Perspective](https://arxiv.org/pdf/2208.09913)(2022)
-54. DMixup & DCutmix: [Observations on K-image Expansion of Image-Mixing Augmentation for Classification](https://arxiv.org/pdf/2110.04248)(2021)
 
 ## Others
 3.  MixFeat: [Mixfeat: Mix feature in latent space learns discriminative space](https://openreview.net/pdf?id=HygT9oRqFX) [2019; CV]
