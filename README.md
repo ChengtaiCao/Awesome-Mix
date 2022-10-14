@@ -57,7 +57,7 @@
 * [RegMix -- Arxiv 2021] [RegMix: Data Mixing Augmentation for Regression](https://arxiv.org/pdf/2106.03374.pdf)
 * [M-Mix -- KDD 2022] [M-Mix: Generating Hard Negatives via Multi-sample Mixing for Contrastive Learning](https://dl.acm.org/doi/pdf/10.1145/3534678.3539248?casa_token=4rYYzEtCcxUAAAAA:JHz8mo3l1W-1bV5kh_PVrdyaIhASZkASIAMI5n-ZZM8jAyVWw-o3CXNgsi9uZIrbQLQiAbhLoV-WV8w) [[code]( https://github.com/Sherrylone/m-mix)]
 * [CSANMT -- ACL 2022] [Learning to Generalize to More: Continuous Semantic Augmentation for Neural Machine Translation](https://arxiv.org/pdf/2204.06812) [[code](https://github.com/pemywei/csanmt)]
-* [RegMixup -- NIPS 2022] [RegMixup: Mixup as a Regularizer Can Surprisingly Improve Accuracy and Out Distribution Robustness](https://arxiv.org/pdf/2206.14502) [[code](https://github.com/FrancescoPinto/RegMixup)]
+* [RegMixup -- NIPS 2022] [RegMixup: Mixup as a Regularizer Can Surprisingly Improve Accuracy and Out Distribution Robustness](https://arxiv.org/pdf/2206.14502) [[code](https://github.com/FrancescoPinto/RegMixup)]`
 
 ## Cutmix-Based
 * [MixdedExample -- WACV 2019] [Improved Mixed-Example Data Augmentation](https://ieeexplore.ieee.org/iel7/8642793/8658235/08659168.pdf?casa_token=vxPrsAdypIAAAAAA:3D8UWPSlFNhIpF7K9KKb3hSdDF79p3DXchPTv5qRBQHlJ8VwyDbldMUp0rtbxGVR5dDwBHMwfM8) [[code](https://github.com/ceciliaresearch/MixedExample)]
@@ -100,6 +100,8 @@
 * [ReMixMatch -- Arxiv 2019] [ReMixMatch: Semi-Supervised Learning with Distribution Alignment and Augmentation Anchoring](https://arxiv.org/pdf/1911.09785.pdf) [[code](https://github.com/google-research/remixmatch)]
 * [DivideMix -- ICLR 2020] [DivideMix: Learning with Noisy Labels as Semi-supervised Learning](https://arxiv.org/pdf/2002.07394.pdf) [[code](https://github.com/LiJunnan1992/DivideMix)]
 * [CowMix/CowOut -- Arxiv 2020] [Milking CowMask for Semi-Supervised Image Classification](https://arxiv.org/pdf/2003.12022.pdf) [[code](https://github.com/google-research/google-research/tree/master/milking_cowmask)]
+* [MixPUL -- Arxiv 2020] [MixPUL: Consistency-based Augmentation for Positive and Unlabeled Learning](https://arxiv.org/pdf/2004.09388.pdf) [[code](https://github.com/Stomach-ache/MixPUL)]
+* [{_P_}\3Mix -- ICLR 2022] [Who us your right Mixup partner in positive and unlabeled learning](https://openreview.net/pdf?id=NH29920YEmj)
 
 ### NLP
 1.  WordMixup & SenMixup: [Augmenting Data with Mixup for Sentence Classification: An Empirical Study](https://arxiv.org/pdf/1905.08941.pdf) [2019; NLP]
