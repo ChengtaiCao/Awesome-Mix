@@ -96,7 +96,9 @@
 # Applications
 ## Semi-Supervised
 * [ICT -- IJCAI 2019] [Interpolation Consistency Training for Semi-Supervised Learning](https://arxiv.org/pdf/1903.03825.pdf?ref=https://githubhelp.com) [[code](https://github.com/vikasverma1077/ICT)]
-* [MixMatch -- NIPS 2019] MixMatch: [MixMatch: A Holistic Approach to Semi-Supervised Learning](https://proceedings.neurips.cc/paper/2019/file/1cd138d0499a68f4bb72bee04bbec2d7-Paper.pdf) [[code](https://github.com/google-research/mixmatch)]
+* [MixMatch -- NIPS 2019] [MixMatch: A Holistic Approach to Semi-Supervised Learning](https://proceedings.neurips.cc/paper/2019/file/1cd138d0499a68f4bb72bee04bbec2d7-Paper.pdf) [[code](https://github.com/google-research/mixmatch)]
+* [ReMixMatch -- Arxiv 2019] [ReMixMatch: Semi-Supervised Learning with Distribution Alignment and Augmentation Anchoring](https://arxiv.org/pdf/1911.09785.pdf) [[code](https://github.com/google-research/remixmatch)]
+* [DivideMix -- ICLR 2020] [DivideMix: Learning with Noisy Labels as Semi-supervised Learning](https://arxiv.org/pdf/2002.07394.pdf) [[code](https://github.com/LiJunnan1992/DivideMix)]
 
 ### NLP
 1.  WordMixup & SenMixup: [Augmenting Data with Mixup for Sentence Classification: An Empirical Study](https://arxiv.org/pdf/1905.08941.pdf) [2019; NLP]
@@ -114,9 +116,6 @@
 15. mXEncDec: [Multilingual Mix: Example Interpolation Improves Multilingual Neural Machine Translation](https://arxiv.org/pdf/2203.07627)(2022)
 
 
-#
-3.  ReMixMatch: [ReMixMatch: Semi-Supervised Learning with Distribution Alignment and Augmentation Anchoring](https://arxiv.org/pdf/1911.09785.pdf)[2019].
-4.  DivideMix: [DivideMix: Learning with Noisy Labels as Semi-supervised Learning](https://arxiv.org/pdf/2002.07394.pdf)(2020)
 ### Unsupervised: 
 1.  ACAI: [Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer](https://arxiv.org/pdf/1807.07543.pdf) [2019; AE, GAN, CV]
 2.  AMR: [On Adversarial Mixup Resynthesis](https://proceedings.neurips.cc/paper/2019/file/f708f064faaf32a43e4d3c784e6af9ea-Paper.pdf) [2019; AE, GAN, CV]
@@ -183,7 +182,6 @@
 28.  PointMixup: https://github.com/yunlu-chen/PointMixup
 29.  PA-AUG: https://github.com/sky77764/pa-aug.pytorch
 30.  RSMix: https://github.com/dogyoonlee/RSMix
-31.  ReMixMatch: https://github.com/google-research/remixmatch
 32.  Cutblur: https://github.com/clovaai/cutblur
 36.  Mixstyle: https://github.com/KaiyangZhou/mixstyle-release
 41.  Mochi: https://europe.naverlabs.com/mochi
@@ -191,7 +189,6 @@
 43.  C2L: https://github.com/funnyzhou/C2L_MICCAI2020
 44.  Un-Mix: https://github.com/szq0214/Un-Mix
 45.  MixCo: https://github.com/Lee-Gihun/MixCo-Mixup-Contrast
-47.  DivideMix: https://github.com/LiJunnan1992/DivideMix
 50.  MixACM: https://awaisrauf.github.io/MixACM
 51.  AVmixup: https://github.com/xuyinhu/AVmixup
 53.  i-Mix: https://github.com/kibok90/imix
