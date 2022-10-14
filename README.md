@@ -101,7 +101,7 @@
 * [DivideMix -- ICLR 2020] [DivideMix: Learning with Noisy Labels as Semi-supervised Learning](https://arxiv.org/pdf/2002.07394.pdf) [[code](https://github.com/LiJunnan1992/DivideMix)]
 * [CowMix/CowOut -- Arxiv 2020] [Milking CowMask for Semi-Supervised Image Classification](https://arxiv.org/pdf/2003.12022.pdf) [[code](https://github.com/google-research/google-research/tree/master/milking_cowmask)]
 * [MixPUL -- Arxiv 2020] [MixPUL: Consistency-based Augmentation for Positive and Unlabeled Learning](https://arxiv.org/pdf/2004.09388.pdf) [[code](https://github.com/Stomach-ache/MixPUL)]
-* [{_P_}\3Mix -- ICLR 2022] [Who us your right Mixup partner in positive and unlabeled learning](https://openreview.net/pdf?id=NH29920YEmj)
+* [P<sup>3</sup>Mix -- ICLR 2022] [Who us your right Mixup partner in positive and unlabeled learning](https://openreview.net/pdf?id=NH29920YEmj)
 
 ### NLP
 1.  WordMixup & SenMixup: [Augmenting Data with Mixup for Sentence Classification: An Empirical Study](https://arxiv.org/pdf/1905.08941.pdf) [2019; NLP]
