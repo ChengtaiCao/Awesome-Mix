@@ -103,6 +103,11 @@
 * [MixPUL -- Arxiv 2020] [MixPUL: Consistency-based Augmentation for Positive and Unlabeled Learning](https://arxiv.org/pdf/2004.09388.pdf) [[code](https://github.com/Stomach-ache/MixPUL)]
 * [P<sup>3</sup>Mix -- ICLR 2022] [Who us your right Mixup partner in positive and unlabeled learning](https://openreview.net/pdf?id=NH29920YEmj)
 
+## Generative Model
+* [AAE -- ICPR 2018] [Data Augmentation via Latent Space Interpolation for Image Classification](https://ieeexplore.ieee.org/iel7/8527858/8545020/08545506.pdf?casa_token=pjiWDeNyO-UAAAAA:xzH6WaFN4ik6otSGYZQ4rYsgtGVtyPK9wTyBgT12Ubrfravtdj3mYY-eIHqcXvKWuyi9JQ_Rx14)
+* [ACAI -- ICLR 2019] [Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer](https://arxiv.org/pdf/1807.07543.pdf) [[code](https://github.com/brain-research/acai)]
+* [AMR -- NIPS 2019] [On Adversarial Mixup Resynthesis](https://proceedings.neurips.cc/paper/2019/file/f708f064faaf32a43e4d3c784e6af9ea-Paper.pdf) [[code](https://github.com/christopher-beckham/amr)]
+
 ### NLP
 1.  WordMixup & SenMixup: [Augmenting Data with Mixup for Sentence Classification: An Empirical Study](https://arxiv.org/pdf/1905.08941.pdf) [2019; NLP]
 2.  TMix & MixText: [MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification](https://arxiv.org/pdf/2004.12239.pdf) [2020; NLP]
@@ -120,8 +125,6 @@
 
 
 ### Unsupervised: 
-1.  ACAI: [Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer](https://arxiv.org/pdf/1807.07543.pdf) [2019; AE, GAN, CV]
-2.  AMR: [On Adversarial Mixup Resynthesis](https://proceedings.neurips.cc/paper/2019/file/f708f064faaf32a43e4d3c784e6af9ea-Paper.pdf) [2019; AE, GAN, CV]
 3.  LSI: [Data Augmentation via Latent Space Interpolation for Image Classification](https://ieeexplore.ieee.org/iel7/8527858/8545020/08545506.pdf)(2018)
 ### Domain Adaptation 
 1.  VMT: [Virtual Mixup Training for Unsupervised Domain Adaptation](https://arxiv.org/pdf/1905.04215.pdf) [2019; CV]
@@ -173,8 +176,6 @@
 
 # Code Repositories
 {_Method_}\* denotes the code of _Method_ is reimplemented by others.
-11.  AMR: https://github.com/christopher-beckham/amr
-13.  ACAI: https://github.com/brain-research/acai
 14.  VMT: https://github.com/xudonmao/VMT
 15.  DMRL: https://github.com/YuanWu3/Dual-Mixup-Regularized-Learning-for-Adversarial-Domain-Adaptation
 16.  TMix & MixText: https://github.com/GT-SALT/MixText
