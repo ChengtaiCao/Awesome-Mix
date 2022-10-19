@@ -108,6 +108,13 @@
 * [ACAI -- ICLR 2019] [Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer](https://arxiv.org/pdf/1807.07543.pdf) [[code](https://github.com/brain-research/acai)]
 * [AMR -- NIPS 2019] [On Adversarial Mixup Resynthesis](https://proceedings.neurips.cc/paper/2019/file/f708f064faaf32a43e4d3c784e6af9ea-Paper.pdf) [[code](https://github.com/christopher-beckham/amr)]
 
+## Domain Adaption
+* [VMT -- Arxiv 2019] [Virtual Mixup Training for Unsupervised Domain Adaptation](https://arxiv.org/pdf/1905.04215.pdf) [[code](https://github.com/xudonmao/VMT)]
+* [IIMT -- Arxiv 2020] [Improve Unsupervised Domain Adaptation with Mixup Training](https://arxiv.org/pdf/2001.00677)
+* [DM-ADA -- AAAI 2020] [Adversarial Domain Adaptation with Domain Mixup](https://ojs.aaai.org/index.php/AAAI/article/view/6123/5979)
+* [DMRL -- ECCV 2020] [Dual Mixup Regularized Learning for Adversarial Domain Adaptation](https://arxiv.org/pdf/2007.03141) [[code](https://github.com/YuanWu3/Dual-Mixup-Regularized-Learning-for-Adversarial-Domain-Adaptation)]
+* [SLM -- NIPS 2021] [Select, Label, and Mix: Learning Discriminative Invariant Feature Representations for Partial Domain Adaptation](https://arxiv.org/pdf/2012.03358) [[code](https://github.com/CVIR/Select-Label-Mix-SLM-PDA)]
+
 ### NLP
 1.  WordMixup & SenMixup: [Augmenting Data with Mixup for Sentence Classification: An Empirical Study](https://arxiv.org/pdf/1905.08941.pdf) [2019; NLP]
 2.  TMix & MixText: [MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification](https://arxiv.org/pdf/2004.12239.pdf) [2020; NLP]
@@ -127,9 +134,6 @@
 ### Unsupervised: 
 3.  LSI: [Data Augmentation via Latent Space Interpolation for Image Classification](https://ieeexplore.ieee.org/iel7/8527858/8545020/08545506.pdf)(2018)
 ### Domain Adaptation 
-1.  VMT: [Virtual Mixup Training for Unsupervised Domain Adaptation](https://arxiv.org/pdf/1905.04215.pdf) [2019; CV]
-2.  DMRL: [Dual Mixup Regularized Learning for Adversarial Domain Adaptation](https://arxiv.org/pdf/2007.03141) [2020; CV]
-3.  IIMT: [Improve Unsupervised Domain Adaptation with Mixup Training](https://arxiv.org/pdf/2001.00677) [2022; CV]
 4.  Mixstyle: [Domain generalization with mixstyle](https://arxiv.org/pdf/2104.02008)[2021]
 ### Robustness
 1.  M-TLAT: [Addressing Neural Network Robustness with Mixup and Targeted Labeling Adversarial Training](https://arxiv.org/pdf/2008.08384) [2022; Robustness]
@@ -176,8 +180,6 @@
 
 # Code Repositories
 {_Method_}\* denotes the code of _Method_ is reimplemented by others.
-14.  VMT: https://github.com/xudonmao/VMT
-15.  DMRL: https://github.com/YuanWu3/Dual-Mixup-Regularized-Learning-for-Adversarial-Domain-Adaptation
 16.  TMix & MixText: https://github.com/GT-SALT/MixText
 18.  SeqMix: https://github.com/rz-zhang/SeqMix
 24.  Mixup Inference: https://github.com/P2333/Mixup-Inference
