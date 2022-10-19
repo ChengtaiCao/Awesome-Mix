@@ -42,6 +42,7 @@
 * [SuperMix -- CVPR 2021] [SuperMix: Supervising the Mixing Data Augmentation](http://openaccess.thecvf.com/content/CVPR2021/papers/Dabouei_SuperMix_Supervising_the_Mixing_Data_Augmentation_CVPR_2021_paper.pdf) [[code](https://github.com/alldbi/SuperMix)]
 * [DJMix -- Arxiv 2021] [DJMix: Unsupervised Task-agnostic Augmentation for Improving Robustness](https://openreview.net/pdf?id=0n3BaVlNsHI)
 * [StyleMix -- CVPR 2021] [StyleMix: Separating Content and Style for Enhanced Data Augmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_StyleMix_Separating_Content_and_Style_for_Enhanced_Data_Augmentation_CVPR_2021_paper.pdf) [[code](https://github.com/alsdml/StyleMix)]
+* [Mixstyle -- ICLR 2021] : [Domain generalization with mixstyle](https://arxiv.org/pdf/2104.02008) [[code](https://github.com/KaiyangZhou/mixstyle-release)]
 * [MoEx -- CVPR 2021] [On Feature Normalization and Data Augmentation](http://openaccess.thecvf.com/content/CVPR2021/papers/Li_On_Feature_Normalization_and_Data_Augmentation_CVPR_2021_paper.pdf) [[code](https://github.com/Boyiliee/MoEx)]
 * [DM -- Arxiv 2022] [Decoupled Mixup for Data-efficient Learning](https://arxiv.org/pdf/2203.10761)
 * [Mixup-with-AUM-and-SM -- ACL 2022]: [On the Calibration of Pre-trained Language Models using Mixup Guided by Area Under the Margin and Saliency](https://arxiv.org/pdf/2203.07559) 
@@ -134,7 +135,6 @@
 ### Unsupervised: 
 3.  LSI: [Data Augmentation via Latent Space Interpolation for Image Classification](https://ieeexplore.ieee.org/iel7/8527858/8545020/08545506.pdf)(2018)
 ### Domain Adaptation 
-4.  Mixstyle: [Domain generalization with mixstyle](https://arxiv.org/pdf/2104.02008)[2021]
 ### Robustness
 1.  M-TLAT: [Addressing Neural Network Robustness with Mixup and Targeted Labeling Adversarial Training](https://arxiv.org/pdf/2008.08384) [2022; Robustness]
 2. IAT: [Interpolated adversarial training: Achieving robust neural networks without sacrificing too much accuracy](https://dl.acm.org/doi/pdf/10.1145/3338501.3357369)
@@ -189,7 +189,6 @@
 29.  PA-AUG: https://github.com/sky77764/pa-aug.pytorch
 30.  RSMix: https://github.com/dogyoonlee/RSMix
 32.  Cutblur: https://github.com/clovaai/cutblur
-36.  Mixstyle: https://github.com/KaiyangZhou/mixstyle-release
 41.  Mochi: https://europe.naverlabs.com/mochi
 42.  Embedding-expansion: https://github.com/clovaai/embedding-expansion
 43.  C2L: https://github.com/funnyzhou/C2L_MICCAI2020
