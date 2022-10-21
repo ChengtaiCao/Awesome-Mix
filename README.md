@@ -120,6 +120,20 @@
 1. [Embedding Expansion -- CVPR 2020] [Embedding expansion: Augmentation in embedding space for deep metric learning](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ko_Embedding_Expansion_Augmentation_in_Embedding_Space_for_Deep_Metric_Learning_CVPR_2020_paper.pdf)(2020) [[code](https://github.com/clovaai/embedding-expansion)]
 2. [Metrix -- ICLR 2022]: [It Takes Two to Tango: Mixup for Deep Metric Learning](https://arxiv.org/pdf/2106.04990.pdf)(2022) [[code](https://tinyurl.com/metrix-iclr)]
 
+## Contrastive Learning
+* [MixCo -- Arxiv 2022] [MixCo: Mix-up Contrastive Learning for Visual Representation](https://arxiv.org/pdf/2010.06300) [[cdoe](https://github.com/Lee-Gihun/MixCo-Mixup-Contrast)]
+* [MixSiam -- Arxiv 2021] [MixSiam: A Mixture-based Approach to Self-supervised Representation Learning](https://arxiv.org/pdf/2111.02679)
+* [Un-Mix -- AAAI 2022] [Un-mix: Rethinking Image Mixtures for Unsupervised Visual Representation Learning](https://ojs.aaai.org/index.php/AAAI/article/view/20119/19878) [[code](https://github.com/szq0214/Un-Mix)]
+
+
+
+1. Mochi: [Hard Negative Mixing for Contrastive Learning](https://proceedings.neurips.cc/paper/2020/file/f7cade80b7cc92b991cf4d2806d6bd78-Paper.pdf)(2020)
+2. BSIM: [Beyond Single Instance Multi-view Unsupervised Representation Learning](https://arxiv.org/pdf/2011.13356)(2020)
+5. i-Mix: [i-mix: A domain-agnostic strategy for contrastive representation learning](https://arxiv.org/pdf/2010.08887)(2020)
+6. Core-tuning: [Unleashing the Power of Contrastive Self-Supervised Visual Models via Contrast-Regularized Fine-Tuning](https://proceedings.neurips.cc/paper/2021/file/fa14d4fe2f19414de3ebd9f63d5c0169-Paper.pdf)(2021)
+7. Feature-Transformation: [Improving Contrastive Learning by Visualizing Feature Transformation](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_Improving_Contrastive_Learning_by_Visualizing_Feature_Transformation_ICCV_2021_paper.pdf)(2021)
+8. ProGCL: [ProGCL: Rethinking Hard Negative Mining in Graph Contrastive Learning](https://proceedings.mlr.press/v162/xia22b/xia22b.pdf)(2022) [[code](https://github.com/junxia97/ProGCL)]
+
 ### NLP
 1.  WordMixup & SenMixup: [Augmenting Data with Mixup for Sentence Classification: An Empirical Study](https://arxiv.org/pdf/1905.08941.pdf) [2019; NLP]
 2.  TMix & MixText: [MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification](https://arxiv.org/pdf/2004.12239.pdf) [2020; NLP]
@@ -162,16 +176,6 @@
 2. RSMix: [Regularization Strategy for Point Cloud via Rigidly Mixed Sample](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Regularization_Strategy_for_Point_Cloud_via_Rigidly_Mixed_Sample_CVPR_2021_paper.pdf)(2021)
 ### Super-resolution
 1. CutBlur: [Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yoo_Rethinking_Data_Augmentation_for_Image_Super-resolution_A_Comprehensive_Analysis_and_CVPR_2020_paper.pdf)
-### Contrastive Learning
-1. Mochi: [Hard Negative Mixing for Contrastive Learning](https://proceedings.neurips.cc/paper/2020/file/f7cade80b7cc92b991cf4d2806d6bd78-Paper.pdf)(2020)
-2. BSIM: [Beyond Single Instance Multi-view Unsupervised Representation Learning](https://arxiv.org/pdf/2011.13356)(2020)
-3. Un-Mix: [Un-mix: Rethinking Image Mixtures for Unsupervised Visual Representation Learning](https://ojs.aaai.org/index.php/AAAI/article/view/20119/19878)(2022)
-4. MixCo: [MixCo: Mix-up Contrastive Learning for Visual Representation](https://arxiv.org/pdf/2010.06300)(2020)
-5. i-Mix: [i-mix: A domain-agnostic strategy for contrastive representation learning](https://arxiv.org/pdf/2010.08887)(2020)
-5. MixSiam: [MixSiam: A Mixture-based Approach to Self-supervised Representation Learning](https://arxiv.org/pdf/2111.02679)(2021)
-6. Core-tuning: [Unleashing the Power of Contrastive Self-Supervised Visual Models via Contrast-Regularized Fine-Tuning](https://proceedings.neurips.cc/paper/2021/file/fa14d4fe2f19414de3ebd9f63d5c0169-Paper.pdf)(2021)
-7. Feature-Transformation: [Improving Contrastive Learning by Visualizing Feature Transformation](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_Improving_Contrastive_Learning_by_Visualizing_Feature_Transformation_ICCV_2021_paper.pdf)(2021)
-8. ProGCL: [ProGCL: Rethinking Hard Negative Mining in Graph Contrastive Learning](https://proceedings.mlr.press/v162/xia22b/xia22b.pdf)(2022) [[code](https://github.com/junxia97/ProGCL)]
 
 ### Others
 1. C2L: [Comparing to Learn: Surpassing ImageNet Pretraining on Radiographs By Comparing Image Representations](https://arxiv.org/pdf/2007.07423)
@@ -193,8 +197,6 @@
 32.  Cutblur: https://github.com/clovaai/cutblur
 41.  Mochi: https://europe.naverlabs.com/mochi
 43.  C2L: https://github.com/funnyzhou/C2L_MICCAI2020
-44.  Un-Mix: https://github.com/szq0214/Un-Mix
-45.  MixCo: https://github.com/Lee-Gihun/MixCo-Mixup-Contrast
 50.  MixACM: https://awaisrauf.github.io/MixACM
 51.  AVmixup: https://github.com/xuyinhu/AVmixup
 53.  i-Mix: https://github.com/kibok90/imix
