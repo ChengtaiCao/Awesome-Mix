@@ -28,10 +28,10 @@
 * [AdaMixUp -- AAAI 2019] [MixUp as Locally Linear Out-of-Manifold Regularization](https://ojs.aaai.org/index.php/AAAI/article/download/4256/4134) [[_code_\*](https://github.com/SITE5039/AdaMixUp)]
 * [MetaMixUp -- TNNLS 2021] [MetaMixUp: Learning Adaptive Interpolation Policy of MixUp with Meta-Learning](https://ieeexplore.ieee.org/iel7/5962385/6104215/09366422.pdf?casa_token=yeyn9EGO8PAAAAAA:QxbqK3Y2lYbKN1eX-wOGg6rf99WUalLPE3sKzkSSuwEBmDCky3E3ozOiA5-BjYM75qmAd5EdwvA)
 * [AutoMix -- ECCV 2022] [AutoMix: Unveiling the Power of Mixup for Stronger Classifiers](https://arxiv.org/pdf/2103.13027) [[code](https://github.com/Westlake-AI/openmixup)]
+* [LADA -- EMNLP 2020] [Local Additivity Based Data Augmentation for Semi-supervised NER](https://arxiv.org/pdf/2010.01677) [[code](https://github.com/GT-SALT/LADA)]
 * [Local Mixup -- Arxiv 2022] [Preventing Manifold Intrusion with Locality: Local Mixup](https://arxiv.org/pdf/2201.04368) [[code](https://github.com/raphael-baena/Local-Mixup)]
 * [CAMixup -- ICLR 2021] [Combining Ensembles and Data Augmentation can Harm your Calibration](https://arxiv.org/pdf/2010.09875) [[code](https://github.com/google/edward2/tree/master/experimental/marginalization_mixup)]
 * [Pani -- Arxiv 2019] [Patch-level Neighborhood Interpolation: A General and Effective Graph-based Regularization Strategy](https://arxiv.org/pdf/1911.09307) 
-* [LADA -- EMNLP 2020] [Local Additivity Based Data Augmentation for Semi-supervised NER](https://arxiv.org/pdf/2010.01677) [[code](https://github.com/GT-SALT/LADA)]
 * [HypMix -- EMNLP 2021] [HYPMIX: Hyperbolic Interpolative Data Augmentation](https://aclanthology.org/2021.emnlp-main.776) [[code](https://github.com/caisa-lab/hypmix-emnlp)]
 * [SAMix -- Arxiv 2021] [Boosting Discriminative Visual Representation Learning with Scenario-Agnostic Mixup](https://arxiv.org/pdf/2111.15454)
 * [GenLabel -- ICML 2022] [GenLabel: Mixup Relabeling using Generative Models](https://arxiv.org/pdf/2201.02354) [[code](https://github.com/UW-Madison-Lee-Lab/GenLabel_official)]
@@ -132,17 +132,20 @@
 * [BSIM -- Arxiv 2020] [Beyond Single Instance Multi-view Unsupervised Representation Learning](https://arxiv.org/pdf/2011.13356)
 * [i-Mix -- ICLR 2021] [i-mix: A domain-agnostic strategy for contrastive representation learning](https://arxiv.org/pdf/2010.08887) [[code](https://github.com/kibok90/imix)]
 
-### NLP
-1.  WordMixup & SenMixup: [Augmenting Data with Mixup for Sentence Classification: An Empirical Study](https://arxiv.org/pdf/1905.08941.pdf) [2019; NLP]
-2.  TMix & MixText: [MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification](https://arxiv.org/pdf/2004.12239.pdf) [2020; NLP]
-3.  Mixup-Transformer: [Mixup-Transformer: Dynamic Data Augmentation for NLP Tasks](https://arxiv.org/pdf/2010.02394) [2020; NLP]
-4.  SeqMix: [SeqMix: Augmenting Active Sequence Labeling via Sequence Mixup](https://arxiv.org/pdf/2010.02322) [2020; NLP]
-7.  SeqMix: [Sequence-Level Mixed Sample Data Augmentation](https://arxiv.org/pdf/2011.09039)(2020)
+## NLP
+* [WordMixup & SenMixup -- Arxiv 2019]: [Augmenting Data with Mixup for Sentence Classification: An Empirical Study](https://arxiv.org/pdf/1905.08941.pdf) 
+* [TMix & MixText -- ACL 2020]: [MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification](https://arxiv.org/pdf/2004.12239.pdf) [[code](https://github.com/GT-SALT/MixText)]
+* [Mixup-Transformer -- COLING 2020] [Mixup-Transformer: Dynamic Data Augmentation for NLP Tasks](https://arxiv.org/pdf/2010.02394)
+* [Calibrated-BERT-Fine-Tuning -- EMNLP 2020] [Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data](https://arxiv.org/pdf/2010.11506) [[code](https://github.com/Lingkai-Kong/Calibrated-BERT-Fine-Tuning)]
+* [Emix -- COLING 2020] [Augmenting NLP models using Latent Feature Interpolations](https://aclanthology.org/2020.coling-main.611)
+* [SeqMix -- EMNLP 2020] [Sequence-Level Mixed Sample Data Augmentation](https://arxiv.org/pdf/2011.09039) [[code](https://github.com/dguo98/seqmix)]
+* [SeqMix -- EMNLP 2020] [Sequence-Level Mixed Sample Data Augmentation](https://arxiv.org/pdf/2011.09039) [[code](https://github.com/rz-zhang/SeqMix)]
+* [AdvAug -- ACL 2020] [AdvAug: Robust Adversarial Augmentation for Neural Machine Translation](https://arxiv.org/pdf/2006.11834)
+* [MixDiversity -- EMNLP 2021] [Mixup Decoding for Diverse Machine Translation](https://arxiv.org/pdf/2109.03402)
+
+
 8.  AMDA: [Better Robustness by More Coverage: Adversarial and Mixup Data Augmentation for Robust Finetuning](https://aclanthology.org/2021.findings-acl.137.pdf)(2021)
-9.  AdvAug: [AdvAug: Robust Adversarial Augmentation for Neural Machine Translation](https://arxiv.org/pdf/2006.11834)(2020)
 10. Snippext: [Snippext: Semi-supervised Opinion Mining with Augmented Data](https://dl.acm.org/doi/pdf/10.1145/3366423.3380144)(2020)
-11. Emix: [Augmenting NLP models using Latent Feature Interpolations](https://aclanthology.org/2020.coling-main.611)(2020)
-12. Calibrated-BERT-Fine-Tuning: [Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data](http://arxiv.org/pdf/2010.11506)(2020)
 13. STEMM: [STEMM: Self-learning with Speech-text Manifold Mixup for Speech Translation](https://arxiv.org/pdf/2203.10426)(2022)
 14. X-Mixup: [Enhancing Cross-lingual Transfer by Manifold Mixup](https://arxiv.org/pdf/2205.04182)(2022)
 15. mXEncDec: [Multilingual Mix: Example Interpolation Improves Multilingual Neural Machine Translation](https://arxiv.org/pdf/2203.07627)(2022)
@@ -160,7 +163,7 @@
 7. VarMixup: [VarMixup: Exploiting the Latent Space for Robust Training and Inference](https://arxiv.org/pdf/2003.06566v1.pdf)(2020)
 8. GIF: [Guided Interpolation for Adversarial Training](https://arxiv.org/pdf/2102.07327)
 9. Mixup-SSAT: [Semi-supervised Semantics-guided Adversarial Training for Trajectory Prediction](https://arxiv.org/pdf/2205.14230)(2022)
-10. MixDiversity: [Mixup Decoding for Diverse Machine Translation](https://arxiv.org/pdf/2109.03402)(2021)
+10.(2021)
 
 ### Federated Learning
 1. Mix2FLD: [Mix2FLD: Downlink Federated Learning After Uplink Federated Distillation With Two-Way Mixup](https://ieeexplore.ieee.org/iel7/4234/5534602/09121290.pdf)(2020)
@@ -183,8 +186,6 @@
 
 # Code Repositories
 {_Method_}\* denotes the code of _Method_ is reimplemented by others.
-16.  TMix & MixText: https://github.com/GT-SALT/MixText
-18.  SeqMix: https://github.com/rz-zhang/SeqMix
 24.  Mixup Inference: https://github.com/P2333/Mixup-Inference
 25.  FedMix: https://github.com/smduan
 27.  GraphMix: https://github.com/vikasverma1077/GraphMix
