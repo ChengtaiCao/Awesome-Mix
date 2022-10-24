@@ -45,7 +45,7 @@
 * [Mixstyle -- ICLR 2021] : [Domain generalization with mixstyle](https://arxiv.org/pdf/2104.02008) [[code](https://github.com/KaiyangZhou/mixstyle-release)]
 * [MoEx -- CVPR 2021] [On Feature Normalization and Data Augmentation](http://openaccess.thecvf.com/content/CVPR2021/papers/Li_On_Feature_Normalization_and_Data_Augmentation_CVPR_2021_paper.pdf) [[code](https://github.com/Boyiliee/MoEx)]
 * [DM -- Arxiv 2022] [Decoupled Mixup for Data-efficient Learning](https://arxiv.org/pdf/2203.10761)
-* [Mixup-with-AUM-and-SM -- ACL 2022]: [On the Calibration of Pre-trained Language Models using Mixup Guided by Area Under the Margin and Saliency](https://arxiv.org/pdf/2203.07559) 
+* [Mixup-with-AUM-and-SM -- ACL 2022]: [On the Calibration of Pre-trained Language Models using Mixup Guided by Area Under the Margin and Saliency](https://arxiv.org/pdf/2203.07559) [[code](https://github.com/seoyeon-p/MixUp-Guided-by-AUM-and-Saliency-Map)]
 * [BatchMixup -- IJCNLP 2021] [BATCHMIXUP: Improving Training by Interpolating Hidden States of the Entire Mini-batch](https://aclanthology.org/2021.findings-acl.434.pdf)
 * [EXA Mixup -- TKDD 2022] [Explainability-based mix-up approach for text data augmentation](https://dl.acm.org/doi/pdf/10.1145/3533048)
 * [PixMix -- CVPR 2022] [PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures](https://openaccess.thecvf.com/content/CVPR2022/papers/Hendrycks_PixMix_Dreamlike_Pictures_Comprehensively_Improve_Safety_Measures_CVPR_2022_paper.pdf) [[code](https://github.com/andyzoujm/pixmix)]
@@ -196,11 +196,8 @@
 43.  C2L: https://github.com/funnyzhou/C2L_MICCAI2020
 50.  MixACM: https://awaisrauf.github.io/MixACM
 51.  AVmixup: https://github.com/xuyinhu/AVmixup
-54.  AutoMix: https://github.com/Westlake-AI/openmixup
 62.  AMDA: https://github.com/thunlp/MixADA
 65.  Snippext: https://github.com/rit-git/Snippext_public
-68.  Mixup-with-AUM-and-SM: https://github.com/seoyeon-p/MixUp-Guided-by-AUM-and-Saliency-Map
-69.  Calibrated-BERT-Fine-Tuning: https://github.com/Lingkai-Kong/Calibrated-BERT-Fine-Tuning
 71.  STEMM: https://github.com/ictnlp/STEMM
 72.  X-Mixup: https://github.com/yhy1117/X-Mixup
 76.  VLMixer: https://github.com/ttengwang/VLMixer
