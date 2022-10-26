@@ -147,7 +147,7 @@
 * [AdvAug -- ACL 2020] [AdvAug: Robust Adversarial Augmentation for Neural Machine Translation](https://arxiv.org/pdf/2006.11834)
 * [STEMM -- ACL 2022] [STEMM: Self-learning with Speech-text Manifold Mixup for Speech Translation](https://arxiv.org/pdf/2203.10426) [[code](https://github.com/ictnlp/STEMM)]
 * [MixDiversity -- EMNLP 2021] [Mixup Decoding for Diverse Machine Translation](https://arxiv.org/pdf/2109.03402)
-* [X-Mixup -- ICLR 2022] [Enhancing Cross-lingual Transfer by Manifold Mixup](https://arxiv.org/pdf/2205.04182) [[code](X-Mixup: https://github.com/yhy1117/X-Mixup)]
+* [X-Mixup -- ICLR 2022] [Enhancing Cross-lingual Transfer by Manifold Mixup](https://arxiv.org/pdf/2205.04182) [[code](https://github.com/yhy1117/X-Mixup)]
 * [mXEncDec -- ACL 2022] [Multilingual Mix: Example Interpolation Improves Multilingual Neural Machine Translation](https://arxiv.org/pdf/2203.07627)
 
 ## Adversarial Training
@@ -155,14 +155,14 @@
 * [AVmixup -- CVPR 2020]: [Adversarial Vertex Mixup: Toward Better Adversarially Robust Generalization](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lee_Adversarial_Vertex_Mixup_Toward_Better_Adversarially_Robust_Generalization_CVPR_2020_paper.pdf) [[code](https://github.com/xuyinhu/AVmixup)]
 * [AMDA ACL/IJNCLP 2021] [Better Robustness by More Coverage: Adversarial and Mixup Data Augmentation for Robust Finetuning](https://aclanthology.org/2021.findings-acl.137.pdf) [[code](https://github.com/thunlp/MixADA)]
 * [M-TLAT -- ECCV 2020] [Addressing Neural Network Robustness with Mixup and Targeted Labeling Adversarial Training](https://arxiv.org/pdf/2008.08384)
-* [MI -- ICLR 2020]: [Mixup Inference: Better Exploiting Mixup to Defend Adversarial Attacks](https://arxiv.org/pdf/1909.11515)(2020; CV, Robustness) [[code](https://github.com/P2333/Mixup-Inference)]
+* [MI -- ICLR 2020]: [Mixup Inference: Better Exploiting Mixup to Defend Adversarial Attacks](https://arxiv.org/pdf/1909.11515] [[code](https://github.com/P2333/Mixup-Inference)]
 * [AOM -- Arxiv 2021] [Adversarially Optimized Mixup for Robust Classification](https://arxiv.org/pdf/2103.11589)
 * [MixACM -- NIPS 2021] : [MixACM: Mixup-Based Robustness Transfer via Distillation of Activated Channel Maps](https://proceedings.neurips.cc/paper/2021/file/240c945bb72980130446fc2b40fbb8e0-Paper.pdf) [[code](https://awaisrauf.github.io/MixACM)]
 * [Mixup-SSAT -- Arxiv 2022] [Semi-supervised Semantics-guided Adversarial Training for Trajectory Prediction](https://arxiv.org/pdf/2205.14230) 
 
 ## Federated Learning
 * [Mix2FLD -- CL 2020] [Mix2FLD: Downlink Federated Learning After Uplink Federated Distillation With Two-Way Mixup](https://ieeexplore.ieee.org/iel7/4234/5534602/09121290.pdf)
-* [XorMixFL -- Arxiv 2020]: [XOR Mixup: Privacy-Preserving Data Augmentation for One-Shot Federated Learning](https://arxiv.org/pdf/2006.05148)(2020)
+* [XorMixFL -- Arxiv 2020]: [XOR Mixup: Privacy-Preserving Data Augmentation for One-Shot Federated Learning](https://arxiv.org/pdf/2006.05148)
 * [FedMix --ICLR 2021] [FedMix: Approximation of Mixup under Mean Augmented Federated Learning](http://arxiv.org/pdf/2107.00233) [[code](https://github.com/smduan)]
 
 ## Graph
