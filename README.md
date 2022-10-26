@@ -106,6 +106,7 @@
 * [P<sup>3</sup>Mix -- ICLR 2022] [Who us your right Mixup partner in positive and unlabeled learning](https://openreview.net/pdf?id=NH29920YEmj)
 
 ## Generative Model
+* [Shot VAE -- AAAI 2021][SHOT-VAE: Semi-supervised Deep Generative Models With Label-aware ELBO Approximations](https://ojs.aaai.org/index.php/AAAI/article/view/16909/16716) [[code](https://github.com/FengHZ/SHOT-VAE)]
 * [AAE -- ICPR 2018] [Data Augmentation via Latent Space Interpolation for Image Classification](https://ieeexplore.ieee.org/iel7/8527858/8545020/08545506.pdf?casa_token=pjiWDeNyO-UAAAAA:xzH6WaFN4ik6otSGYZQ4rYsgtGVtyPK9wTyBgT12Ubrfravtdj3mYY-eIHqcXvKWuyi9JQ_Rx14)
 * [VarMixup -- Arxiv 2020] [VarMixup: Exploiting the Latent Space for Robust Training and Inference](https://arxiv.org/pdf/2003.06566v1.pdf)
 * [ACAI -- ICLR 2019] [Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer](https://arxiv.org/pdf/1807.07543.pdf) [[code](https://github.com/brain-research/acai)]
@@ -160,39 +161,35 @@
 * [Mixup-SSAT -- Arxiv 2022] [Semi-supervised Semantics-guided Adversarial Training for Trajectory Prediction](https://arxiv.org/pdf/2205.14230) 
 
 ## Federated Learning
-* [Mix2FLD -- CL 2020]: [Mix2FLD: Downlink Federated Learning After Uplink Federated Distillation With Two-Way Mixup](https://ieeexplore.ieee.org/iel7/4234/5534602/09121290.pdf)
+* [Mix2FLD -- CL 2020] [Mix2FLD: Downlink Federated Learning After Uplink Federated Distillation With Two-Way Mixup](https://ieeexplore.ieee.org/iel7/4234/5534602/09121290.pdf)
 * [XorMixFL -- Arxiv 2020]: [XOR Mixup: Privacy-Preserving Data Augmentation for One-Shot Federated Learning](https://arxiv.org/pdf/2006.05148)(2020)
 * [FedMix --ICLR 2021] [FedMix: Approximation of Mixup under Mean Augmented Federated Learning](http://arxiv.org/pdf/2107.00233) [[code](https://github.com/smduan)]
 
+## Graph
+[GraphMix -- AAAI 2021] [GraphMix: Improved Training of GNNs for Semi-Supervised Learning](https://ojs.aaai.org/index.php/AAAI/article/view/17203/17010) [[code](https://github.com/vikasverma1077/GraphMix)]
+
+## Others
+* [PointMix -- ECCV 2020] [PointMixup: Augmentation for Point Clouds](https://arxiv.org/pdf/2008.06374) [[code](https://github.com/yunlu-chen/PointMixup)]
+* [PA-AUG IROS 2021] [Part-Aware Data Augmentation for 3D Object Detection in Point Cloud](https://ieeexplore.ieee.org/iel7/9635848/9635849/09635887.pdf?casa_token=0mFjLnp6YCYAAAAA:xolNh7Ecmuzu3t0vc_QaEcBIcFQYEIMiDScD7zTNWu0rPwhzIbnNQTbydAtW64WUfJxeoh4qt_w) [[code](https://github.com/sky77764/pa-aug.pytorch)]
+* [CMC -- ICML 2022] [VLMixer: Unpaired Vision-Language Pre-training via Cross-Modal CutMix](https://proceedings.mlr.press/v162/wang22h/wang22h.pdf) [[code](https://github.com/ttengwang/VLMixer)]
 
 ### Todo: 
 3.  LSI: [Data Augmentation via Latent Space Interpolation for Image Classification](https://ieeexplore.ieee.org/iel7/8527858/8545020/08545506.pdf)(2018)
-10. Snippext: [Snippext: Semi-supervised Opinion Mining with Augmented Data](https://dl.acm.org/doi/pdf/10.1145/3366423.3380144)(2020)
 ### Graph
 1. GraphMix: [GraphMix: Improved Training of GNNs for Semi-Supervised Learning](https://ojs.aaai.org/index.php/AAAI/article/view/17203/17010)(2021)
 ### Point Cloud
-1. PointMixup: [PointMixup: Augmentation for Point Clouds](https://arxiv.org/pdf/2008.06374)(2020)
 2. RSMix: [Regularization Strategy for Point Cloud via Rigidly Mixed Sample](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Regularization_Strategy_for_Point_Cloud_via_Rigidly_Mixed_Sample_CVPR_2021_paper.pdf)(2021)
 ### Super-resolution
 1. CutBlur: [Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yoo_Rethinking_Data_Augmentation_for_Image_Super-resolution_A_Comprehensive_Analysis_and_CVPR_2020_paper.pdf)
 
 ### Others
 1. C2L: [Comparing to Learn: Surpassing ImageNet Pretraining on Radiographs By Comparing Image Representations](https://arxiv.org/pdf/2007.07423)
-2. Mixup: [Mixup Learning Strategies for Text-independent Speaker Verification](https://cse.hkust.edu.hk/~mak/PDF/is2019-mixup.pdf)(2019)
-3. Mixup: [An investigation of mixup training strategies for acoustic models in ASR](https://www.isca-speech.org/archive_v0/Interspeech_2018/pdfs/2191.pdf)(2018)
-4. VLMixer: [VLMixer: Unpaired Vision-Language Pre-training via Cross-Modal CutMix](https://proceedings.mlr.press/v162/wang22h/wang22h.pdf)(2022)
-5. VideoMix: [VideoMix: Rethinking Data Augmentation for Video Classification](https://arxiv.org/pdf/2012.03457)(2020)
 
 # Code Repositories
 {_Method_}\* denotes the code of _Method_ is reimplemented by others.
-27.  GraphMix: https://github.com/vikasverma1077/GraphMix
-28.  PointMixup: https://github.com/yunlu-chen/PointMixup
-29.  PA-AUG: https://github.com/sky77764/pa-aug.pytorch
 30.  RSMix: https://github.com/dogyoonlee/RSMix
 32.  Cutblur: https://github.com/clovaai/cutblur
 43.  C2L: https://github.com/funnyzhou/C2L_MICCAI2020
-65.  Snippext: https://github.com/rit-git/Snippext_public
-76.  VLMixer: https://github.com/ttengwang/VLMixer
 77.  CSANMT: https://github.com/pemywei/csanmt
 
 ## Keys
