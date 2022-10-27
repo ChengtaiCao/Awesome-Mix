@@ -89,6 +89,7 @@
 * [ClassMix -- WACV 2021] [ClassMix: Segmentation-Based Data Augmentation for Semi-Supervised Learning](https://arxiv.org/pdf/2007.07936.pdf) [[code](https://github.com/WilhelmT/ClassMix)]
 
 ## Others
+[CutBlur -- CVPR 2020]: [Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yoo_Rethinking_Data_Augmentation_for_Image_Super-resolution_A_Comprehensive_Analysis_and_CVPR_2020_paper.pdf) [[code](https://github.com/clovaai/cutblur)]
 * [Cutout -- Arxiv 2017] [Improved Regularization of Convolutional Neural Networks with Cutout](https://arxiv.org/pdf/1708.04552.pdf)
 * [StackMix -- UAI 2021] [StackMix: A complementary Mix algorithm](https://proceedings.mlr.press/v180/chen22b/chen22b.pdf)
 * [RandomMix -- Arxiv 2022 ] [RandomMix: A mixed sample data augmentation method with multiple mixed modes](https://arxiv.org/pdf/2205.08728)(2022)
@@ -179,8 +180,6 @@
 1. GraphMix: [GraphMix: Improved Training of GNNs for Semi-Supervised Learning](https://ojs.aaai.org/index.php/AAAI/article/view/17203/17010)(2021)
 ### Point Cloud
 2. RSMix: [Regularization Strategy for Point Cloud via Rigidly Mixed Sample](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Regularization_Strategy_for_Point_Cloud_via_Rigidly_Mixed_Sample_CVPR_2021_paper.pdf)(2021)
-### Super-resolution
-1. CutBlur: [Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yoo_Rethinking_Data_Augmentation_for_Image_Super-resolution_A_Comprehensive_Analysis_and_CVPR_2020_paper.pdf)
 
 ### Others
 1. C2L: [Comparing to Learn: Surpassing ImageNet Pretraining on Radiographs By Comparing Image Representations](https://arxiv.org/pdf/2007.07423)
@@ -188,7 +187,6 @@
 # Code Repositories
 {_Method_}\* denotes the code of _Method_ is reimplemented by others.
 30.  RSMix: https://github.com/dogyoonlee/RSMix
-32.  Cutblur: https://github.com/clovaai/cutblur
 43.  C2L: https://github.com/funnyzhou/C2L_MICCAI2020
 77.  CSANMT: https://github.com/pemywei/csanmt
 
