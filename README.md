@@ -46,7 +46,7 @@
 * [Mixstyle -- ICLR 2021] : [Domain generalization with mixstyle](https://arxiv.org/pdf/2104.02008) [[code](https://github.com/KaiyangZhou/mixstyle-release)]
 * [MoEx -- CVPR 2021] [On Feature Normalization and Data Augmentation](http://openaccess.thecvf.com/content/CVPR2021/papers/Li_On_Feature_Normalization_and_Data_Augmentation_CVPR_2021_paper.pdf) [[code](https://github.com/Boyiliee/MoEx)]
 * [DM -- Arxiv 2022] [Decoupled Mixup for Data-efficient Learning](https://arxiv.org/pdf/2203.10761)
-* [Mixup-with-AUM-and-SM -- ACL 2022]: [On the Calibration of Pre-trained Language Models using Mixup Guided by Area Under the Margin and Saliency](https://arxiv.org/pdf/2203.07559) [[code](https://github.com/seoyeon-p/MixUp-Guided-by-AUM-and-Saliency-Map)]
+* [Mixup-with-AUM-and-SM -- ACL 2022] [On the Calibration of Pre-trained Language Models using Mixup Guided by Area Under the Margin and Saliency](https://arxiv.org/pdf/2203.07559) [[code](https://github.com/seoyeon-p/MixUp-Guided-by-AUM-and-Saliency-Map)]
 * [BatchMixup -- IJCNLP 2021] [BATCHMIXUP: Improving Training by Interpolating Hidden States of the Entire Mini-batch](https://aclanthology.org/2021.findings-acl.434.pdf)
 * [EXA Mixup -- TKDD 2022] [Explainability-based mix-up approach for text data augmentation](https://dl.acm.org/doi/pdf/10.1145/3533048)
 * [PixMix -- CVPR 2022] [PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures](https://openaccess.thecvf.com/content/CVPR2022/papers/Hendrycks_PixMix_Dreamlike_Pictures_Comprehensively_Improve_Safety_Measures_CVPR_2022_paper.pdf) [[code](https://github.com/andyzoujm/pixmix)]
@@ -89,7 +89,7 @@
 * [ClassMix -- WACV 2021] [ClassMix: Segmentation-Based Data Augmentation for Semi-Supervised Learning](https://arxiv.org/pdf/2007.07936.pdf) [[code](https://github.com/WilhelmT/ClassMix)]
 
 ## Others
-* [CutBlur -- CVPR 2020]: [Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yoo_Rethinking_Data_Augmentation_for_Image_Super-resolution_A_Comprehensive_Analysis_and_CVPR_2020_paper.pdf) [[code](https://github.com/clovaai/cutblur)]
+* [CutBlur -- CVPR 2020] [Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yoo_Rethinking_Data_Augmentation_for_Image_Super-resolution_A_Comprehensive_Analysis_and_CVPR_2020_paper.pdf) [[code](https://github.com/clovaai/cutblur)]
 * [Cutout -- Arxiv 2017] [Improved Regularization of Convolutional Neural Networks with Cutout](https://arxiv.org/pdf/1708.04552.pdf)
 * [StackMix -- UAI 2021] [StackMix: A complementary Mix algorithm](https://proceedings.mlr.press/v180/chen22b/chen22b.pdf)
 * [RandomMix -- Arxiv 2022 ] [RandomMix: A mixed sample data augmentation method with multiple mixed modes](https://arxiv.org/pdf/2205.08728)(2022)
@@ -122,7 +122,7 @@
 
 ## Metric Learning
 1. [Embedding Expansion -- CVPR 2020] [Embedding expansion: Augmentation in embedding space for deep metric learning](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ko_Embedding_Expansion_Augmentation_in_Embedding_Space_for_Deep_Metric_Learning_CVPR_2020_paper.pdf)(2020) [[code](https://github.com/clovaai/embedding-expansion)]
-2. [Metrix -- ICLR 2022]: [It Takes Two to Tango: Mixup for Deep Metric Learning](https://arxiv.org/pdf/2106.04990.pdf)(2022) [[code](https://tinyurl.com/metrix-iclr)]
+2. [Metrix -- ICLR 2022] [It Takes Two to Tango: Mixup for Deep Metric Learning](https://arxiv.org/pdf/2106.04990.pdf)(2022) [[code](https://tinyurl.com/metrix-iclr)]
 
 ## Contrastive Learning
 * [MixCo -- Arxiv 2022] [MixCo: Mix-up Contrastive Learning for Visual Representation](https://arxiv.org/pdf/2010.06300) [[cdoe](https://github.com/Lee-Gihun/MixCo-Mixup-Contrast)]
@@ -137,8 +137,8 @@
 * [i-Mix -- ICLR 2021] [i-mix: A domain-agnostic strategy for contrastive representation learning](https://arxiv.org/pdf/2010.08887) [[code](https://github.com/kibok90/imix)]
 
 ## NLP
-* [WordMixup & SenMixup -- Arxiv 2019]: [Augmenting Data with Mixup for Sentence Classification: An Empirical Study](https://arxiv.org/pdf/1905.08941.pdf) 
-* [TMix & MixText -- ACL 2020]: [MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification](https://arxiv.org/pdf/2004.12239.pdf) [[code](https://github.com/GT-SALT/MixText)]
+* [WordMixup & SenMixup -- Arxiv 2019] [Augmenting Data with Mixup for Sentence Classification: An Empirical Study](https://arxiv.org/pdf/1905.08941.pdf) 
+* [TMix & MixText -- ACL 2020] [MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification](https://arxiv.org/pdf/2004.12239.pdf) [[code](https://github.com/GT-SALT/MixText)]
 * [Mixup-Transformer -- COLING 2020] [Mixup-Transformer: Dynamic Data Augmentation for NLP Tasks](https://arxiv.org/pdf/2010.02394)
 * [Calibrated-BERT-Fine-Tuning -- EMNLP 2020] [Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data](https://arxiv.org/pdf/2010.11506) [[code](https://github.com/Lingkai-Kong/Calibrated-BERT-Fine-Tuning)]
 * [Emix -- COLING 2020] [Augmenting NLP models using Latent Feature Interpolations](https://aclanthology.org/2020.coling-main.611)
@@ -153,17 +153,17 @@
 
 ## Adversarial Training
 * [IAT -- AISec 2019] [Interpolated adversarial training: Achieving robust neural networks without sacrificing too much accuracy](https://dl.acm.org/doi/pdf/10.1145/3338501.3357369)
-* [AVmixup -- CVPR 2020]: [Adversarial Vertex Mixup: Toward Better Adversarially Robust Generalization](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lee_Adversarial_Vertex_Mixup_Toward_Better_Adversarially_Robust_Generalization_CVPR_2020_paper.pdf) [[code](https://github.com/xuyinhu/AVmixup)]
+* [AVmixup -- CVPR 2020] [Adversarial Vertex Mixup: Toward Better Adversarially Robust Generalization](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lee_Adversarial_Vertex_Mixup_Toward_Better_Adversarially_Robust_Generalization_CVPR_2020_paper.pdf) [[code](https://github.com/xuyinhu/AVmixup)]
 * [AMDA ACL/IJNCLP 2021] [Better Robustness by More Coverage: Adversarial and Mixup Data Augmentation for Robust Finetuning](https://aclanthology.org/2021.findings-acl.137.pdf) [[code](https://github.com/thunlp/MixADA)]
 * [M-TLAT -- ECCV 2020] [Addressing Neural Network Robustness with Mixup and Targeted Labeling Adversarial Training](https://arxiv.org/pdf/2008.08384)
-* [MI -- ICLR 2020]: [Mixup Inference: Better Exploiting Mixup to Defend Adversarial Attacks](https://arxiv.org/pdf/1909.11515] [[code](https://github.com/P2333/Mixup-Inference)]
+* [MI -- ICLR 2020] [Mixup Inference: Better Exploiting Mixup to Defend Adversarial Attacks](https://arxiv.org/pdf/1909.11515] [[code](https://github.com/P2333/Mixup-Inference)]
 * [AOM -- Arxiv 2021] [Adversarially Optimized Mixup for Robust Classification](https://arxiv.org/pdf/2103.11589)
 * [MixACM -- NIPS 2021] : [MixACM: Mixup-Based Robustness Transfer via Distillation of Activated Channel Maps](https://proceedings.neurips.cc/paper/2021/file/240c945bb72980130446fc2b40fbb8e0-Paper.pdf) [[code](https://awaisrauf.github.io/MixACM)]
 * [Mixup-SSAT -- Arxiv 2022] [Semi-supervised Semantics-guided Adversarial Training for Trajectory Prediction](https://arxiv.org/pdf/2205.14230) 
 
 ## Federated Learning
 * [Mix2FLD -- CL 2020] [Mix2FLD: Downlink Federated Learning After Uplink Federated Distillation With Two-Way Mixup](https://ieeexplore.ieee.org/iel7/4234/5534602/09121290.pdf)
-* [XorMixFL -- Arxiv 2020]: [XOR Mixup: Privacy-Preserving Data Augmentation for One-Shot Federated Learning](https://arxiv.org/pdf/2006.05148)
+* [XorMixFL -- Arxiv 2020] [XOR Mixup: Privacy-Preserving Data Augmentation for One-Shot Federated Learning](https://arxiv.org/pdf/2006.05148)
 * [FedMix --ICLR 2021] [FedMix: Approximation of Mixup under Mean Augmented Federated Learning](http://arxiv.org/pdf/2107.00233) [[code](https://github.com/smduan)]
 
 ## Graph
@@ -172,7 +172,7 @@
 ## Point Cloud
 * [PointMix -- ECCV 2020] [PointMixup: Augmentation for Point Clouds](https://arxiv.org/pdf/2008.06374) [[code](https://github.com/yunlu-chen/PointMixup)]
 * [PA-AUG -- IROS 2021] [Part-Aware Data Augmentation for 3D Object Detection in Point Cloud](https://ieeexplore.ieee.org/iel7/9635848/9635849/09635887.pdf?casa_token=0mFjLnp6YCYAAAAA:xolNh7Ecmuzu3t0vc_QaEcBIcFQYEIMiDScD7zTNWu0rPwhzIbnNQTbydAtW64WUfJxeoh4qt_w) [[code](https://github.com/sky77764/pa-aug.pytorch)]
-[RSMix -- CVPR 2021]: [Regularization Strategy for Point Cloud via Rigidly Mixed Sample](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Regularization_Strategy_for_Point_Cloud_via_Rigidly_Mixed_Sample_CVPR_2021_paper.pdf) [[code](https://github.com/dogyoonlee/RSMix)]
+* [RSMix -- CVPR 2021] [Regularization Strategy for Point Cloud via Rigidly Mixed Sample](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Regularization_Strategy_for_Point_Cloud_via_Rigidly_Mixed_Sample_CVPR_2021_paper.pdf) [[code](https://github.com/dogyoonlee/RSMix)]
 ## Others
 * [CMC -- ICML 2022] [VLMixer: Unpaired Vision-Language Pre-training via Cross-Modal CutMix](https://proceedings.mlr.press/v162/wang22h/wang22h.pdf) [[code](https://github.com/ttengwang/VLMixer)]
 
