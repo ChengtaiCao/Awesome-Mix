@@ -47,6 +47,7 @@
 * [MoEx -- CVPR 2021] [On Feature Normalization and Data Augmentation](http://openaccess.thecvf.com/content/CVPR2021/papers/Li_On_Feature_Normalization_and_Data_Augmentation_CVPR_2021_paper.pdf) [[code](https://github.com/Boyiliee/MoEx)]
 * [DM -- Arxiv 2022] [Decoupled Mixup for Data-efficient Learning](https://arxiv.org/pdf/2203.10761)
 * [Mixup-with-AUM-and-SM -- ACL 2022] [On the Calibration of Pre-trained Language Models using Mixup Guided by Area Under the Margin and Saliency](https://arxiv.org/pdf/2203.07559) [[code](https://github.com/seoyeon-p/MixUp-Guided-by-AUM-and-Saliency-Map)]
+* [TokenMixup -- Arxiv 2022] [TokenMixup: Efficient Attention-guided Token-level Data Augmentation for Transformers](https://arxiv.org/pdf/2210.07562.pdf) [[code](https://github.com/mlvlab/TokenMixup)]
 * [BatchMixup -- IJCNLP 2021] [BATCHMIXUP: Improving Training by Interpolating Hidden States of the Entire Mini-batch](https://aclanthology.org/2021.findings-acl.434.pdf)
 * [EXA Mixup -- TKDD 2022] [Explainability-based mix-up approach for text data augmentation](https://dl.acm.org/doi/pdf/10.1145/3533048)
 * [PixMix -- CVPR 2022] [PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures](https://openaccess.thecvf.com/content/CVPR2022/papers/Hendrycks_PixMix_Dreamlike_Pictures_Comprehensively_Improve_Safety_Measures_CVPR_2022_paper.pdf) [[code](https://github.com/andyzoujm/pixmix)]
@@ -76,6 +77,7 @@
 * [SnapMix -- AAAI 2021] [SnapMix: Semantically Proportional Mixing for Augmenting Fine-grained Data](https://ojs.aaai.org/index.php/AAAI/article/view/16255/16062) [[code](https://github.com/Shaoli-Huang/SnapMix)]
 * [ResizeMix -- Arxiv 2020] [ResizeMix: Mixing Data with Preserved Object Information and True Labels](https://arxiv.org/pdf/2012.11101.pdf) [[_code_\*](https://github.com/HarborYuan/pytorch-macos-bench)]
 * [TokenMix -- ECCV 2022] [TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers](https://arxiv.org/pdf/2207.08409) [[code](https://github.com/Sense-X/TokenMix)]
+* [TL-Align -- Arxiv 2021] [Token-Label Alignment for Vision Transformers](https://arxiv.org/pdf/2210.06455) [[code](https://github.com/Euphoria16/TL-Align)]
 * [ScoreMix -- CVPR 2022] [ScoreNet: Learning Non-Uniform Attention and Augmentation for Transformer-Based Histopathological Image Classification](https://arxiv.org/pdf/2202.07570) 
 * [GridMix -- Pattern Recognition 2021] [GridMix: Strong regularization through local context mapping](https://www.sciencedirect.com/science/article/pii/S0031320320303976?casa_token=oQ7NhHPxs1cAAAAA:U0cFG2ASbufAHEPW4m14bxaUMsXK3QE6ke-sjpvbpkcbbLAd_YFSUEbUU2DECq3H7IjtW2dRpAQ)
 * [PatchMix -- BMWC 2021] [Evolving Image Compositions for Feature Representation Learning](https://arxiv.org/pdf/2106.09011)
@@ -171,6 +173,8 @@
 ## Graph
 [GraphMix -- AAAI 2021] [GraphMix: Improved Training of GNNs for Semi-Supervised Learning](https://ojs.aaai.org/index.php/AAAI/article/view/17203/17010) [[code](https://github.com/vikasverma1077/GraphMix)]
 [NodeAug -- CDS 2021] [Node augmentation methods for graph neural network based object classification](https://ieeexplore.ieee.org/iel7/9463177/9463158/09463199.pdf?casa_token=xtakWOywRx4AAAAA:6kQ4iVsW6_zOpR5MDrlBUjGIpBo-DQfI13uQxd4iL9zcDlJwAYB8gpjraia2nS9pewl78ygL4kg)
+[MixGNN -- WWW 2021] [Mixup for node and graph classification](https://dl.acm.org/doi/pdf/10.1145/3442381.3449796)
+
 
 ## Point Cloud
 * [PointMix -- ECCV 2020] [PointMixup: Augmentation for Point Clouds](https://arxiv.org/pdf/2008.06374) [[code](https://github.com/yunlu-chen/PointMixup)]
