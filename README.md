@@ -127,6 +127,7 @@
 ## Contrastive Learning
 * [MixCo -- Arxiv 2022] [MixCo: Mix-up Contrastive Learning for Visual Representation](https://arxiv.org/pdf/2010.06300) [[cdoe](https://github.com/Lee-Gihun/MixCo-Mixup-Contrast)]
 * [MCL -- PRL 2022] [Mixing up contrastive learning: Self-supervised representation learning for time series](https://www.sciencedirect.com/science/article/pii/S0167865522000502) [[code](https://github.com/Wickstrom/MixupContrastiveLearning)]
+* [CLIM -- BMWC 2020] [Center-wise Local Image Mixture For Contrastive Representation Learning](https://arxiv.org/pdf/2011.02697)
 * [MixSiam -- Arxiv 2021] [MixSiam: A Mixture-based Approach to Self-supervised Representation Learning](https://arxiv.org/pdf/2111.02679)
 * [Un-Mix -- AAAI 2022] [Un-mix: Rethinking Image Mixtures for Unsupervised Visual Representation Learning](https://ojs.aaai.org/index.php/AAAI/article/view/20119/19878) [[code](https://github.com/szq0214/Un-Mix)]
 * [Core-tuning -- NIPS 2021] [Unleashing the Power of Contrastive Self-Supervised Visual Models via Contrast-Regularized Fine-Tuning](https://proceedings.neurips.cc/paper/2021/file/fa14d4fe2f19414de3ebd9f63d5c0169-Paper.pdf) [[code](https://github.com/Vanint/Core-tuning)]
@@ -135,6 +136,7 @@
 * [ProGCL -- ICML] [ProGCL: Rethinking Hard Negative Mining in Graph Contrastive Learning](https://proceedings.mlr.press/v162/xia22b/xia22b.pdf) [[code](https://github.com/junxia97/ProGCL)]
 * [BSIM -- Arxiv 2020] [Beyond Single Instance Multi-view Unsupervised Representation Learning](https://arxiv.org/pdf/2011.13356)
 * [i-Mix -- ICLR 2021] [i-mix: A domain-agnostic strategy for contrastive representation learning](https://arxiv.org/pdf/2010.08887) [[code](https://github.com/kibok90/imix)]
+* [Comix -- NIPS 2021] [Contrast and Mix: Temporal Contrastive Video Domain Adaptation with Background Mixing](https://proceedings.neurips.cc/paper/2021/file/c47e93742387750baba2e238558fa12d-Paper.pdf) [[code](https://cvir.github.io/projects/comix)]
 
 ## NLP
 * [WordMixup & SenMixup -- Arxiv 2019] [Augmenting Data with Mixup for Sentence Classification: An Empirical Study](https://arxiv.org/pdf/1905.08941.pdf) 
@@ -168,6 +170,7 @@
 
 ## Graph
 [GraphMix -- AAAI 2021] [GraphMix: Improved Training of GNNs for Semi-Supervised Learning](https://ojs.aaai.org/index.php/AAAI/article/view/17203/17010) [[code](https://github.com/vikasverma1077/GraphMix)]
+[NodeAug -- CDS 2021] [Node augmentation methods for graph neural network based object classification](https://ieeexplore.ieee.org/iel7/9463177/9463158/09463199.pdf?casa_token=xtakWOywRx4AAAAA:6kQ4iVsW6_zOpR5MDrlBUjGIpBo-DQfI13uQxd4iL9zcDlJwAYB8gpjraia2nS9pewl78ygL4kg)
 
 ## Point Cloud
 * [PointMix -- ECCV 2020] [PointMixup: Augmentation for Point Clouds](https://arxiv.org/pdf/2008.06374) [[code](https://github.com/yunlu-chen/PointMixup)]
