@@ -171,13 +171,13 @@
 * [FedMix --ICLR 2021] [FedMix: Approximation of Mixup under Mean Augmented Federated Learning](http://arxiv.org/pdf/2107.00233) [[code](https://github.com/smduan)]
 
 ## Graph
-[GraphMix -- AAAI 2021] [GraphMix: Improved Training of GNNs for Semi-Supervised Learning](https://ojs.aaai.org/index.php/AAAI/article/view/17203/17010) [[code](https://github.com/vikasverma1077/GraphMix)]
-[PMRGNN -- Symmetry 2022] [Graph Mixed Random Network Based on PageRank](https://www.mdpi.com/2073-8994/14/8/1678/pdf) 
-[NodeAug -- CDS 2021] [Node augmentation methods for graph neural network based object classification](https://ieeexplore.ieee.org/iel7/9463177/9463158/09463199.pdf?casa_token=xtakWOywRx4AAAAA:6kQ4iVsW6_zOpR5MDrlBUjGIpBo-DQfI13uQxd4iL9zcDlJwAYB8gpjraia2nS9pewl78ygL4kg)
-[MixGNN -- WWW 2021] [Mixup for node and graph classification](https://dl.acm.org/doi/pdf/10.1145/3442381.3449796)
-[GraphMixup -- Arxiv 2022] [GraphMixup: Improving Class-Imbalanced Node Classification on Graphs by Self-supervised Context Prediction](https://arxiv.org/pdf/2106.11133.pdf)
-[\mathcal{G}-Mixup -- ICML 2022] [G-Mixup: Graph Data Augmentation for Graph Classification](https://arxiv.org/pdf/2202.07179)
-[Graph Transplant -- MiniCon 2022] [Graph Transplant: Node Saliency-Guided Graph Mixup with Local Structure Preservation](https://www.aaai.org/AAAI22Papers/AAAI-11745.ParkJ.pdf)
+* [GraphMix -- AAAI 2021] [GraphMix: Improved Training of GNNs for Semi-Supervised Learning](https://ojs.aaai.org/index.php/AAAI/article/view/17203/17010) [[code](https://github.com/vikasverma1077/GraphMix)]
+* [PMRGNN -- Symmetry 2022] [Graph Mixed Random Network Based on PageRank](https://www.mdpi.com/2073-8994/14/8/1678/pdf) 
+* [NodeAug -- CDS 2021] [Node augmentation methods for graph neural network based object classification](https://ieeexplore.ieee.org/iel7/9463177/9463158/09463199.pdf?casa_token=xtakWOywRx4AAAAA:6kQ4iVsW6_zOpR5MDrlBUjGIpBo-DQfI13uQxd4iL9zcDlJwAYB8gpjraia2nS9pewl78ygL4kg)
+* [MixGNN -- WWW 2021] [Mixup for node and graph classification](https://dl.acm.org/doi/pdf/10.1145/3442381.3449796)
+* [GraphMixup -- Arxiv 2022] [GraphMixup: Improving Class-Imbalanced Node Classification on Graphs by Self-supervised Context Prediction](https://arxiv.org/pdf/2106.11133.pdf)
+* [\mathcal{G}-Mixup -- ICML 2022] [G-Mixup: Graph Data Augmentation for Graph Classification](https://arxiv.org/pdf/2202.07179)
+* [Graph Transplant -- MiniCon 2022] [Graph Transplant: Node Saliency-Guided Graph Mixup with Local Structure Preservation](https://www.aaai.org/AAAI22Papers/AAAI-11745.ParkJ.pdf)
 
 ## Point Cloud
 * [PointMix -- ECCV 2020] [PointMixup: Augmentation for Point Clouds](https://arxiv.org/pdf/2008.06374) [[code](https://github.com/yunlu-chen/PointMixup)]
