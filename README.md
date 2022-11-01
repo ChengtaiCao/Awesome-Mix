@@ -25,6 +25,7 @@
 * [SamplePairing -- Arxiv 2018] [Data Augmentation by Pairing Samples for Images Classification](https://arxiv.org/pdf/1801.02929) [[_code_\*](https://github.com/junkwhinger/SamplePairing)]
 * [Manifold Mixup -- ICML 2019] [Manifold Mixup: Better Representations by Interpolating Hidden States](http://proceedings.mlr.press/v97/verma19a/verma19a.pdf) [[_code_\*](https://github.com/vikasverma1077/manifold_mixup)]
 * [AlignMixup -- CVPR 2022] [AlignMixup: Improving Representations By Interpolating Aligned Features](https://openaccess.thecvf.com/content/CVPR2022/papers/Venkataramanan_AlignMixup_Improving_Representations_by_Interpolating_Aligned_Features_CVPR_2022_paper.pdf) [[code](https://github.com/shashankvkt/AlignMixup_CVPR22)]
+* [NFM -- ICLR 2022] [Noisy Feature Mixup](https://arxiv.org/pdf/2110.02180.pdf) [[code](https://github.com/erichson/noisy_mixup)]
 * [AdaMixUp -- AAAI 2019] [MixUp as Locally Linear Out-of-Manifold Regularization](https://ojs.aaai.org/index.php/AAAI/article/download/4256/4134) [[_code_\*](https://github.com/SITE5039/AdaMixUp)]
 * [MetaMixUp -- TNNLS 2021] [MetaMixUp: Learning Adaptive Interpolation Policy of MixUp with Meta-Learning](https://ieeexplore.ieee.org/iel7/5962385/6104215/09366422.pdf?casa_token=yeyn9EGO8PAAAAAA:QxbqK3Y2lYbKN1eX-wOGg6rf99WUalLPE3sKzkSSuwEBmDCky3E3ozOiA5-BjYM75qmAd5EdwvA)
 * [AutoMix -- ECCV 2022] [AutoMix: Unveiling the Power of Mixup for Stronger Classifiers](https://arxiv.org/pdf/2103.13027) [[code](https://github.com/Westlake-AI/openmixup)]
@@ -97,6 +98,8 @@
 * [RandomMix -- Arxiv 2022 ] [RandomMix: A mixed sample data augmentation method with multiple mixed modes](https://arxiv.org/pdf/2205.08728)(2022)
 * [HMix \& GMix -- Arxiv 2022] [A Unified Analysis of Mixed Sample Data Augmentation: A Loss Function Perspective](https://arxiv.org/pdf/2208.09913) [[code](https://github.com/naver-ai/hmix-gmix)]
 * [DMixup \& DCutmix -- Arxiv 2021] [Observations on K-image Expansion of Image-Mixing Augmentation for Classification](https://arxiv.org/pdf/2110.04248)
+* [SciMix -- Arxiv 2022] [Swapping Semantic Contents for Mixing Images](https://arxiv.org/pdf/2205.10158.pdf)
+* [CropMix -- Arxiv 2022] [CropMix: Sampling a Rich Input Distribution via Multi-Scale Cropping](https://arxiv.org/pdf/2205.15955.pdf) [[code](https://github.com/JunlinHan/CropMix)]
 
 # Applications
 ## Semi-Supervised
@@ -132,6 +135,7 @@
 * [CLIM -- BMWC 2020] [Center-wise Local Image Mixture For Contrastive Representation Learning](https://arxiv.org/pdf/2011.02697)
 * [MixSiam -- Arxiv 2021] [MixSiam: A Mixture-based Approach to Self-supervised Representation Learning](https://arxiv.org/pdf/2111.02679)
 * [Un-Mix -- AAAI 2022] [Un-mix: Rethinking Image Mixtures for Unsupervised Visual Representation Learning](https://ojs.aaai.org/index.php/AAAI/article/view/20119/19878) [[code](https://github.com/szq0214/Un-Mix)]
+* [ScaleMix -- CVPR 2022] [On the Importance of Asymmetry for Siamese Representation Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_On_the_Importance_of_Asymmetry_for_Siamese_Representation_Learning_CVPR_2022_paper.pdf) [[code](https://github.com/facebookresearch/asym-siam)]
 * [Core-tuning -- NIPS 2021] [Unleashing the Power of Contrastive Self-Supervised Visual Models via Contrast-Regularized Fine-Tuning](https://proceedings.neurips.cc/paper/2021/file/fa14d4fe2f19414de3ebd9f63d5c0169-Paper.pdf) [[code](https://github.com/Vanint/Core-tuning)]
 * [Feature Transformation -- ICCV 2021] [Improving Contrastive Learning by Visualizing Feature Transformation](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_Improving_Contrastive_Learning_by_Visualizing_Feature_Transformation_ICCV_2021_paper.pdf) [[code](https://github.com/DTennant/CL-Visualizing-Feature-Transformation)]
 * [Mochi -- NIPS 2020] [Hard Negative Mixing for Contrastive Learning](https://proceedings.neurips.cc/paper/2020/file/f7cade80b7cc92b991cf4d2806d6bd78-Paper.pdf) [[code](https://europe.naverlabs.com/mochi)]
@@ -178,6 +182,8 @@
 * [GraphMixup -- Arxiv 2022] [GraphMixup: Improving Class-Imbalanced Node Classification on Graphs by Self-supervised Context Prediction](https://arxiv.org/pdf/2106.11133.pdf)
 * [G-Mixup -- ICML 2022] [G-Mixup: Graph Data Augmentation for Graph Classification](https://arxiv.org/pdf/2202.07179)
 * [Graph Transplant -- MiniCon 2022] [Graph Transplant: Node Saliency-Guided Graph Mixup with Local Structure Preservation](https://www.aaai.org/AAAI22Papers/AAAI-11745.ParkJ.pdf)
+* [AugGCR -- IEEE Access] [Learning Augmentation for GNNs with Consistency Regularization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9535521)
+* [GraphSMOTE -- Arxiv 2022] [Synthetic Over-sampling for Imbalanced Node Classification with Graph Neural Networks](https://arxiv.org/pdf/2206.05335.pdf) [[code](https://github.com/TianxiangZhao/GraphSmote)]
 
 ## Point Cloud
 * [PointMix -- ECCV 2020] [PointMixup: Augmentation for Point Clouds](https://arxiv.org/pdf/2008.06374) [[code](https://github.com/yunlu-chen/PointMixup)]
