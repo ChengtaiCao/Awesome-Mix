@@ -8,12 +8,12 @@
 * [VRM -- ICLR 2022] [Towards Understanding the Data Dependency of Mixup-style Training](https://arxiv.org/pdf/2110.07647) [[code](https://github.com/2014mchidamb/Mixup-Data-Dependency)]
 ## Regularization
 * [Regularization -- Arxiv 2020] [On Mixup Regularization](http://arxiv.org/pdf/2006.06049)
-* [Regularization -- ICLR 2021] [How Does Mixup Help With Robustness and Generalization?](http://arxiv.org/pdf/2010.04819) 
 * [Regularization -- Arxiv 2022] [A Unified Analysis of Mixed Sample Data Augmentation: A Loss Function Perspective](http://arxiv.org/pdf/2208.09913) [[code](https://github.com/naver-ai/hmix-gmix)]
 * [Regularization -- IEEE Access 2018] [Understanding mixup training methods](https://ieeexplore.ieee.org/iel7/6287639/8274985/08478159.pdf) [[code](https://github.com/liangdaojun/spatial-mixup)]
 ## Adversarial Training
 * [Adversarial Training -- Arxiv 2020] [FMix: Enhancing Mixed Sample Data Augmentation](http://arxiv.org/pdf/2002.12047) [[code](https://github.com/ecs-vlc/FMix)]
 * [Adversarial Training -- Arxiv 2019] [MixUp as Directional Adversarial Training](http://arxiv.org/pdf/1906.06875)
+* [Regularization -- ICLR 2021] [How Does Mixup Help With Robustness and Generalization?](http://arxiv.org/pdf/2010.04819) 
 ## Uncertainty \& Calibration
 * [Uncertainty \& Calibration -- NIPS 2019] [On Mixup Training: Improved Calibration and Predictive Uncertainty for Deep Neural Networks](https://proceedings.neurips.cc/paper/2019/file/36ad8b5f42db492827016448975cc22d-Paper.pdf)
 * [Uncertainty \& Calibration -- ICML 2022] [When and How Mixup Improves Calibration](https://proceedings.mlr.press/v162/zhang22f/zhang22f.pdf)
