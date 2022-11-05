@@ -193,18 +193,3 @@
 * [RSMix -- CVPR 2021] [Regularization Strategy for Point Cloud via Rigidly Mixed Sample](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Regularization_Strategy_for_Point_Cloud_via_Rigidly_Mixed_Sample_CVPR_2021_paper.pdf) [[code](https://github.com/dogyoonlee/RSMix)]
 ## Others
 * [CMC -- ICML 2022] [VLMixer: Unpaired Vision-Language Pre-training via Cross-Modal CutMix](https://proceedings.mlr.press/v162/wang22h/wang22h.pdf) [[code](https://github.com/ttengwang/VLMixer)]
-
-## Keys
-1.  Number of samples for mixup == 2;
-2.  Data Augment v.s. Regularization --> Mixup v.s. Weight Decay;
-3.  Why and which specific properties;
-4.  Limits;
-    in some way distorted, i.e., vicinal distribution not match the true distribution of the data
-5.  Order of data augmentation;
-6.  the role of \alpha;
-
-{_code_}\* denotes the code of _code_ is reimplemented by others.
-
-
-## Others
-3.  MixFeat: [Mixfeat: Mix feature in latent space learns discriminative space](https://openreview.net/pdf?id=HygT9oRqFX) [2019; CV]
