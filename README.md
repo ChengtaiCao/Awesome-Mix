@@ -1,4 +1,4 @@
-# Methods
+# Methodology
 ## Mixup-based
 ### Mixup
 * [Mixup -- ICLR 2018] [mixup: Beyond Empirical Risk Minimization](https://arxiv.org/pdf/1710.09412) [[Code](https://github.com/facebookresearch/mixup-cifar10)]
@@ -110,8 +110,8 @@
 * [CropMix -- Arxiv 2022] [CropMix: Sampling a Rich Input Distribution via Multi-Scale Cropping](https://arxiv.org/pdf/2205.15955.pdf) [[code](https://github.com/JunlinHan/CropMix)]
 
 
-# Applications
-## Semi-Supervised
+# MixDA Applications
+## Semi-Supervised Learning
 * [ICT -- IJCAI 2019] [Interpolation Consistency Training for Semi-Supervised Learning](https://arxiv.org/pdf/1903.03825.pdf?ref=https://githubhelp.com) [[code](https://github.com/vikasverma1077/ICT)]
 * [MixMatch -- NIPS 2019] [MixMatch: A Holistic Approach to Semi-Supervised Learning](https://proceedings.neurips.cc/paper/2019/file/1cd138d0499a68f4bb72bee04bbec2d7-Paper.pdf) [[code](https://github.com/google-research/mixmatch)]
 * [ReMixMatch -- Arxiv 2019] [ReMixMatch: Semi-Supervised Learning with Distribution Alignment and Augmentation Anchoring](https://arxiv.org/pdf/1911.09785.pdf) [[code](https://github.com/google-research/remixmatch)]
@@ -151,7 +151,7 @@
 * [Mixup-SSAT -- Arxiv 2022] [Semi-supervised Semantics-guided Adversarial Training for Trajectory Prediction](https://arxiv.org/pdf/2205.14230) 
 * [MI -- ICLR 2020] [Mixup Inference: Better Exploiting Mixup to Defend Adversarial Attacks](https://arxiv.org/pdf/1909.11515] [[code](https://github.com/P2333/Mixup-Inference)]
 
-## Generative Model
+## Generative Models
 * [Shot VAE -- AAAI 2021][SHOT-VAE: Semi-supervised Deep Generative Models With Label-aware ELBO Approximations](https://ojs.aaai.org/index.php/AAAI/article/view/16909/16716) [[code](https://github.com/FengHZ/SHOT-VAE)]
 * [AAE -- ICPR 2018] [Data Augmentation via Latent Space Interpolation for Image Classification](https://ieeexplore.ieee.org/iel7/8527858/8545020/08545506.pdf?casa_token=pjiWDeNyO-UAAAAA:xzH6WaFN4ik6otSGYZQ4rYsgtGVtyPK9wTyBgT12Ubrfravtdj3mYY-eIHqcXvKWuyi9JQ_Rx14)
 * [VarMixup -- Arxiv 2020] [VarMixup: Exploiting the Latent Space for Robust Training and Inference](https://arxiv.org/pdf/2003.06566v1.pdf)
@@ -165,7 +165,7 @@
 * [DMRL -- ECCV 2020] [Dual Mixup Regularized Learning for Adversarial Domain Adaptation](https://arxiv.org/pdf/2007.03141) [[code](https://github.com/YuanWu3/Dual-Mixup-Regularized-Learning-for-Adversarial-Domain-Adaptation)]
 * [SLM -- NIPS 2021] [Select, Label, and Mix: Learning Discriminative Invariant Feature Representations for Partial Domain Adaptation](https://arxiv.org/pdf/2012.03358) [[code](https://github.com/CVIR/Select-Label-Mix-SLM-PDA)]
 
-## NLP
+## Natural Language Processing
 * [WordMixup & SenMixup -- Arxiv 2019] [Augmenting Data with Mixup for Sentence Classification: An Empirical Study](https://arxiv.org/pdf/1905.08941.pdf) 
 * [Mixup-Transformer -- COLING 2020] [Mixup-Transformer: Dynamic Data Augmentation for NLP Tasks](https://arxiv.org/pdf/2010.02394)
 * [Calibrated-BERT-Fine-Tuning -- EMNLP 2020] [Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data](https://arxiv.org/pdf/2010.11506) [[code](https://github.com/Lingkai-Kong/Calibrated-BERT-Fine-Tuning)]
@@ -180,13 +180,7 @@
 * [XMixup -- ICLR 2022] [Enhancing Cross-lingual Transfer by Manifold Mixup](https://arxiv.org/pdf/2205.04182) [[code](https://github.com/yhy1117/X-Mixup)]
 * [mXEncDec -- ACL 2022] [Multilingual Mix: Example Interpolation Improves Multilingual Neural Machine Translation](https://arxiv.org/pdf/2203.07627)
 
-
-## Federated Learning
-* [Mix2FLD -- CL 2020] [Mix2FLD: Downlink Federated Learning After Uplink Federated Distillation With Two-Way Mixup](https://ieeexplore.ieee.org/iel7/4234/5534602/09121290.pdf)
-* [XorMixFL -- Arxiv 2020] [XOR Mixup: Privacy-Preserving Data Augmentation for One-Shot Federated Learning](https://arxiv.org/pdf/2006.05148)
-* [FedMix --ICLR 2021] [FedMix: Approximation of Mixup under Mean Augmented Federated Learning](http://arxiv.org/pdf/2107.00233) [[code](https://github.com/smduan)]
-
-## Graph
+## Graph Neural Networks
 * [GraphMix -- AAAI 2021] [GraphMix: Improved Training of GNNs for Semi-Supervised Learning](https://ojs.aaai.org/index.php/AAAI/article/view/17203/17010) [[code](https://github.com/vikasverma1077/GraphMix)]
 * [PMRGNN -- Symmetry 2022] [Graph Mixed Random Network Based on PageRank](https://www.mdpi.com/2073-8994/14/8/1678/pdf) 
 * [NodeAug -- CDS 2021] [Node augmentation methods for graph neural network based object classification](https://ieeexplore.ieee.org/iel7/9463177/9463158/09463199.pdf?casa_token=xtakWOywRx4AAAAA:6kQ4iVsW6_zOpR5MDrlBUjGIpBo-DQfI13uQxd4iL9zcDlJwAYB8gpjraia2nS9pewl78ygL4kg)
@@ -194,35 +188,35 @@
 * [GraphMixup -- Arxiv 2022] [GraphMixup: Improving Class-Imbalanced Node Classification on Graphs by Self-supervised Context Prediction](https://arxiv.org/pdf/2106.11133.pdf)
 * [_G_-Mixup -- ICML 2022] [G-Mixup: Graph Data Augmentation for Graph Classification](https://arxiv.org/pdf/2202.07179)
 * [Graph Transplant -- MiniCon 2022] [Graph Transplant: Node Saliency-Guided Graph Mixup with Local Structure Preservation](https://www.aaai.org/AAAI22Papers/AAAI-11745.ParkJ.pdf)
-* [AugGCR -- IEEE Access] [Learning Augmentation for GNNs with Consistency Regularization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9535521)
 * [GraphSMOTE -- Arxiv 2022] [Synthetic Over-sampling for Imbalanced Node Classification with Graph Neural Networks](https://arxiv.org/pdf/2206.05335.pdf) [[code](https://github.com/TianxiangZhao/GraphSmote)]
 
-## Point Cloud
+## Federated Learning
+* [Mix2FLD -- CL 2020] [Mix2FLD: Downlink Federated Learning After Uplink Federated Distillation With Two-Way Mixup](https://ieeexplore.ieee.org/iel7/4234/5534602/09121290.pdf)
+* [XORMixup -- Arxiv 2020] [XOR Mixup: Privacy-Preserving Data Augmentation for One-Shot Federated Learning](https://arxiv.org/pdf/2006.05148)
+* [FedMix --ICLR 2021] [FedMix: Approximation of Mixup under Mean Augmented Federated Learning](http://arxiv.org/pdf/2107.00233) [[code](https://github.com/smduan)]
+
+## Other Applications
+### Point Clound
 * [PointMix -- ECCV 2020] [PointMixup: Augmentation for Point Clouds](https://arxiv.org/pdf/2008.06374) [[code](https://github.com/yunlu-chen/PointMixup)]
 * [PA-AUG -- IROS 2021] [Part-Aware Data Augmentation for 3D Object Detection in Point Cloud](https://ieeexplore.ieee.org/iel7/9635848/9635849/09635887.pdf?casa_token=0mFjLnp6YCYAAAAA:xolNh7Ecmuzu3t0vc_QaEcBIcFQYEIMiDScD7zTNWu0rPwhzIbnNQTbydAtW64WUfJxeoh4qt_w) [[code](https://github.com/sky77764/pa-aug.pytorch)]
 * [RSMix -- CVPR 2021] [Regularization Strategy for Point Cloud via Rigidly Mixed Sample](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Regularization_Strategy_for_Point_Cloud_via_Rigidly_Mixed_Sample_CVPR_2021_paper.pdf) [[code](https://github.com/dogyoonlee/RSMix)]
-## Others
+### Multiple-modal Learning
 * [CMC -- ICML 2022] [VLMixer: Unpaired Vision-Language Pre-training via Cross-Modal CutMix](https://proceedings.mlr.press/v162/wang22h/wang22h.pdf) [[code](https://github.com/ttengwang/VLMixer)]
 
 
-## Regularization
+# Explainability Analysis of MixDA
+## Vicinal Risk Minimization
+* [VRM -- NeurIPS 2000] [Vicinal Risk Minimization](https://proceedings.neurips.cc/paper/2000/file/ba9a56ce0a9bfa26e8ed9e10b2cc8f46-Paper.pdf)
+
+## Model Regularization
 * [Regularization -- Arxiv 2020] [On Mixup Regularization](http://arxiv.org/pdf/2006.06049)
-* [Regularization -- ICLR 2021] [How Does Mixup Help With Robustness and Generalization?](http://arxiv.org/pdf/2010.04819)
 * [Regularization -- IEEE Access 2018] [Understanding mixup training methods](https://ieeexplore.ieee.org/iel7/6287639/8274985/08478159.pdf) [[code](https://github.com/liangdaojun/spatial-mixup)]
+* [Regularization -- ICLR 2021] [How Does Mixup Help With Robustness and Generalization?](http://arxiv.org/pdf/2010.04819)
 * [Regularization -- Arxiv 2022] [A Unified Analysis of Mixed Sample Data Augmentation: A Loss Function Perspective](http://arxiv.org/pdf/2208.09913) [[code](https://github.com/naver-ai/hmix-gmix)]
 
-# Explainability
-## Vicinal Risk Minimization (VRM)
-* [VRM -- NeurIPS 2000] [Vicinal Risk Minimization](https://proceedings.neurips.cc/paper/2000/file/ba9a56ce0a9bfa26e8ed9e10b2cc8f46-Paper.pdf)
-* [VRM -- ICLR 2022] [Towards Understanding the Data Dependency of Mixup-style Training](https://arxiv.org/pdf/2110.07647) [[code](https://github.com/2014mchidamb/Mixup-Data-Dependency)]
-
-## Adversarial Training
-* [Adversarial Training -- Arxiv 2020] [FMix: Enhancing Mixed Sample Data Augmentation](http://arxiv.org/pdf/2002.12047) [[code](https://github.com/ecs-vlc/FMix)]
-* [Adversarial Training -- Arxiv 2019] [MixUp as Directional Adversarial Training](http://arxiv.org/pdf/1906.06875)
-* [Regularization -- ICLR 2021] [How Does Mixup Help With Robustness and Generalization?](http://arxiv.org/pdf/2010.04819) 
 ## Uncertainty \& Calibration
-* [Uncertainty \& Calibration -- NIPS 2019] [On Mixup Training: Improved Calibration and Predictive Uncertainty for Deep Neural Networks](https://proceedings.neurips.cc/paper/2019/file/36ad8b5f42db492827016448975cc22d-Paper.pdf)
 * [Uncertainty \& Calibration -- ICML 2022] [When and How Mixup Improves Calibration](https://proceedings.mlr.press/v162/zhang22f/zhang22f.pdf)
+* [Uncertainty \& Calibration -- NIPS 2019] [On Mixup Training: Improved Calibration and Predictive Uncertainty for Deep Neural Networks](https://proceedings.neurips.cc/paper/2019/file/36ad8b5f42db492827016448975cc22d-Paper.pdf)
 
 
 
