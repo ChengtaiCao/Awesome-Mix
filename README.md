@@ -167,17 +167,17 @@
 
 ## NLP
 * [WordMixup & SenMixup -- Arxiv 2019] [Augmenting Data with Mixup for Sentence Classification: An Empirical Study](https://arxiv.org/pdf/1905.08941.pdf) 
-* [TMix & MixText -- ACL 2020] [MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification](https://arxiv.org/pdf/2004.12239.pdf) [[code](https://github.com/GT-SALT/MixText)]
 * [Mixup-Transformer -- COLING 2020] [Mixup-Transformer: Dynamic Data Augmentation for NLP Tasks](https://arxiv.org/pdf/2010.02394)
 * [Calibrated-BERT-Fine-Tuning -- EMNLP 2020] [Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data](https://arxiv.org/pdf/2010.11506) [[code](https://github.com/Lingkai-Kong/Calibrated-BERT-Fine-Tuning)]
 * [Emix -- COLING 2020] [Augmenting NLP models using Latent Feature Interpolations](https://aclanthology.org/2020.coling-main.611)
 * [TreeMix -- NAALC 2022] [TreeMix: Compositional Constituency-based Data Augmentation for Natural Language Understanding](https://arxiv.org/pdf/2205.06153)
+* [MixText -- ACL 2020] [MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification](https://arxiv.org/pdf/2004.12239.pdf) [[code](https://github.com/GT-SALT/MixText)]
 * [SeqMix -- EMNLP 2020] [Sequence-Level Mixed Sample Data Augmentation](https://arxiv.org/pdf/2011.09039) [[code](https://github.com/dguo98/seqmix)]
-* [SeqMix -- EMNLP 2020] [Sequence-Level Mixed Sample Data Augmentation](https://arxiv.org/pdf/2011.09039) [[code](https://github.com/rz-zhang/SeqMix)]
+* [SeqMix -- EMNLP 2020] [Seqmix: Augmenting active sequence labeling via sequence mixup](https://arxiv.org/pdf/2010.02322) [[code](https://github.com/rz-zhang/SeqMix)]
 * [AdvAug -- ACL 2020] [AdvAug: Robust Adversarial Augmentation for Neural Machine Translation](https://arxiv.org/pdf/2006.11834)
 * [STEMM -- ACL 2022] [STEMM: Self-learning with Speech-text Manifold Mixup for Speech Translation](https://arxiv.org/pdf/2203.10426) [[code](https://github.com/ictnlp/STEMM)]
 * [MixDiversity -- EMNLP 2021] [Mixup Decoding for Diverse Machine Translation](https://arxiv.org/pdf/2109.03402)
-* [X-Mixup -- ICLR 2022] [Enhancing Cross-lingual Transfer by Manifold Mixup](https://arxiv.org/pdf/2205.04182) [[code](https://github.com/yhy1117/X-Mixup)]
+* [XMixup -- ICLR 2022] [Enhancing Cross-lingual Transfer by Manifold Mixup](https://arxiv.org/pdf/2205.04182) [[code](https://github.com/yhy1117/X-Mixup)]
 * [mXEncDec -- ACL 2022] [Multilingual Mix: Example Interpolation Improves Multilingual Neural Machine Translation](https://arxiv.org/pdf/2203.07627)
 
 
