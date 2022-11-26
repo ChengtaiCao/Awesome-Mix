@@ -217,8 +217,3 @@
 ## Uncertainty \& Calibration
 * [Uncertainty \& Calibration -- ICML 2022] [When and How Mixup Improves Calibration](https://proceedings.mlr.press/v162/zhang22f/zhang22f.pdf)
 * [Uncertainty \& Calibration -- NIPS 2019] [On Mixup Training: Improved Calibration and Predictive Uncertainty for Deep Neural Networks](https://proceedings.neurips.cc/paper/2019/file/36ad8b5f42db492827016448975cc22d-Paper.pdf)
-
-
-
-
-
