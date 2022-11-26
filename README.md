@@ -149,7 +149,7 @@
 * [AOM -- Arxiv 2021] [Adversarially Optimized Mixup for Robust Classification](https://arxiv.org/pdf/2103.11589)
 * [MixACM -- NIPS 2021] : [MixACM: Mixup-Based Robustness Transfer via Distillation of Activated Channel Maps](https://proceedings.neurips.cc/paper/2021/file/240c945bb72980130446fc2b40fbb8e0-Paper.pdf) [[code](https://awaisrauf.github.io/MixACM)]
 * [Mixup-SSAT -- Arxiv 2022] [Semi-supervised Semantics-guided Adversarial Training for Trajectory Prediction](https://arxiv.org/pdf/2205.14230) 
-* [MI -- ICLR 2020] [Mixup Inference: Better Exploiting Mixup to Defend Adversarial Attacks](https://arxiv.org/pdf/1909.11515] [[code](https://github.com/P2333/Mixup-Inference)]
+* [MI -- ICLR 2020] [Mixup Inference: Better Exploiting Mixup to Defend Adversarial Attacks](https://arxiv.org/pdf/1909.11515) [[code](https://github.com/P2333/Mixup-Inference)]
 
 ## Generative Models
 * [Shot VAE -- AAAI 2021][SHOT-VAE: Semi-supervised Deep Generative Models With Label-aware ELBO Approximations](https://ojs.aaai.org/index.php/AAAI/article/view/16909/16716) [[code](https://github.com/FengHZ/SHOT-VAE)]
