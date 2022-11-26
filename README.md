@@ -137,6 +137,10 @@
 * [Similarity Mixup -- CVPR 2022] [Recall@k Surrogate Loss with Large Batches and Similarity Mixup](https://openaccess.thecvf.com/content/CVPR2022/papers/Patel_Recallk_Surrogate_Loss_With_Large_Batches_and_Similarity_Mixup_CVPR_2022_paper.pdf) [[code](https://github.com/yash0307/RecallatK)]
 * [ProGC-Mix -- ICML] [ProGCL: Rethinking Hard Negative Mining in Graph Contrastive Learning](https://proceedings.mlr.press/v162/xia22b/xia22b.pdf) [[code](https://github.com/junxia97/ProGCL)]
 
+## Metric Learning
+1. [Embedding Expansion -- CVPR 2020] [Embedding expansion: Augmentation in embedding space for deep metric learning](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ko_Embedding_Expansion_Augmentation_in_Embedding_Space_for_Deep_Metric_Learning_CVPR_2020_paper.pdf)(2020) [[code](https://github.com/clovaai/embedding-expansion)]
+2. [Metrix -- ICLR 2022] [It Takes Two to Tango: Mixup for Deep Metric Learning](https://arxiv.org/pdf/2106.04990.pdf)(2022) [[code](https://tinyurl.com/metrix-iclr)]
+
 ## Generative Model
 * [Shot VAE -- AAAI 2021][SHOT-VAE: Semi-supervised Deep Generative Models With Label-aware ELBO Approximations](https://ojs.aaai.org/index.php/AAAI/article/view/16909/16716) [[code](https://github.com/FengHZ/SHOT-VAE)]
 * [LSI -- ICPR 2018] [Data Augmentation via Latent Space Interpolation for Image Classification](https://ieeexplore.ieee.org/iel7/8527858/8545020/08545506.pdf?casa_token=pjiWDeNyO-UAAAAA:xzH6WaFN4ik6otSGYZQ4rYsgtGVtyPK9wTyBgT12Ubrfravtdj3mYY-eIHqcXvKWuyi9JQ_Rx14)
@@ -150,11 +154,6 @@
 * [DM-ADA -- AAAI 2020] [Adversarial Domain Adaptation with Domain Mixup](https://ojs.aaai.org/index.php/AAAI/article/view/6123/5979)
 * [DMRL -- ECCV 2020] [Dual Mixup Regularized Learning for Adversarial Domain Adaptation](https://arxiv.org/pdf/2007.03141) [[code](https://github.com/YuanWu3/Dual-Mixup-Regularized-Learning-for-Adversarial-Domain-Adaptation)]
 * [SLM -- NIPS 2021] [Select, Label, and Mix: Learning Discriminative Invariant Feature Representations for Partial Domain Adaptation](https://arxiv.org/pdf/2012.03358) [[code](https://github.com/CVIR/Select-Label-Mix-SLM-PDA)]
-
-## Metric Learning
-1. [Embedding Expansion -- CVPR 2020] [Embedding expansion: Augmentation in embedding space for deep metric learning](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ko_Embedding_Expansion_Augmentation_in_Embedding_Space_for_Deep_Metric_Learning_CVPR_2020_paper.pdf)(2020) [[code](https://github.com/clovaai/embedding-expansion)]
-2. [Metrix -- ICLR 2022] [It Takes Two to Tango: Mixup for Deep Metric Learning](https://arxiv.org/pdf/2106.04990.pdf)(2022) [[code](https://tinyurl.com/metrix-iclr)]
-
 
 ## NLP
 * [WordMixup & SenMixup -- Arxiv 2019] [Augmenting Data with Mixup for Sentence Classification: An Empirical Study](https://arxiv.org/pdf/1905.08941.pdf) 
@@ -192,7 +191,7 @@
 * [NodeAug -- CDS 2021] [Node augmentation methods for graph neural network based object classification](https://ieeexplore.ieee.org/iel7/9463177/9463158/09463199.pdf?casa_token=xtakWOywRx4AAAAA:6kQ4iVsW6_zOpR5MDrlBUjGIpBo-DQfI13uQxd4iL9zcDlJwAYB8gpjraia2nS9pewl78ygL4kg)
 * [MixGNN -- WWW 2021] [Mixup for node and graph classification](https://dl.acm.org/doi/pdf/10.1145/3442381.3449796)
 * [GraphMixup -- Arxiv 2022] [GraphMixup: Improving Class-Imbalanced Node Classification on Graphs by Self-supervised Context Prediction](https://arxiv.org/pdf/2106.11133.pdf)
-* [G-Mixup -- ICML 2022] [G-Mixup: Graph Data Augmentation for Graph Classification](https://arxiv.org/pdf/2202.07179)
+* [_G_-Mixup -- ICML 2022] [G-Mixup: Graph Data Augmentation for Graph Classification](https://arxiv.org/pdf/2202.07179)
 * [Graph Transplant -- MiniCon 2022] [Graph Transplant: Node Saliency-Guided Graph Mixup with Local Structure Preservation](https://www.aaai.org/AAAI22Papers/AAAI-11745.ParkJ.pdf)
 * [AugGCR -- IEEE Access] [Learning Augmentation for GNNs with Consistency Regularization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9535521)
 * [GraphSMOTE -- Arxiv 2022] [Synthetic Over-sampling for Imbalanced Node Classification with Graph Neural Networks](https://arxiv.org/pdf/2206.05335.pdf) [[code](https://github.com/TianxiangZhao/GraphSmote)]
