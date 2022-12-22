@@ -4,7 +4,7 @@ This repository contains a list of papers on the [A Survey of Mix-based Data Aug
  
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
 
-> [A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability](https://arxiv.org/abs/2212.10888)
+> [A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability](https://arxiv.org/abs/2212.10888)  
 > [Chengtai Cao](https://scholar.google.com/citations?user=BbsnLQYAAAAJ&hl=en), [Fan Zhou](https://scholar.google.com/citations?user=Ihj2Rw8AAAAJ&hl=en), [Yurou Dai](https://scholar.google.com/citations?user=PdnyfV0AAAAJ&hl=en&oi=ao), and [Jianping Wang](https://scholar.google.com/citations?user=bow_liAAAAAJ&hl=en&oi=ao)  
 > arXiv:2212.10888  
 
