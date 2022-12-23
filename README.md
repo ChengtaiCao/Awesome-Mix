@@ -233,4 +233,5 @@ This project is released under the [Apache 2.0 license](LICENSE).
 ## Related Project
 * [Awesome-Mixup](https://github.com/Westlake-AI/Awesome-Mixup)
 * [OpenMixup](https://github.com/Westlake-AI/openmixup)
+* [Awesome-Mixup](https://github.com/lionel-hing/Awesome-Mixup)
 * [awesome-mixup](https://github.com/demoleiwang/awesome-mixup)
