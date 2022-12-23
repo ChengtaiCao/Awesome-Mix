@@ -1,6 +1,6 @@
 # Awesome-Mix
 
-This repository contains a list of papers on the [A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability](https://arxiv.org/abs/2212.10888), we categorize them based on our proposed taxonomy.
+This repository contains a list of papers on the [A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability](https://arxiv.org/abs/2212.10888), and we categorize them based on our proposed taxonomy.
  
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
 
