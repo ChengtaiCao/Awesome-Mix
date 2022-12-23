@@ -227,7 +227,7 @@ We will try to make this list updated. If you found any error or any missed pape
 * [Uncertainty \& Calibration -- ICML 2022] [When and How Mixup Improves Calibration](https://proceedings.mlr.press/v162/zhang22f/zhang22f.pdf)
 * [Uncertainty \& Calibration -- NIPS 2019] [On Mixup Training: Improved Calibration and Predictive Uncertainty for Deep Neural Networks](https://proceedings.neurips.cc/paper/2019/file/36ad8b5f42db492827016448975cc22d-Paper.pdf)
 
-## License
+# License
 This project is released under the [Apache 2.0 license](LICENSE).
 
 # Related Project
