@@ -53,6 +53,7 @@ We will try to make this list updated. If you found any error or any missed pape
 * [XAI Mixup -- TKDD 2022] [Explainability-based Mixup Approach for Text Data Augmentation](https://dl.acm.org/doi/pdf/10.1145/3533048)
 * [TokenMixup -- Arxiv 2022] [TokenMixup: Efficient Attention-guided Token-level Data Augmentation for Transformers](https://arxiv.org/pdf/2210.07562.pdf) [[code](https://github.com/mlvlab/TokenMixup)]
 * [SciMix -- Arxiv 2022] [Swapping Semantic Contents for Mixing Images](https://arxiv.org/pdf/2205.10158.pdf)
+* [ISSA -- WACV 2023] [Intra-Source Style Augmentation for Improved Domain Generalization](https://arxiv.org/pdf/2210.10175.pdf)
 
 #### Diversity in Mixup
 * [BatchMixup -- IJCNLP 2021] [BatchMixup: Improving Training by Interpolating Hidden States of the Entire Mini-batch](https://aclanthology.org/2021.findings-acl.434.pdf)
@@ -167,12 +168,13 @@ We will try to make this list updated. If you found any error or any missed pape
 * [ACAI -- ICLR 2019] [Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer](https://arxiv.org/pdf/1807.07543.pdf) [[code](https://github.com/brain-research/acai)]
 * [AMR -- NIPS 2019] [On Adversarial Mixup Resynthesis](https://proceedings.neurips.cc/paper/2019/file/f708f064faaf32a43e4d3c784e6af9ea-Paper.pdf) [[code](https://github.com/christopher-beckham/amr)]
 
-### Domain Adaption
+### Domain Adaption & Domain Generalization
 * [VMT -- Arxiv 2019] [Virtual Mixup Training for Unsupervised Domain Adaptation](https://arxiv.org/pdf/1905.04215.pdf) [[code](https://github.com/xudonmao/VMT)]
 * [IIMT -- Arxiv 2020] [Improve Unsupervised Domain Adaptation with Mixup Training](https://arxiv.org/pdf/2001.00677)
 * [DM-ADA -- AAAI 2020] [Adversarial Domain Adaptation with Domain Mixup](https://ojs.aaai.org/index.php/AAAI/article/view/6123/5979)
 * [DMRL -- ECCV 2020] [Dual Mixup Regularized Learning for Adversarial Domain Adaptation](https://arxiv.org/pdf/2007.03141) [[code](https://github.com/YuanWu3/Dual-Mixup-Regularized-Learning-for-Adversarial-Domain-Adaptation)]
 * [SLM -- NIPS 2021] [Select, Label, and Mix: Learning Discriminative Invariant Feature Representations for Partial Domain Adaptation](https://arxiv.org/pdf/2012.03358) [[code](https://github.com/CVIR/Select-Label-Mix-SLM-PDA)]
+* [ISSA -- WACV 2023] [Intra-Source Style Augmentation for Improved Domain Generalization](https://arxiv.org/pdf/2210.10175.pdf)
 
 ### Natural Language Processing
 * [WordMixup & SenMixup -- Arxiv 2019] [Augmenting Data with Mixup for Sentence Classification: An Empirical Study](https://arxiv.org/pdf/1905.08941.pdf) 
